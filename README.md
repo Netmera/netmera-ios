@@ -3,7 +3,7 @@
 </p>
 
 ## Netmera iOS SDK
-[![CocoaPods](https://img.shields.io/cocoapods/v/Netmera.svg)](https://cocoapods.org/pods/netmera)[![Platform][PlatformBadge]][PlatformLink]
+[![CocoaPods](https://img.shields.io/cocoapods/v/Netmera.svg)](https://cocoapods.org/pods/netmera) [![Platform][PlatformBadge]][PlatformLink]
 
 ---
 

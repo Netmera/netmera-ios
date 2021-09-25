@@ -1,5 +1,3 @@
-# netmera-ios
-
 <p align="center">
   <img src="https://www.netmera.com/wp-content/uploads/2019/10/netmera_logo-1.png"/>
 </p>

@@ -3,7 +3,9 @@
 </p>
 
 ## Netmera iOS SDK
-[![CocoaPods](https://img.shields.io/cocoapods/v/Netmera.svg)](https://cocoapods.org/pods/netmera) [![Platform][PlatformBadge]][PlatformLink]
+[![Version](https://img.shields.io/cocoapods/v/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
+[![Platform](https://img.shields.io/cocoapods/p/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
+[![License](https://img.shields.io/cocoapods/l/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
 
 ---
 
@@ -93,6 +95,3 @@ support@netmera.com
 ## License
 
 Netmera is distributed under the Apache license. [See LICENSE](./LICENSE.md) for details.
-
-[PlatformBadge]: https://cocoapod-badges.herokuapp.com/p/Netmera/badge.png
-[PlatformLink]: https://cocoapods.org/pods/Netmera

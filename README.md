@@ -9,7 +9,7 @@
 
 [Netmera](https://www.netmera.com) iOS SDK for Netmera mobile app engagement platform
 
-Know & understand your app users, send them targeted push notification & popup campaigns, and analyze results with Netmera!\n\n  Netmera iOS SDK provides you set of tools to work seamlessly with Netmera User Engagement platform.\n\n  For details, please see https://netmera.readme.io/docs/ios-quickstart
+Know & understand your app users, send them targeted push notification & popup campaigns, and analyze results with Netmera! Netmera iOS SDK provides you set of tools to work seamlessly with Netmera User Engagement platform. For details, please see https://developer.netmera.com
 
 
 ## Installation

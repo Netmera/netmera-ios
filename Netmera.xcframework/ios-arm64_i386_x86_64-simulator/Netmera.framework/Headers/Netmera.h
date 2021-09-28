@@ -97,6 +97,10 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)setLogLevel:(NetmeraLogLevel)level;
 
++ (void)setFramework:(NSString *)framework;
+
++ (void)setFrameworkVersion:(NSString*)frameworkVersion;
+
 @end
 
 #pragma mark - Push Notification

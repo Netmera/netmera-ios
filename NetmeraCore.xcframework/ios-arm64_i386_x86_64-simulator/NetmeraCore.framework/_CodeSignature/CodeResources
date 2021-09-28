@@ -106,7 +106,7 @@
 		</data>
 		<key>Headers/NetmeraCore.h</key>
 		<data>
-		3I6RNiliixsHEFSfkUyqCje5SqU=
+		Eu7DzmGiW43nQFDFaEv2cVCmty4=
 		</data>
 		<key>Headers/NetmeraCrashEvent.h</key>
 		<data>
@@ -462,7 +462,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XrbUf4ljIpnzgj+D4vkQDFMqYjY=
+		fl9VlbYcvqgFG4FWCOXlNlW+ZKQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -750,11 +750,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3I6RNiliixsHEFSfkUyqCje5SqU=
+			Eu7DzmGiW43nQFDFaEv2cVCmty4=
 			</data>
 			<key>hash2</key>
 			<data>
-			3b6WiZfRugUDw1THPSG7oDC4wo0H3IWyEFHuDsAc0yg=
+			DJ38xgZk+CgShAqVgR+jVsEJxI+U7hH3JBoNBGZLh30=
 			</data>
 		</dict>
 		<key>Headers/NetmeraCrashEvent.h</key>

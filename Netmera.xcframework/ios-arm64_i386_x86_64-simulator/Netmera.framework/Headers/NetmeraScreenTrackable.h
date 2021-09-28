@@ -2,7 +2,7 @@
 //  NetmeraScreenTrackable.h
 //  Pods
 //
-//  Created by Netmera on 3.02.2021.
+//  Created by Muhammed Kılınç on 3.02.2021.
 //
 
 #ifndef NetmeraScreenTrackable_h

@@ -8,9 +8,13 @@
 		<data>
 		FgCxXSoUJjv/q2+TXiINH/C//Pc=
 		</data>
+		<key>Headers/NotificationContentExtension.h</key>
+		<data>
+		FofymV6QpjZiiVd675dusaJgVRE=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		RYYAzmviRjM3tt86RXRJnlMyxNU=
+		6uT0idOx+MTx74Vhjw1w/i6Eovc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -28,6 +32,17 @@
 			<key>hash2</key>
 			<data>
 			jIvBI7DZF0HdGvQ4pw+OACZxYU32W/bi/eXSVmXm68I=
+			</data>
+		</dict>
+		<key>Headers/NotificationContentExtension.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FofymV6QpjZiiVd675dusaJgVRE=
+			</data>
+			<key>hash2</key>
+			<data>
+			bpQVmYuYWUifxUA55GEhoPjiJWurPo5SLAz4DPyFUJg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

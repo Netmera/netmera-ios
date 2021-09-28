@@ -19,16 +19,18 @@
 #import <UIKit/UIKit.h>
 #import <WebKit/WebKit.h>
 
-#import <NetmeraCore/NetmeraCommonEvents.h>
-#import <NetmeraCore/NetmeraCommerceEvents.h>
-#import <NetmeraCore/NetmeraMediaEvents.h>
-
 #import <NetmeraCore/NetmeraLogLevel.h>
 #import <NetmeraCore/NetmeraEvent.h>
 #import <NetmeraCore/NetmeraInboxCategoryFilter.h>
 #import <NetmeraCore/NetmeraPushObject.h>
 #import <NetmeraCore/NetmeraInboxFilter.h>
 #import <NetmeraCore/NetmeraUser.h>
+
+//Events
+#import <NetmeraCore/NetmeraCommerceEvents.h>
+#import <NetmeraCore/NetmeraMediaEvents.h>
+#import <NetmeraCore/NetmeraInternalEvents.h>
+#import <NetmeraCore/NetmeraCommonEvents.h>
 
 #import <Netmera/NetmeraPushDelegate.h>
 #import <Netmera/NetmeraInbox.h>
@@ -295,6 +297,8 @@ NS_ASSUME_NONNULL_BEGIN
  corresponding attribute on user object.
  */
 + (void)updateUser:(__kindof NetmeraUser *)user;
+
++ (NSString *)getCurrentExternalId;
 
 @end
 

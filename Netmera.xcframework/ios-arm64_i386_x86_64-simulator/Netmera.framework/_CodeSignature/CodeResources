@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Netmera.h</key>
 		<data>
-		KO3fOjiWvTayb+g7MxoxwV3S0Hc=
+		gC5D8A6dubBexinyLQ31NJ4e/y8=
 		</data>
 		<key>Headers/NetmeraEncryptionProtocol.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Headers/NetmeraScreenTrackable.h</key>
 		<data>
-		6Zv4mcskGMClIH/aQKsoDuCCz90=
+		VpIVRDQd7fY2QQ743TUDFSn/8qg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fRlr96qaKdVDKWHu3a6+bH6hPCw=
+		K67JlCsCBFlCsRd/OSx0YrV12oQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KO3fOjiWvTayb+g7MxoxwV3S0Hc=
+			gC5D8A6dubBexinyLQ31NJ4e/y8=
 			</data>
 			<key>hash2</key>
 			<data>
-			FsyLu3yLbYgE8br5HxqfTOlAEdLPoAk4HPS7NAS7Bus=
+			RktmKanGMmA3V9FYJck+CuoWRK2JaU86aRvmZCVUI9Y=
 			</data>
 		</dict>
 		<key>Headers/NetmeraEncryptionProtocol.h</key>
@@ -98,11 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6Zv4mcskGMClIH/aQKsoDuCCz90=
+			VpIVRDQd7fY2QQ743TUDFSn/8qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			HoAWJfH7jzG7TfhIK/Ub0y8wCFu0+EkxfGtdSFezCHo=
+			y1/i0izcV2aWuXts4JAcsoMt3XTLj+om+PhRVAFk5Ac=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -2,7 +2,7 @@
 //  NotificationContentExtension.h
 //  NotificationContentExtension
 //
-//  Created by Muhammed Kılınç on 21.09.2021.
+//  Created by Netmera on 21.09.2021.
 //
 
 #import <Foundation/Foundation.h>

@@ -41,7 +41,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/Netmera/netmera-ios.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/netmera'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '10.0'
 
   s.dependency 'NetmeraCore'
   s.dependency 'MMWormhole', '~> 2.0.0'

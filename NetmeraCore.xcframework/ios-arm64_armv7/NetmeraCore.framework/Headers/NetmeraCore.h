@@ -2,7 +2,7 @@
 //  NetmeraCore.h
 //  NetmeraCore
 //
-//  Created by Muhammed Kılınç on 20.09.2021.
+//  Created by Netmera on 20.09.2021.
 //
 
 #import <Foundation/Foundation.h>

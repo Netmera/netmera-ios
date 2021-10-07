@@ -43,9 +43,9 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.frameworks = 'Foundation', 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreServices', 'CoreTelephony', 'CoreLocation', 'WatchConnectivity', 'WebKit', 'QuartzCore', 'OpenGLES'
+  s.frameworks = 'Foundation', 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreServices', 'CoreTelephony', 'CoreLocation', 'WebKit', 'QuartzCore', 'OpenGLES'
 
-  s.weak_frameworks = 'UserNotifications', 'AdSupport', 'AppTrackingTransparency', 'StoreKit'
+  s.weak_frameworks = 'UserNotifications', 'AppTrackingTransparency', 'StoreKit', 'WatchConnectivity'
   s.libraries   = 'sqlite3'
 
   s.dependency 'AFNetworking/NSURLSession'

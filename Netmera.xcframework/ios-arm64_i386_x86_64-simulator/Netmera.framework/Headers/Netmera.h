@@ -39,6 +39,14 @@
 #import <Netmera/NetmeraEncryptionProtocol.h>
 #import <Netmera/NetmeraScreenTrackable.h>
 
+#if !defined(__has_include)
+#error "Netmera.h won't import anything if your compiler doesn't support __has_include. Import the NetmeraAdId.h individually."
+#else
+#if __has_include(<NetmeraAdId/NetmeraAdId.h>)
+#import <NetmeraAdId/NetmeraAdId.h>
+#endif
+#endif
+
 //! Project version number for Netmera.
 FOUNDATION_EXPORT double NetmeraVersionNumber;
 

@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 
-	Know & understand your app users, send them targeted push notification & popup campaigns, and analyze results with Netmera!
+  Know & understand your app users, send them targeted push notification & popup campaigns, and analyze results with Netmera!
 
   Netmera iOS SDK provides you set of tools to work seamlessly with Netmera User Engagement platform.
 
@@ -48,12 +48,55 @@ Pod::Spec.new do |s|
   s.weak_frameworks = 'UserNotifications', 'AppTrackingTransparency', 'StoreKit', 'WatchConnectivity'
   s.libraries   = 'sqlite3'
 
-  s.dependency 'AFNetworking/NSURLSession'
-  s.dependency 'NetmeraCore'
-  s.dependency 'MMWormhole', '~> 2.0.0'
-  s.dependency 'FMDB'
-  s.dependency 'UICKeyChainStore', '~>2.0'
+  #  s.vendored_frameworks = 'Netmera.xcframework'
 
-  s.vendored_frameworks = 'Netmera.xcframework'
+  s.default_subspec = 'NetmeraWithAdId', 'Core'
+
+  s.subspec 'NetmeraWithAdId' do |ss|
+    ss.ios.deployment_target = '9.0'
+    ss.dependency 'Netmera/Application'
+    ss.dependency 'Netmera/AdIdSupport'
+    ss.frameworks = 'NetmeraAdId'
+  end
+
+  s.subspec 'NetmeraWithoutAdId' do |ss|
+    ss.ios.deployment_target = '9.0'
+    ss.dependency 'Netmera/Application'
+  end
+
+  s.subspec 'Application' do |ss|
+    ss.ios.deployment_target = '9.0'
+    ss.vendored_frameworks = 'Netmera.xcframework'
+    ss.dependency 'AFNetworking/NSURLSession'
+    ss.dependency 'Netmera/Core'
+    ss.dependency 'MMWormhole', '~> 2.0.0'
+    ss.dependency 'FMDB'
+    ss.dependency 'UICKeyChainStore', '~>2.0'
+  end
+
+ s.subspec 'Core' do |ss|
+   ss.ios.deployment_target = '9.0'
+   ss.vendored_frameworks = 'NetmeraCore.xcframework'
+ end
+
+  s.subspec 'AdIdSupport' do |ss|
+    ss.ios.deployment_target = '9.0'
+    ss.vendored_frameworks = 'NetmeraAdId.xcframework'
+  end
+
+  s.subspec 'NotificationContentExtension' do |ss|
+    ss.ios.deployment_target = '10.0'
+    # ss.dependency 'NetmeraCore'
+    ss.dependency 'MMWormhole', '~> 2.0.0'
+    ss.vendored_frameworks = 'NetmeraNotificationContentExtension.xcframework'
+  end
+
+  s.subspec 'NotificationServiceExtension' do |ss|
+    ss.ios.deployment_target = '10.0'
+    # ss.dependency 'NetmeraCore'
+    ss.vendored_frameworks = 'NetmeraNotificationServiceExtension.xcframework'
+  end
+
 
 end
+

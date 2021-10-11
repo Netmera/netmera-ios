@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Netmera'
-  s.version          = '3.14.2'
+  s.version          = '3.14.2-beta1'
   s.summary          = 'iOS SDK for Netmera mobile app engagement platform'
 
   s.description      = <<-DESC
@@ -47,8 +47,6 @@ Pod::Spec.new do |s|
 
   s.weak_frameworks = 'UserNotifications', 'AppTrackingTransparency', 'StoreKit', 'WatchConnectivity'
   s.libraries   = 'sqlite3'
-
-  #  s.vendored_frameworks = 'Netmera.xcframework'
 
   s.default_subspec = 'NetmeraWithAdId', 'Core'
 

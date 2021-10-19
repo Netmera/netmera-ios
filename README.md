@@ -33,15 +33,20 @@ pod "Netmera"
 For NotificationServiceExtension
 
 ```ruby
-pod "NetmeraNotificationServiceExtension"
+pod "Netmera/NotificationServiceExtension"
 ```
 
 For NotificationContentExtension
 
 ```ruby
-pod "NetmeraNotificationContentExtension"
+pod "Netmera/NotificationContentExtension"
 ```
 
+For Without AdId Support
+
+```ruby
+pod 'Netmera/NetmeraWithoutAdId'
+```
 
 ### Carthage
 // TODO: Feature

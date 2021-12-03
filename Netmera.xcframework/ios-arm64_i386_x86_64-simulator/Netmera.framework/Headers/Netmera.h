@@ -87,6 +87,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)setAPIKey:(nullable NSString *)APIKey;
 
++(NSString *)getAPIKey;
+
 /**
  @brief Changes base API URL to given URL string.
 

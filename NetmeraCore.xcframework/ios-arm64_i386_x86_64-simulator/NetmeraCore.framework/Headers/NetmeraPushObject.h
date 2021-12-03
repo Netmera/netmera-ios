@@ -21,7 +21,8 @@ typedef NS_ENUM(NSUInteger, NetmeraPushType) {
   NetmeraPushTypeInAppMessage = 10,
   NetmeraPushTypeRecall = 11,
   NetmeraPushTypeReview = 12,
-  NetmeraPushTypeForceUpdate = 13
+  NetmeraPushTypeForceUpdate = 13,
+  NetmeraPushTypeWebWidget = 14
 };
 
 typedef NS_ENUM(NSUInteger, NetmeraPushStyleType) {

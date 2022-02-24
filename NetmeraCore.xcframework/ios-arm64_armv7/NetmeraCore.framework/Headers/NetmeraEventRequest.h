@@ -6,7 +6,7 @@
 //
 //
 
-#import "NetmeraBaseRequest.h"
+#import <NetmeraCore/NetmeraBaseRequest.h>
 #import <NetmeraCore/NetmeraEventInternal.h>
 
 NS_ASSUME_NONNULL_BEGIN

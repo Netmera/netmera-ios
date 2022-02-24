@@ -24,7 +24,10 @@
 #import <NetmeraCore/NetmeraInboxCategoryFilter.h>
 #import <NetmeraCore/NetmeraPushObject.h>
 #import <NetmeraCore/NetmeraInboxFilter.h>
+#import <NetmeraCore/NetmeraInboxCountFilter.h>
 #import <NetmeraCore/NetmeraUser.h>
+#import <NetmeraCore/NetmeraUserCategoryPreference.h>
+#import <NetmeraCore/NetmeraInboxCountResponse.h>
 
 //Events
 #import <NetmeraCore/NetmeraCommerceEvents.h>
@@ -238,6 +241,10 @@ NS_ASSUME_NONNULL_BEGIN
                    completion:(void (^)(NetmeraInbox *inbox, NSError *error))completionBlock;
 
 
++ (void)fetchInboxCountWithFilter:(NetmeraInboxCountFilter *)filter
+                   completion:(void (^)(NetmeraInboxCountResponse * _Nullable response, NSError * _Nullable error))completionBlock;
+
+
 /**
  Update status of all push objects.
 
@@ -288,7 +295,7 @@ NS_ASSUME_NONNULL_BEGIN
  @param categories The list of category name  whose status will be updated.
  @param completionBlock Block to be called on update completion.
  */
-+ (void)updateStatus:(NetmeraInboxStatus)status byCategories:(NSArray<NSString *> *)categories completion:(void (^)(NSError *error))completionBlock;
++ (void)updateStatus:(NetmeraInboxStatus)status byCategories:(NSArray<NSString *> *)categories completion:(void (^)(NSError * _Nullable error))completionBlock;
 
 @end
 
@@ -309,6 +316,11 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)updateUser:(__kindof NetmeraUser *)user;
 
 + (NSString *)getCurrentExternalId;
+
++ (void)setUserCategoryPreferenceWithCategoryId:(int)categoryId categoryEnabled:(BOOL)categoryEnabled
+                                     completion:(void (^)(NSError * _Nullable error))completionBlock;
+
++ (void)getUserCategoryPreferenceListWithCompletion:(void (^)(NSArray<NetmeraUserCategoryPreference *> * _Nullable categories, NSError * _Nullable error))completionBlock;
 
 @end
 

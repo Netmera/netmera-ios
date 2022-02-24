@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/NetmeraAppConfig.h</key>
 		<data>
-		iUeqYufrvbBRYby37/z8LK/lWgw=
+		who1W3u5c3+SqcIYBBPF2Z6bag4=
 		</data>
 		<key>Headers/NetmeraAppConfigRequest.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/NetmeraBaseRequest.h</key>
 		<data>
-		DghnqFIU2MAVsX2Vmvw/qL6OVKg=
+		A+dYLUpQgT9tNhzyClfJ4DK2T4s=
 		</data>
 		<key>Headers/NetmeraBaseResponseModel.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Headers/NetmeraDeviceInfoRequest.h</key>
 		<data>
-		qHo2wjKSAVUZ6cY/tMzS72Jfb3M=
+		aKc/HTBBESt0Dg/K8GGMNBIgn1s=
 		</data>
 		<key>Headers/NetmeraDeviceInfoResponse.h</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Headers/NetmeraEnableAdIdRequest.h</key>
 		<data>
-		ss0nNiXaf1cehFB+86Hw7ttuc0I=
+		GuQg1yY94IW4OTO2q5dtMg79tvs=
 		</data>
 		<key>Headers/NetmeraEnablePushRequest.h</key>
 		<data>
@@ -152,17 +152,33 @@
 		<data>
 		WiDN3IqTy8fgglq/fFETNGk15XQ=
 		</data>
+		<key>Headers/NetmeraEventPermission.h</key>
+		<data>
+		Z1YbfqIQgWZly1SeTKbDmJ5/Fm0=
+		</data>
 		<key>Headers/NetmeraEventRequest.h</key>
 		<data>
-		TS0hcK79Z8LgBytVmZU8JLL1Oaw=
+		MxXbyKWBZQT0EeiQrobomyxcDEQ=
 		</data>
 		<key>Headers/NetmeraFetchInboxCategoryRequest.h</key>
 		<data>
 		ys6k29Au/pFYhhvIrrgaBLbaULU=
 		</data>
+		<key>Headers/NetmeraFetchInboxCountRequest.h</key>
+		<data>
+		4PlyHej7Po2x/xBtbYzNuOuNYg4=
+		</data>
 		<key>Headers/NetmeraFetchInboxRequest.h</key>
 		<data>
 		o4dYZVGsi/q0QWQCimFn2PXap8Y=
+		</data>
+		<key>Headers/NetmeraFetchUserCategoryRequest.h</key>
+		<data>
+		EE6SSj7KVtkAQlZZmnsxGpvzL6k=
+		</data>
+		<key>Headers/NetmeraFetchUserCategoryResponse.h</key>
+		<data>
+		KVmJm4wWep44SW17bLOmH5B0zv8=
 		</data>
 		<key>Headers/NetmeraGeofenceEvent.h</key>
 		<data>
@@ -211,6 +227,14 @@
 		<key>Headers/NetmeraInboxCategoryStatusObject.h</key>
 		<data>
 		xFxP62GGHTPz6AUxY8hfLz/xUKk=
+		</data>
+		<key>Headers/NetmeraInboxCountFilter.h</key>
+		<data>
+		13vFRMa3ctoYx+uhfke10DT/Yi8=
+		</data>
+		<key>Headers/NetmeraInboxCountResponse.h</key>
+		<data>
+		8CkW1eRAnqqglb2dASsadrvEQUs=
 		</data>
 		<key>Headers/NetmeraInboxFilter.h</key>
 		<data>
@@ -366,11 +390,11 @@
 		</data>
 		<key>Headers/NetmeraRequests.h</key>
 		<data>
-		Ebp0uY4igeAcw/Nhtimvagm1TtM=
+		HzrPxpw1lcuPkkvFM/VTUAJDtz0=
 		</data>
 		<key>Headers/NetmeraResponse.h</key>
 		<data>
-		xu/UOjaBYvbODuvSPR9mX5yrlp8=
+		+xdLzEXlzAs28n82lWY9I7oN9E4=
 		</data>
 		<key>Headers/NetmeraReviewAction.h</key>
 		<data>
@@ -403,6 +427,10 @@
 		<key>Headers/NetmeraSetInboxStatusRequest.h</key>
 		<data>
 		hhaDDHS+HwvpLH27aGxhjhMLSoA=
+		</data>
+		<key>Headers/NetmeraSetUserCategoryRequest.h</key>
+		<data>
+		loO/pRB/wyA6GL1ZFIHvp6sgSAU=
 		</data>
 		<key>Headers/NetmeraShareAction.h</key>
 		<data>
@@ -439,6 +467,10 @@
 		<key>Headers/NetmeraUser.h</key>
 		<data>
 		b56QLO57EfuND97MhovMDhmNj0A=
+		</data>
+		<key>Headers/NetmeraUserCategoryPreference.h</key>
+		<data>
+		exTEV6JHgj2Q/O4mivZs25UboQM=
 		</data>
 		<key>Headers/NetmeraUserNotificationAction.h</key>
 		<data>
@@ -508,11 +540,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iUeqYufrvbBRYby37/z8LK/lWgw=
+			who1W3u5c3+SqcIYBBPF2Z6bag4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mvpq+VWoSqdEQKrkINYlhE8AienTa8U39Fyy1ivDsoQ=
+			XPq1tmgsjc22RKvEYObLTfgNbRBsRFxCn20aDyv74TY=
 			</data>
 		</dict>
 		<key>Headers/NetmeraAppConfigRequest.h</key>
@@ -607,11 +639,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DghnqFIU2MAVsX2Vmvw/qL6OVKg=
+			A+dYLUpQgT9tNhzyClfJ4DK2T4s=
 			</data>
 			<key>hash2</key>
 			<data>
-			FMUwb7lvrh065dDRZnQk83RI+UcS+vHXCPPObxRfegc=
+			QxFfxYcdNQlktrMvUwGeCNmpSjEUycFgj8qEfH6LTX0=
 			</data>
 		</dict>
 		<key>Headers/NetmeraBaseResponseModel.h</key>
@@ -783,11 +815,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qHo2wjKSAVUZ6cY/tMzS72Jfb3M=
+			aKc/HTBBESt0Dg/K8GGMNBIgn1s=
 			</data>
 			<key>hash2</key>
 			<data>
-			NDSyqEdCiuX13eMy3ihOUTTxtDycafrMg7pq4KSkX14=
+			7tfzcnx1/dsYhEnnVji8k67maXxsCBbotbl+9EHbcwc=
 			</data>
 		</dict>
 		<key>Headers/NetmeraDeviceInfoResponse.h</key>
@@ -827,11 +859,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ss0nNiXaf1cehFB+86Hw7ttuc0I=
+			GuQg1yY94IW4OTO2q5dtMg79tvs=
 			</data>
 			<key>hash2</key>
 			<data>
-			usc5vqqJdKHqD/cSk4NHXVMYyE6rOEI3ar5kLAF9hjo=
+			vBlzXerq+YxeBNwEuIwDXA5PmAvXNQa8DpogOfv/Unc=
 			</data>
 		</dict>
 		<key>Headers/NetmeraEnablePushRequest.h</key>
@@ -878,15 +910,26 @@
 			4StHhLKB3LH2oMldxNJNatI0XblIWzu45P9nbc1DiH4=
 			</data>
 		</dict>
+		<key>Headers/NetmeraEventPermission.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z1YbfqIQgWZly1SeTKbDmJ5/Fm0=
+			</data>
+			<key>hash2</key>
+			<data>
+			OKyXc1+sn2svBQIMXBRLf0UsqRHNEuHm5mbxxho9PjI=
+			</data>
+		</dict>
 		<key>Headers/NetmeraEventRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TS0hcK79Z8LgBytVmZU8JLL1Oaw=
+			MxXbyKWBZQT0EeiQrobomyxcDEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VYvoAT4gymkNj1xgTkwP7iuLMi2mpR1boq2kawui/jc=
+			i/A6xkucuiqRvgZx1cZ+umNq6f/YcUyqGMFFYNPsOOE=
 			</data>
 		</dict>
 		<key>Headers/NetmeraFetchInboxCategoryRequest.h</key>
@@ -900,6 +943,17 @@
 			fdR/uhvk6R9cSd5bpxllUNrtqoAiQVsysmR5nI/xezE=
 			</data>
 		</dict>
+		<key>Headers/NetmeraFetchInboxCountRequest.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4PlyHej7Po2x/xBtbYzNuOuNYg4=
+			</data>
+			<key>hash2</key>
+			<data>
+			QiAIYa+TpvfX/1Mirv04xySwuorfthyWeCdxmTGsXio=
+			</data>
+		</dict>
 		<key>Headers/NetmeraFetchInboxRequest.h</key>
 		<dict>
 			<key>hash</key>
@@ -909,6 +963,28 @@
 			<key>hash2</key>
 			<data>
 			oGuR6nV6RXfKHZ+YxNH+WtStwLVIWEd2xL1ZEaie4p8=
+			</data>
+		</dict>
+		<key>Headers/NetmeraFetchUserCategoryRequest.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EE6SSj7KVtkAQlZZmnsxGpvzL6k=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZeyrpSNoDQfKKENcN0NyH//h8T+DLoZA6qtoLzEKsIE=
+			</data>
+		</dict>
+		<key>Headers/NetmeraFetchUserCategoryResponse.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KVmJm4wWep44SW17bLOmH5B0zv8=
+			</data>
+			<key>hash2</key>
+			<data>
+			eWt+OukTm7u804E0y3OFfSTuRQ/danN2M0p0T3V9f9I=
 			</data>
 		</dict>
 		<key>Headers/NetmeraGeofenceEvent.h</key>
@@ -1041,6 +1117,28 @@
 			<key>hash2</key>
 			<data>
 			aVN9EY7pFvZ6JoYx6+zgZ+zP1A3bRpLy2lQa+qo/GOM=
+			</data>
+		</dict>
+		<key>Headers/NetmeraInboxCountFilter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			13vFRMa3ctoYx+uhfke10DT/Yi8=
+			</data>
+			<key>hash2</key>
+			<data>
+			p9Vp32PFeXefGjZw9vQIEc+iXhwRFDx1lm054iF3Npg=
+			</data>
+		</dict>
+		<key>Headers/NetmeraInboxCountResponse.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8CkW1eRAnqqglb2dASsadrvEQUs=
+			</data>
+			<key>hash2</key>
+			<data>
+			TMxRqAXN8eEGFqv4un6hVE40vKFbDCtk9hJ0zUHB7I8=
 			</data>
 		</dict>
 		<key>Headers/NetmeraInboxFilter.h</key>
@@ -1465,22 +1563,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ebp0uY4igeAcw/Nhtimvagm1TtM=
+			HzrPxpw1lcuPkkvFM/VTUAJDtz0=
 			</data>
 			<key>hash2</key>
 			<data>
-			2MeaIfJYOmT/rmT+uosE73m1DQnPHbGvA2aliCOce8A=
+			iUjTwVleuDzRtksqli/urgLWWBrM5qMg9mkgwfFe1qs=
 			</data>
 		</dict>
 		<key>Headers/NetmeraResponse.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xu/UOjaBYvbODuvSPR9mX5yrlp8=
+			+xdLzEXlzAs28n82lWY9I7oN9E4=
 			</data>
 			<key>hash2</key>
 			<data>
-			12YRtXXbUEwMhnlGm4hHOSqRi/GWeBJOT931fR41sPI=
+			boMwF6bvPd5Juk9G6BVv0skHaRffq+ERE/SMSRBVNRI=
 			</data>
 		</dict>
 		<key>Headers/NetmeraReviewAction.h</key>
@@ -1569,6 +1667,17 @@
 			<key>hash2</key>
 			<data>
 			X4bWZgaZGCa9UTcJQlBFpA2WO+j8AwHDsUBX3zrdUJY=
+			</data>
+		</dict>
+		<key>Headers/NetmeraSetUserCategoryRequest.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			loO/pRB/wyA6GL1ZFIHvp6sgSAU=
+			</data>
+			<key>hash2</key>
+			<data>
+			iYuj5m2y/6KFPvs2zs4rHOAXG4O69Pl8fSmhQHZ8AWU=
 			</data>
 		</dict>
 		<key>Headers/NetmeraShareAction.h</key>
@@ -1668,6 +1777,17 @@
 			<key>hash2</key>
 			<data>
 			T0Qisvqj0nYYwEcpe+tXGZdXk/DvPjmoHf2aFPuWj7g=
+			</data>
+		</dict>
+		<key>Headers/NetmeraUserCategoryPreference.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			exTEV6JHgj2Q/O4mivZs25UboQM=
+			</data>
+			<key>hash2</key>
+			<data>
+			64Xwcd8q9AGrvBkgEqaJchPtrt38+dxK8WFXGAgB9pY=
 			</data>
 		</dict>
 		<key>Headers/NetmeraUserNotificationAction.h</key>

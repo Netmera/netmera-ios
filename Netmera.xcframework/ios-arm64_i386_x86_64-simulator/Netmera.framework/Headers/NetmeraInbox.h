@@ -46,7 +46,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (NSUInteger)countForStatus:(NetmeraInboxStatus)status;
 
-
 /**
  @brief Fetch the contents of the next page from Netmera servers.
  

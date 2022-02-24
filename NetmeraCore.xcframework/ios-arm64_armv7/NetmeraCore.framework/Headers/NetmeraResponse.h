@@ -15,5 +15,6 @@
 #import <NetmeraCore/NetmeraInitSessionResponse.h>
 #import <NetmeraCore/NetmeraIdentifyUserResponse.h>
 #import <NetmeraCore/NetmeraIdentifyUserResponse.h>
+#import <NetmeraCore/NetmeraInboxCountResponse.h>
 
 #endif /* NetmeraResponse_h */

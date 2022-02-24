@@ -8,6 +8,7 @@
 
 #import <NetmeraCore/NetmeraBaseModel.h>
 #import <NetmeraCore/NetmeraUIAction.h>
+#import <NetmeraCore/NetmeraEventPermission.h>
 
 @class NetmeraUserNotificationCategory;
 @interface NetmeraAppConfig : NetmeraBaseModel
@@ -32,6 +33,9 @@
 @property (nonatomic, assign) BOOL shouldTrackException;
 @property (nonatomic, assign) BOOL isTestUser;
 @property (nonatomic, assign) NSTimeInterval eventPostTimeInterval;
+@property (nonatomic, strong) NSString *appKey;
+@property (nonatomic, assign) NetmeraEventPermission eventPermission;
+@property (nonatomic, assign) BOOL offlineEventPermission;
 
 @end
 

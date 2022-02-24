@@ -25,11 +25,14 @@ typedef NS_ENUM(NSUInteger, NetmeraRequestPath) {
   NetmeraRequestPathUpdateDevice,
   NetmeraRequestPathFetchInbox,
   NetmeraRequestPathFetchInboxCategory,
+  NetmeraRequestPathFetchInboxCount,
   NetmeraRequestPathSetInboxStatus,
   NetmeraRequestPathAddTestDevice,
   NetmeraRequestPathDeviceInfo,
   NetmeraRequestPathEnableAdId,
   NetmeraRequestPathDisableAdId,
+  NetmeraRequestPathFetchCategoryOptIn,
+  NetmeraRequestPathSetCategoryPreference,
 };
 
 NSString *NetmeraRequestPathStringForType(NetmeraRequestPath type);

@@ -5,7 +5,7 @@
 //  Created by inomera on 20.10.2020.
 //
 
-#import "NetmeraBaseRequest.h"
+#import <NetmeraCore/NetmeraBaseRequest.h>
 
 @class NetmeraAppAllDeviceInfo;
 

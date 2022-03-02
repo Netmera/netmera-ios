@@ -1,0 +1,2681 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode-13.1.Release.Candidate.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
+/Users/vagrant/Library/Developer/Xcode/DerivedData/NetmeraApp-awmhjmrkgqhymycanxuklqrbvunz/Build/Intermediates.noindex/ArchiveIntermediates/Netmera/IntermediateBuildFilesPath/Netmera.build/Release-iphoneos/Netmera.build/DerivedSources/Netmera_vers.c
+/Users/vagrant/git/Netmera
++[NetmeraExceptionManager sharedInstance]
+___41+[NetmeraExceptionManager sharedInstance]_block_invoke
+___copy_helper_block_e4_
+___destroy_helper_block_e4_
+-[NetmeraExceptionManager init]
+-[NetmeraExceptionManager dealloc]
+-[NetmeraExceptionManager startCrashReporting]
+-[NetmeraExceptionManager stopCrashReporting]
+-[NetmeraExceptionManager installNSExceptionHandler]
+-[NetmeraExceptionManager uninstallNSExceptionHandler]
+-[NetmeraExceptionManager recordException:]
+-[NetmeraExceptionManager netmera_handleUncaughtException:isFatal:]
+-[NetmeraExceptionManager binaryImagesForStackTrace:]
+-[NetmeraExceptionManager backupOriginalHandler]
+-[NetmeraExceptionManager signalRegister]
+-[NetmeraExceptionManager customCrashLogs]
+-[NetmeraExceptionManager setCustomCrashLogs:]
+-[NetmeraExceptionManager buildUUID]
+-[NetmeraExceptionManager setBuildUUID:]
+-[NetmeraExceptionManager executableName]
+-[NetmeraExceptionManager setExecutableName:]
+-[NetmeraExceptionManager defaultExceptionHandler]
+-[NetmeraExceptionManager setDefaultExceptionHandler:]
+-[NetmeraExceptionManager .cxx_destruct]
+_sharedInstance.s_sharedInstance
+_sharedInstance.onceToken
+_OBJC_SELECTOR_REFERENCES_
+___block_descriptor_24_e4__e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_CLASSLIST_REFERENCES_$_.48
+_OBJC_SELECTOR_REFERENCES_.50
+_UncaughtExceptionCount
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_CLASSLIST_REFERENCES_$_.63
+_OBJC_CLASSLIST_REFERENCES_$_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_CLASSLIST_REFERENCES_$_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_CLASSLIST_REFERENCES_$_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_CLASSLIST_REFERENCES_$_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_CLASSLIST_REFERENCES_$_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_CLASSLIST_REFERENCES_$_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_CLASSLIST_REFERENCES_$_.200
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_CLASSLIST_REFERENCES_$_.203
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_CLASSLIST_REFERENCES_$_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.222
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_CLASSLIST_REFERENCES_$_.229
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_CLASSLIST_REFERENCES_$_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.244
+_OBJC_SELECTOR_REFERENCES_.246
+_previousABRTSignalHandler
+_previousBUSSignalHandler
+_previousFPESignalHandler
+_previousILLSignalHandler
+_previousPIPESignalHandler
+_previousSEGVSignalHandler
+_previousSYSSignalHandler
+_previousTRAPSignalHandler
+_OBJC_CLASSLIST_REFERENCES_$_.249
+_OBJC_SELECTOR_REFERENCES_.253
+__OBJC_$_CLASS_METHODS_NetmeraExceptionManager
+__OBJC_METACLASS_RO_$_NetmeraExceptionManager
+__OBJC_$_INSTANCE_METHODS_NetmeraExceptionManager
+_OBJC_IVAR_$_NetmeraExceptionManager._customCrashLogs
+_OBJC_IVAR_$_NetmeraExceptionManager._buildUUID
+_OBJC_IVAR_$_NetmeraExceptionManager._executableName
+_OBJC_IVAR_$_NetmeraExceptionManager._defaultExceptionHandler
+__OBJC_$_INSTANCE_VARIABLES_NetmeraExceptionManager
+__OBJC_$_PROP_LIST_NetmeraExceptionManager
+__OBJC_CLASS_RO_$_NetmeraExceptionManager
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/NetmeraExceptionManager.m
+Netmera/ScreenTracking/NetmeraExceptionManager.m
+previousSignalHandler
+signalName
+NetmeraSignalHandler
+NetmeraSignalRegister
+llvm.loop.mustprogress
+NetmeraExceptionHandler
+NetmeraClearSignalRegister
+NetmeraUncaughtExceptionHandler
+__destroy_helper_block_e4_
+__copy_helper_block_e4_
+__41+[NetmeraExceptionManager sharedInstance]_block_invoke
+/Applications/Xcode-13.1.Release.Candidate.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/dispatch/once.h
+-[UITableView(Tracking) netmera_setDelegate:]
++[UITableView(Tracking) swizzle]
+___32+[UITableView(Tracking) swizzle]_block_invoke
++[UITableView(Tracking) unSwizzle]
+___34+[UITableView(Tracking) unSwizzle]_block_invoke
+-[UITableView(Tracking) netmera_swizzleDidSelectRowAtIndexPathMethodWithDelegate:]
+_netmera_tableViewDidSelectRow
+_OBJC_SELECTOR_REFERENCES_.2
+_swizzle.onceToken
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_CLASSLIST_REFERENCES_$_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.22
+_unSwizzle.onceToken
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UITableView_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_UITableView_$_Tracking
+__OBJC_$_CATEGORY_UITableView_$_Tracking
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_CLASSLIST_REFERENCES_$_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_CLASSLIST_REFERENCES_$_.58
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UITableView+Tracking.m
+netmera_tableViewDidSelectRow
+Netmera/ScreenTracking/UITableView+Tracking.m
+__34+[UITableView(Tracking) unSwizzle]_block_invoke
+__32+[UITableView(Tracking) swizzle]_block_invoke
+-[UISlider(ActionTracking) getActionWithSelector:]
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_SELECTOR_REFERENCES_.9
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UISlider_$_ActionTracking
+__OBJC_$_CATEGORY_UISlider_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UISlider+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UISlider+ActionTracking.m
+-[NetmeraWebVC initWithAction:webViewDelegate:pushObject:]
+-[NetmeraWebVC viewDidLoad]
+-[NetmeraWebVC viewWillAppear:]
+-[NetmeraWebVC viewDidAppear:]
+-[NetmeraWebVC configureBackgroundButton]
+-[NetmeraWebVC configureBlur]
+-[NetmeraWebVC configureWebView]
+-[NetmeraWebVC userContentController:didReceiveScriptMessage:]
+-[NetmeraWebVC configureCloseButton]
+-[NetmeraWebVC loadWebViewData]
+-[NetmeraWebVC handleTap:]
+-[NetmeraWebVC autoClose:]
+-[NetmeraWebVC webView]
+-[NetmeraWebVC setWebView:]
+-[NetmeraWebVC webViewDelegate]
+-[NetmeraWebVC setWebViewDelegate:]
+-[NetmeraWebVC action]
+-[NetmeraWebVC setAction:]
+-[NetmeraWebVC pushObject]
+-[NetmeraWebVC setPushObject:]
+-[NetmeraWebVC shouldDismiss]
+-[NetmeraWebVC setShouldDismiss:]
+-[NetmeraWebVC .cxx_destruct]
+___clang_at_available_requires_core_foundation_framework
+_OBJC_IVAR_$_NetmeraWebVC._action
+_OBJC_IVAR_$_NetmeraWebVC._pushObject
+_OBJC_IVAR_$_NetmeraWebVC._webViewDelegate
+_OBJC_IVAR_$_NetmeraWebVC._shouldDismiss
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_CLASSLIST_REFERENCES_$_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_CLASSLIST_REFERENCES_$_.65
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_OBJC_CLASSLIST_REFERENCES_$_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_CLASSLIST_REFERENCES_$_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_CLASSLIST_REFERENCES_$_.127
+_OBJC_CLASSLIST_REFERENCES_$_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_CLASSLIST_REFERENCES_$_.155
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_CLASSLIST_REFERENCES_$_.178
+_OBJC_CLASSLIST_REFERENCES_$_.196
+_OBJC_CLASSLIST_REFERENCES_$_.197
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_CLASSLIST_REFERENCES_$_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_CLASSLIST_REFERENCES_$_.213
+_OBJC_CLASSLIST_REFERENCES_$_.214
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_SELECTOR_REFERENCES_.220
+_OBJC_CLASSLIST_REFERENCES_$_.225
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_IVAR_$_NetmeraWebVC._webView
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_WKNavigationDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_WKNavigationDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_WKNavigationDelegate
+__OBJC_PROTOCOL_$_WKNavigationDelegate
+__OBJC_LABEL_PROTOCOL_$_WKNavigationDelegate
+__OBJC_$_PROTOCOL_REFS_WKScriptMessageHandler
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_WKScriptMessageHandler
+__OBJC_$_PROTOCOL_METHOD_TYPES_WKScriptMessageHandler
+__OBJC_PROTOCOL_$_WKScriptMessageHandler
+__OBJC_LABEL_PROTOCOL_$_WKScriptMessageHandler
+__OBJC_CLASS_PROTOCOLS_$_NetmeraWebVC
+__OBJC_METACLASS_RO_$_NetmeraWebVC
+__OBJC_$_INSTANCE_METHODS_NetmeraWebVC
+__OBJC_$_INSTANCE_VARIABLES_NetmeraWebVC
+__OBJC_$_PROP_LIST_NetmeraWebVC
+__OBJC_CLASS_RO_$_NetmeraWebVC
+/Users/vagrant/git/Netmera/Netmera/View/NetmeraWebVC.m
+Netmera/View/NetmeraWebVC.m
+-[UIControl(ActionTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIControl_$_ActionTracking
+__OBJC_$_CATEGORY_UIControl_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UIControl+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UIControl+ActionTracking.m
+-[NetmeraStateManager initWithStore:application:]
+-[NetmeraStateManager identifiers]
+-[NetmeraStateManager identifiersInternal]
+-[NetmeraStateManager saveIdentifiers]
+-[NetmeraStateManager setUserId:]
+-[NetmeraStateManager setFlowId:]
+-[NetmeraStateManager setExternalId:]
+-[NetmeraStateManager externalId]
+-[NetmeraStateManager setPushId:setInstanceId:]
+-[NetmeraStateManager changedAdvertisingId]
+-[NetmeraStateManager changedAppDeviceInfoValues]
+-[NetmeraStateManager appConfig]
+-[NetmeraStateManager setAppConfig:]
+-[NetmeraStateManager appConfigVersion]
+-[NetmeraStateManager appKey]
+-[NetmeraStateManager deviceToken]
+-[NetmeraStateManager setDeviceToken:]
+-[NetmeraStateManager storedPopup]
+-[NetmeraStateManager setStoredPopup:]
+-[NetmeraStateManager storedInAppMessage]
+-[NetmeraStateManager setStoredInAppMessage:]
+-[NetmeraStateManager failedToMonitorRegions]
+-[NetmeraStateManager setFailedToMonitorRegions:]
+-[NetmeraStateManager failedToAuthorizeLocation]
+-[NetmeraStateManager setFailedToAuthorizeLocation:]
+-[NetmeraStateManager pushReceivingStatusForSystem]
+-[NetmeraStateManager setPushReceivingStatusForSystem:]
+-[NetmeraStateManager authorizationAdIdStatusForSystem]
+-[NetmeraStateManager setAuthorizationAdIdStatusForSystem:]
+-[NetmeraStateManager authorizationAdIdStatusForApp]
+-[NetmeraStateManager setAuthorizationAdIdStatusForApp:]
+-[NetmeraStateManager pushSettings]
+-[NetmeraStateManager setPushSettings:]
+-[NetmeraStateManager pushReceivingStatusForApp]
+-[NetmeraStateManager setPushReceivingStatusForApp:]
+-[NetmeraStateManager locationAuthorizationStatus]
+-[NetmeraStateManager setLocationAuthorizationStatus:]
+-[NetmeraStateManager setStoredUserAgent:]
+-[NetmeraStateManager storedUserAgent]
+-[NetmeraStateManager hasAlreadyLaunched]
+-[NetmeraStateManager setHasAlreadyLaunched:]
+-[NetmeraStateManager cleanPushIdIfExpired]
+-[NetmeraStateManager cleanFlowIdIfExpired]
+-[NetmeraStateManager applicationWillEnterForeground]
+-[NetmeraStateManager applicationDidEnterBackground]
+-[NetmeraStateManager setIdentifiersInternal:]
+-[NetmeraStateManager pushIdSaveDate]
+-[NetmeraStateManager setPushIdSaveDate:]
+-[NetmeraStateManager flowIdSaveDate]
+-[NetmeraStateManager setFlowIdSaveDate:]
+-[NetmeraStateManager lastLocationString]
+-[NetmeraStateManager setLastLocationString:]
+-[NetmeraStateManager store]
+-[NetmeraStateManager setStore:]
+-[NetmeraStateManager application]
+-[NetmeraStateManager setApplication:]
+-[NetmeraStateManager backgroundDate]
+-[NetmeraStateManager setBackgroundDate:]
+-[NetmeraStateManager .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_CLASSLIST_REFERENCES_$_.77
+_OBJC_CLASSLIST_REFERENCES_$_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_CLASSLIST_REFERENCES_$_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_CLASSLIST_REFERENCES_$_.141
+_OBJC_CLASSLIST_REFERENCES_$_.158
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+__OBJC_METACLASS_RO_$_NetmeraStateManager
+__OBJC_$_INSTANCE_METHODS_NetmeraStateManager
+_OBJC_IVAR_$_NetmeraStateManager._failedToAuthorizeLocation
+_OBJC_IVAR_$_NetmeraStateManager._failedToMonitorRegions
+_OBJC_IVAR_$_NetmeraStateManager._hasAlreadyLaunched
+_OBJC_IVAR_$_NetmeraStateManager._appConfig
+_OBJC_IVAR_$_NetmeraStateManager._identifiers
+_OBJC_IVAR_$_NetmeraStateManager._pushIdSaveDate
+_OBJC_IVAR_$_NetmeraStateManager._deviceToken
+_OBJC_IVAR_$_NetmeraStateManager._storedPopup
+_OBJC_IVAR_$_NetmeraStateManager._storedInAppMessage
+_OBJC_IVAR_$_NetmeraStateManager._pushReceivingStatusForApp
+_OBJC_IVAR_$_NetmeraStateManager._pushReceivingStatusForSystem
+_OBJC_IVAR_$_NetmeraStateManager._pushSettings
+_OBJC_IVAR_$_NetmeraStateManager._locationAuthorizationStatus
+_OBJC_IVAR_$_NetmeraStateManager._storedUserAgent
+_OBJC_IVAR_$_NetmeraStateManager._flowIdSaveDate
+_OBJC_IVAR_$_NetmeraStateManager._authorizationAdIdStatusForApp
+_OBJC_IVAR_$_NetmeraStateManager._authorizationAdIdStatusForSystem
+_OBJC_IVAR_$_NetmeraStateManager._lastLocationString
+_OBJC_IVAR_$_NetmeraStateManager._store
+_OBJC_IVAR_$_NetmeraStateManager._application
+_OBJC_IVAR_$_NetmeraStateManager._backgroundDate
+__OBJC_$_INSTANCE_VARIABLES_NetmeraStateManager
+__OBJC_$_PROP_LIST_NetmeraStateManager
+__OBJC_CLASS_RO_$_NetmeraStateManager
+/Users/vagrant/git/Netmera/Netmera/StateManager/NetmeraStateManager.m
+Netmera/StateManager/NetmeraStateManager.m
+Netmera/StateManager/NetmeraStateManager.h
+-[NetmeraNotificationSettings initWithNotificationSettings:]
+-[NetmeraNotificationSettings initWithUserNotificationSettings:]
++[NetmeraNotificationSettings keyPathPropertySelectorMapping]
+-[NetmeraNotificationSettings authorizationStatus]
+-[NetmeraNotificationSettings setAuthorizationStatus:]
+-[NetmeraNotificationSettings lockScreenSetting]
+-[NetmeraNotificationSettings setLockScreenSetting:]
+-[NetmeraNotificationSettings badgeSetting]
+-[NetmeraNotificationSettings setBadgeSetting:]
+-[NetmeraNotificationSettings soundSetting]
+-[NetmeraNotificationSettings setSoundSetting:]
+-[NetmeraNotificationSettings alertSetting]
+-[NetmeraNotificationSettings setAlertSetting:]
+-[NetmeraNotificationSettings notificationCenterSetting]
+-[NetmeraNotificationSettings setNotificationCenterSetting:]
+-[NetmeraNotificationSettings alertStyle]
+-[NetmeraNotificationSettings setAlertStyle:]
+-[NetmeraNotificationSettings carPlaySetting]
+-[NetmeraNotificationSettings setCarPlaySetting:]
+_OBJC_IVAR_$_NetmeraNotificationSettings._lockScreenSetting
+_OBJC_IVAR_$_NetmeraNotificationSettings._badgeSetting
+_OBJC_IVAR_$_NetmeraNotificationSettings._soundSetting
+_OBJC_IVAR_$_NetmeraNotificationSettings._alertSetting
+_OBJC_IVAR_$_NetmeraNotificationSettings._carPlaySetting
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_IVAR_$_NetmeraNotificationSettings._notificationCenterSetting
+_OBJC_IVAR_$_NetmeraNotificationSettings._authorizationStatus
+_OBJC_IVAR_$_NetmeraNotificationSettings._alertStyle
+__OBJC_$_CLASS_METHODS_NetmeraNotificationSettings
+__OBJC_METACLASS_RO_$_NetmeraNotificationSettings
+__OBJC_$_INSTANCE_METHODS_NetmeraNotificationSettings
+__OBJC_$_INSTANCE_VARIABLES_NetmeraNotificationSettings
+__OBJC_$_PROP_LIST_NetmeraNotificationSettings
+__OBJC_CLASS_RO_$_NetmeraNotificationSettings
+/Users/vagrant/git/Netmera/Netmera/Push/NetmeraNotificationSettings.m
+Netmera/Push/NetmeraNotificationSettings.h
+Netmera/Push/NetmeraNotificationSettings.m
+-[NetmeraPushManager initWithApplication:requestSender:stateManager:actionPerformer:UIPresenter:]
+-[NetmeraPushManager setAppGroupName:]
+-[NetmeraPushManager performLaunchOperations]
+-[NetmeraPushManager performViewOperations]
+-[NetmeraPushManager requestAuthorizationForTypes:categories:]
+-[NetmeraPushManager registerCategoriesIfAuthorizedBefore:]
+-[NetmeraPushManager setPushReceivingStatus:forSource:]
+-[NetmeraPushManager setPushSettings:]
+-[NetmeraPushManager pushReceivingStatusForSource:]
+-[NetmeraPushManager pushSettings]
+-[NetmeraPushManager updatePushReceivingStatus:onServerForSource:]
+-[NetmeraPushManager updatePushSettings:]
+-[NetmeraPushManager registerPushNotificationsWithDeviceToken:]
+-[NetmeraPushManager setAllowedToPresentPopup:]
+-[NetmeraPushManager setAllowedToPresentInAppMessage:]
+-[NetmeraPushManager setRecentPushObject:]
+-[NetmeraPushManager setRecentPushObject:actionIdentifier:inputText:]
+-[NetmeraPushManager handleUserTriggeredPushObject:]
+-[NetmeraPushManager handleUserTriggeredInteractiveAction:forPushObject:]
+-[NetmeraPushManager notifyForPushPresentation:]
+-[NetmeraPushManager presentPush:]
+-[NetmeraPushManager presentPushIfNeeded:]
+-[NetmeraPushManager performActionForPush:]
+-[NetmeraPushManager handleConfigUpdatePush:]
+-[NetmeraPushManager performActionForPopupPush:]
+-[NetmeraPushManager handlePopupPush:]
+___38-[NetmeraPushManager handlePopupPush:]_block_invoke
+___copy_helper_block_e4_20s24s
+___destroy_helper_block_e4_20s24s
+-[NetmeraPushManager handlePopupPushIfNeeded]
+-[NetmeraPushManager performActionForInAppMessagePush:]
+-[NetmeraPushManager handleInAppMessagePush:]
+___45-[NetmeraPushManager handleInAppMessagePush:]_block_invoke
+-[NetmeraPushManager handleRecallPush:]
+___39-[NetmeraPushManager handleRecallPush:]_block_invoke
+___copy_helper_block_e4_20s
+___destroy_helper_block_e4_20s
+-[NetmeraPushManager handleReviewPush:]
+-[NetmeraPushManager handleInAppMessagePushIfNeeded]
+-[NetmeraPushManager handleDefaultPush:]
+-[NetmeraPushManager didReceiveRemoteNotification:]
+-[NetmeraPushManager handleActionWithIdentifier:inputText:forRemoteNotification:completionHandler:]
+-[NetmeraPushManager application:didRegisterForRemoteNotificationsWithDeviceToken:]
+-[NetmeraPushManager application:didFailToRegisterForRemoteNotificationsWithError:]
+-[NetmeraPushManager application:didRegisterUserNotificationSettings:]
+-[NetmeraPushManager application:didReceiveRemoteNotification:]
+-[NetmeraPushManager application:didReceiveRemoteNotification:fetchCompletionHandler:]
+-[NetmeraPushManager application:handleActionWithIdentifier:forRemoteNotification:completionHandler:]
+-[NetmeraPushManager application:handleActionWithIdentifier:forRemoteNotification:withResponseInfo:completionHandler:]
+-[NetmeraPushManager userNotificationCenter:didReceiveNotificationResponse:withCompletionHandler:]
+-[NetmeraPushManager userNotificationCenter:willPresentNotification:withCompletionHandler:]
+-[NetmeraPushManager isNotificationBelongToSDK:]
+-[NetmeraPushManager unreadPushCountDidChange:]
+-[NetmeraPushManager didTapViewForPushObject:]
+-[NetmeraPushManager didTapInteractiveButtonAtIndex:forPushObject:]
+-[NetmeraPushManager applicationWillEnterForeground:]
+-[NetmeraPushManager userDidUpdateNotificationAuthorizationStatus]
+-[NetmeraPushManager typeForNotificationPayload:]
+-[NetmeraPushManager sendPushDismissEventForPushObject:]
+-[NetmeraPushManager sendPushOpenedEventForPushObject:]
+-[NetmeraPushManager sendPopupShownEventForPushObject:]
+-[NetmeraPushManager hexadecimalStringFromData:]
+-[NetmeraPushManager badgeCount]
+-[NetmeraPushManager setBadgeCount:]
+-[NetmeraPushManager notificationCenter]
+-[NetmeraPushManager setForCategories:]
+-[NetmeraPushManager allowedToPresentPopup]
+-[NetmeraPushManager allowedToPresentInAppMessage]
+-[NetmeraPushManager appGroupName]
+-[NetmeraPushManager recentPushObject]
+-[NetmeraPushManager pushDelegate]
+-[NetmeraPushManager setPushDelegate:]
+-[NetmeraPushManager application]
+-[NetmeraPushManager setApplication:]
+-[NetmeraPushManager requestSender]
+-[NetmeraPushManager setRequestSender:]
+-[NetmeraPushManager stateManager]
+-[NetmeraPushManager setStateManager:]
+-[NetmeraPushManager actionPerformer]
+-[NetmeraPushManager setActionPerformer:]
+-[NetmeraPushManager UIPresenter]
+-[NetmeraPushManager setUIPresenter:]
+-[NetmeraPushManager notificationCenterDelegate]
+-[NetmeraPushManager setNotificationCenterDelegate:]
+-[NetmeraPushManager presentationCompletionHandler]
+-[NetmeraPushManager setPresentationCompletionHandler:]
+-[NetmeraPushManager traditionalWormhole]
+-[NetmeraPushManager setTraditionalWormhole:]
+-[NetmeraPushManager .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_CLASSLIST_REFERENCES_$_.32
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_CLASSLIST_REFERENCES_$_.39
+_OBJC_CLASSLIST_REFERENCES_$_.42
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_CLASSLIST_REFERENCES_$_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_CLASSLIST_REFERENCES_$_.160
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.194
+___block_descriptor_28_e4_20s24s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_CLASSLIST_REFERENCES_$_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_CLASSLIST_REFERENCES_$_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+___block_descriptor_24_e4_20s_e16_v8?0"NSArray"4l
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_CLASSLIST_REFERENCES_$_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.258
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.268
+_OBJC_SELECTOR_REFERENCES_.270
+_OBJC_SELECTOR_REFERENCES_.272
+_OBJC_SELECTOR_REFERENCES_.274
+_OBJC_SELECTOR_REFERENCES_.276
+_OBJC_SELECTOR_REFERENCES_.280
+_OBJC_SELECTOR_REFERENCES_.286
+_OBJC_SELECTOR_REFERENCES_.290
+_OBJC_SELECTOR_REFERENCES_.292
+_OBJC_SELECTOR_REFERENCES_.296
+_OBJC_CLASSLIST_REFERENCES_$_.297
+_OBJC_SELECTOR_REFERENCES_.299
+_OBJC_SELECTOR_REFERENCES_.301
+_OBJC_SELECTOR_REFERENCES_.303
+_OBJC_SELECTOR_REFERENCES_.305
+_OBJC_SELECTOR_REFERENCES_.307
+_OBJC_SELECTOR_REFERENCES_.309
+_OBJC_SELECTOR_REFERENCES_.311
+_OBJC_SELECTOR_REFERENCES_.313
+_OBJC_SELECTOR_REFERENCES_.315
+_OBJC_SELECTOR_REFERENCES_.317
+_OBJC_SELECTOR_REFERENCES_.319
+_OBJC_SELECTOR_REFERENCES_.321
+_OBJC_SELECTOR_REFERENCES_.323
+_OBJC_SELECTOR_REFERENCES_.325
+_OBJC_CLASSLIST_REFERENCES_$_.328
+_OBJC_CLASSLIST_REFERENCES_$_.331
+_OBJC_SELECTOR_REFERENCES_.333
+_OBJC_CLASSLIST_REFERENCES_$_.334
+_OBJC_SELECTOR_REFERENCES_.336
+_OBJC_SELECTOR_REFERENCES_.338
+_OBJC_SELECTOR_REFERENCES_.342
+_OBJC_SELECTOR_REFERENCES_.344
+_OBJC_SELECTOR_REFERENCES_.346
+_OBJC_SELECTOR_REFERENCES_.348
+_OBJC_CLASSLIST_REFERENCES_$_.351
+_OBJC_SELECTOR_REFERENCES_.353
+_OBJC_CLASSLIST_REFERENCES_$_.354
+_OBJC_SELECTOR_REFERENCES_.358
+_OBJC_CLASSLIST_REFERENCES_$_.359
+_OBJC_CLASSLIST_REFERENCES_$_.360
+_OBJC_CLASSLIST_REFERENCES_$_.363
+_OBJC_SELECTOR_REFERENCES_.365
+_OBJC_SELECTOR_REFERENCES_.371
+_OBJC_SELECTOR_REFERENCES_.373
+_OBJC_SELECTOR_REFERENCES_.375
+_OBJC_SELECTOR_REFERENCES_.377
+_OBJC_SELECTOR_REFERENCES_.379
+_OBJC_SELECTOR_REFERENCES_.381
+_OBJC_SELECTOR_REFERENCES_.387
+_OBJC_SELECTOR_REFERENCES_.389
+_OBJC_SELECTOR_REFERENCES_.393
+__OBJC_$_PROTOCOL_REFS_NetmeraUIPresenterDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraUIPresenterDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraUIPresenterDelegate
+__OBJC_PROTOCOL_$_NetmeraUIPresenterDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraUIPresenterDelegate
+__OBJC_$_PROTOCOL_REFS_NetmeraApplicationDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraApplicationDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraApplicationDelegate
+__OBJC_PROTOCOL_$_NetmeraApplicationDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraApplicationDelegate
+__OBJC_$_PROTOCOL_REFS_UNUserNotificationCenterDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UNUserNotificationCenterDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UNUserNotificationCenterDelegate
+__OBJC_PROTOCOL_$_UNUserNotificationCenterDelegate
+__OBJC_LABEL_PROTOCOL_$_UNUserNotificationCenterDelegate
+__OBJC_$_PROTOCOL_REFS_UIApplicationDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIApplicationDelegate
+__OBJC_$_PROP_LIST_UIApplicationDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIApplicationDelegate
+__OBJC_PROTOCOL_$_UIApplicationDelegate
+__OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+__OBJC_$_PROTOCOL_REFS_NetmeraUIApplicationDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraUIApplicationDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraUIApplicationDelegate
+__OBJC_PROTOCOL_$_NetmeraUIApplicationDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraUIApplicationDelegate
+__OBJC_$_PROTOCOL_REFS_NetmeraInboxDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraInboxDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraInboxDelegate
+__OBJC_PROTOCOL_$_NetmeraInboxDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraInboxDelegate
+__OBJC_CLASS_PROTOCOLS_$_NetmeraPushManager
+__OBJC_METACLASS_RO_$_NetmeraPushManager
+__OBJC_$_INSTANCE_METHODS_NetmeraPushManager
+_OBJC_IVAR_$_NetmeraPushManager._allowedToPresentPopup
+_OBJC_IVAR_$_NetmeraPushManager._allowedToPresentInAppMessage
+_OBJC_IVAR_$_NetmeraPushManager._appGroupName
+_OBJC_IVAR_$_NetmeraPushManager._recentPushObject
+_OBJC_IVAR_$_NetmeraPushManager._pushDelegate
+_OBJC_IVAR_$_NetmeraPushManager._application
+_OBJC_IVAR_$_NetmeraPushManager._requestSender
+_OBJC_IVAR_$_NetmeraPushManager._stateManager
+_OBJC_IVAR_$_NetmeraPushManager._actionPerformer
+_OBJC_IVAR_$_NetmeraPushManager._UIPresenter
+_OBJC_IVAR_$_NetmeraPushManager._notificationCenterDelegate
+_OBJC_IVAR_$_NetmeraPushManager._presentationCompletionHandler
+_OBJC_IVAR_$_NetmeraPushManager._traditionalWormhole
+__OBJC_$_INSTANCE_VARIABLES_NetmeraPushManager
+__OBJC_$_PROP_LIST_NetmeraPushManager
+__OBJC_CLASS_RO_$_NetmeraPushManager
+/Users/vagrant/git/Netmera/Netmera/Push/NetmeraPushManager.m
+Netmera/Push/NetmeraPushManager.m
+Netmera/Push/NetmeraPushManager.h
+__destroy_helper_block_e4_20s
+__copy_helper_block_e4_20s
+__39-[NetmeraPushManager handleRecallPush:]_block_invoke
+__45-[NetmeraPushManager handleInAppMessagePush:]_block_invoke
+__destroy_helper_block_e4_20s24s
+__copy_helper_block_e4_20s24s
+__38-[NetmeraPushManager handlePopupPush:]_block_invoke
+-[UIPickerView(Tracking) netmera_setDelegate:]
++[UIPickerView(Tracking) swizzle]
+___33+[UIPickerView(Tracking) swizzle]_block_invoke
++[UIPickerView(Tracking) unSwizzle]
+___35+[UIPickerView(Tracking) unSwizzle]_block_invoke
+-[UIPickerView(Tracking) netmera_swizzleDidSelectItemAtIndexPathMethodWithDelegate:]
+_netmera_pickerViewDidSelectRow
+___block_descriptor_20_e5_v4?0l
+___block_literal_global
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_CLASSLIST_REFERENCES_$_.10
+_OBJC_CLASSLIST_REFERENCES_$_.13
+___block_literal_global.25
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIPickerView_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_UIPickerView_$_Tracking
+__OBJC_$_CATEGORY_UIPickerView_$_Tracking
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_CLASSLIST_REFERENCES_$_.52
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIPickerView+Tracking.m
+netmera_pickerViewDidSelectRow
+Netmera/ScreenTracking/UIPickerView+Tracking.m
+__35+[UIPickerView(Tracking) unSwizzle]_block_invoke
+__33+[UIPickerView(Tracking) swizzle]_block_invoke
+-[NetmeraUserDefaultsStore init]
+-[NetmeraUserDefaultsStore objectForKey:]
+-[NetmeraUserDefaultsStore saveObject:forKey:]
+-[NetmeraUserDefaultsStore isStoreObjectExpired:]
+-[NetmeraUserDefaultsStore expirationTimeInterval]
+-[NetmeraUserDefaultsStore setExpirationTimeInterval:]
+_OBJC_CLASSLIST_REFERENCES_$_.20
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_CLASSLIST_REFERENCES_$_.40
+_OBJC_CLASSLIST_REFERENCES_$_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+__OBJC_$_PROTOCOL_REFS_NetmeraKeyValueStoreProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraKeyValueStoreProtocol
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraKeyValueStoreProtocol
+__OBJC_PROTOCOL_$_NetmeraKeyValueStoreProtocol
+__OBJC_LABEL_PROTOCOL_$_NetmeraKeyValueStoreProtocol
+__OBJC_CLASS_PROTOCOLS_$_NetmeraUserDefaultsStore
+__OBJC_METACLASS_RO_$_NetmeraUserDefaultsStore
+__OBJC_$_INSTANCE_METHODS_NetmeraUserDefaultsStore
+_OBJC_IVAR_$_NetmeraUserDefaultsStore._expirationTimeInterval
+__OBJC_$_INSTANCE_VARIABLES_NetmeraUserDefaultsStore
+__OBJC_$_PROP_LIST_NetmeraUserDefaultsStore
+__OBJC_CLASS_RO_$_NetmeraUserDefaultsStore
+/Users/vagrant/git/Netmera/Netmera/Cache/NetmeraUserDefaultsStore.m
+Netmera/Cache/NetmeraUserDefaultsStore.h
+Netmera/Cache/NetmeraUserDefaultsStore.m
+-[NetmeraWindow hitTest:withEvent:]
+-[NetmeraUIPresenter initWithApplication:]
+-[NetmeraUIPresenter rootVC]
+-[NetmeraUIPresenter setRootVC:]
+-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]
+___77-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]_block_invoke
+___77-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]_block_invoke.89
+___77-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]_block_invoke_2
+___77-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]_block_invoke.101
+-[NetmeraUIPresenter presentViewForInAppMessageObject:]
+___55-[NetmeraUIPresenter presentViewForInAppMessageObject:]_block_invoke
+___55-[NetmeraUIPresenter presentViewForInAppMessageObject:]_block_invoke_2
+___55-[NetmeraUIPresenter presentViewForInAppMessageObject:]_block_invoke_3
+___55-[NetmeraUIPresenter presentViewForInAppMessageObject:]_block_invoke_4
+-[NetmeraUIPresenter presentViewForPushObject:style:]
+-[NetmeraUIPresenter presentViewForPushObject:]
+-[NetmeraUIPresenter presentBannerForPushObject:]
+___49-[NetmeraUIPresenter presentBannerForPushObject:]_block_invoke
+___49-[NetmeraUIPresenter presentBannerForPushObject:]_block_invoke_2
+___copy_helper_block_e4_20s24w
+___destroy_helper_block_e4_20s24w
+___49-[NetmeraUIPresenter presentBannerForPushObject:]_block_invoke.145
+___49-[NetmeraUIPresenter presentBannerForPushObject:]_block_invoke_2.146
+-[NetmeraUIPresenter presentAlertForPushObject:]
+___48-[NetmeraUIPresenter presentAlertForPushObject:]_block_invoke
+___48-[NetmeraUIPresenter presentAlertForPushObject:]_block_invoke.177
+___copy_helper_block_e4_20b24s
+-[NetmeraUIPresenter presentAlertWithTitle:message:]
+-[NetmeraUIPresenter didRequestDismiss:]
+-[NetmeraUIPresenter didAutoDismiss:]
+-[NetmeraUIPresenter didRequestDismiss:completion:]
+___51-[NetmeraUIPresenter didRequestDismiss:completion:]_block_invoke
+___51-[NetmeraUIPresenter didRequestDismiss:completion:]_block_invoke_2
+___copy_helper_block_e4_20s24s28b
+___destroy_helper_block_e4_20s24s28s
+-[NetmeraUIPresenter didRequestFullPresentation:]
+___49-[NetmeraUIPresenter didRequestFullPresentation:]_block_invoke
+___49-[NetmeraUIPresenter didRequestFullPresentation:]_block_invoke_2
+-[NetmeraUIPresenter didTap:pushObject:]
+___40-[NetmeraUIPresenter didTap:pushObject:]_block_invoke
+-[NetmeraUIPresenter didTap:pushObject:buttonAtIndex:]
+___54-[NetmeraUIPresenter didTap:pushObject:buttonAtIndex:]_block_invoke
+-[NetmeraUIPresenter didRequestOpenURL:url:]
+-[NetmeraUIPresenter didRequestDeeplink:url:]
+-[NetmeraUIPresenter configureSettings]
+-[NetmeraUIPresenter delegate]
+-[NetmeraUIPresenter setDelegate:]
+-[NetmeraUIPresenter application]
+-[NetmeraUIPresenter setApplication:]
+-[NetmeraUIPresenter window]
+-[NetmeraUIPresenter setWindow:]
+-[NetmeraUIPresenter settings]
+-[NetmeraUIPresenter setSettings:]
+-[NetmeraUIPresenter pushObject]
+-[NetmeraUIPresenter setPushObject:]
+-[NetmeraUIPresenter cancelButtonRadius]
+-[NetmeraUIPresenter setCancelButtonRadius:]
+-[NetmeraUIPresenter bottomPaddingRatio]
+-[NetmeraUIPresenter setBottomPaddingRatio:]
+-[NetmeraUIPresenter .cxx_destruct]
+__OBJC_METACLASS_RO_$_NetmeraWindow
+__OBJC_$_INSTANCE_METHODS_NetmeraWindow
+__OBJC_CLASS_RO_$_NetmeraWindow
+_OBJC_CLASSLIST_REFERENCES_$_.18
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_CLASSLIST_REFERENCES_$_.56
+_OBJC_CLASSLIST_REFERENCES_$_.70
+_OBJC_CLASSLIST_REFERENCES_$_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_CLASSLIST_REFERENCES_$_.96
+___block_descriptor_24_e4_20s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.103
+___block_descriptor_28_e4_20s24s_e7_v8?0c4l
+_OBJC_CLASSLIST_REFERENCES_$_.107
+_OBJC_CLASSLIST_REFERENCES_$_.134
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+___block_descriptor_28_e4_20s24w_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_CLASSLIST_REFERENCES_$_.149
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.166
+___block_descriptor_24_e4_20s_e29_v12?0"NetmeraPushObject"4i8l
+_OBJC_CLASSLIST_REFERENCES_$_.172
+___block_descriptor_32_e4_20bs24s_e22_v8?0"UIAlertAction"4l
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+___block_descriptor_32_e4_20s24s28bs_e7_v8?0c4l
+___block_descriptor_20_e7_v8?0c4l
+___block_descriptor_32_e4_20s24s_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.209
+_OBJC_CLASSLIST_REFERENCES_$_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.239
+__OBJC_$_PROTOCOL_REFS_NetmeraBaseVCDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraBaseVCDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraBaseVCDelegate
+__OBJC_PROTOCOL_$_NetmeraBaseVCDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraBaseVCDelegate
+__OBJC_$_PROTOCOL_REFS_NetmeraPushVCDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraPushVCDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraPushVCDelegate
+__OBJC_PROTOCOL_$_NetmeraPushVCDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraPushVCDelegate
+__OBJC_$_PROTOCOL_REFS_NetmeraInAppMessageVCDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraInAppMessageVCDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraInAppMessageVCDelegate
+__OBJC_PROTOCOL_$_NetmeraInAppMessageVCDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraInAppMessageVCDelegate
+__OBJC_$_PROTOCOL_REFS_NetmeraWebVCDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraWebVCDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraWebVCDelegate
+__OBJC_PROTOCOL_$_NetmeraWebVCDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraWebVCDelegate
+__OBJC_CLASS_PROTOCOLS_$_NetmeraUIPresenter
+__OBJC_METACLASS_RO_$_NetmeraUIPresenter
+__OBJC_$_INSTANCE_METHODS_NetmeraUIPresenter
+_OBJC_IVAR_$_NetmeraUIPresenter._rootVC
+_OBJC_IVAR_$_NetmeraUIPresenter._delegate
+_OBJC_IVAR_$_NetmeraUIPresenter._application
+_OBJC_IVAR_$_NetmeraUIPresenter._window
+_OBJC_IVAR_$_NetmeraUIPresenter._settings
+_OBJC_IVAR_$_NetmeraUIPresenter._pushObject
+_OBJC_IVAR_$_NetmeraUIPresenter._cancelButtonRadius
+_OBJC_IVAR_$_NetmeraUIPresenter._bottomPaddingRatio
+__OBJC_$_INSTANCE_VARIABLES_NetmeraUIPresenter
+__OBJC_$_PROP_LIST_NetmeraUIPresenter
+__OBJC_CLASS_RO_$_NetmeraUIPresenter
+/Users/vagrant/git/Netmera/Netmera/Push/NetmeraUIPresenter.m
+Netmera/Push/NetmeraUIPresenter.m
+Netmera/Push/NetmeraUIPresenter.h
+__54-[NetmeraUIPresenter didTap:pushObject:buttonAtIndex:]_block_invoke
+__40-[NetmeraUIPresenter didTap:pushObject:]_block_invoke
+__49-[NetmeraUIPresenter didRequestFullPresentation:]_block_invoke_2
+__49-[NetmeraUIPresenter didRequestFullPresentation:]_block_invoke
+__destroy_helper_block_e4_20s24s28s
+__copy_helper_block_e4_20s24s28b
+__51-[NetmeraUIPresenter didRequestDismiss:completion:]_block_invoke_2
+__51-[NetmeraUIPresenter didRequestDismiss:completion:]_block_invoke
+__copy_helper_block_e4_20b24s
+__48-[NetmeraUIPresenter presentAlertForPushObject:]_block_invoke.177
+__48-[NetmeraUIPresenter presentAlertForPushObject:]_block_invoke
+__49-[NetmeraUIPresenter presentBannerForPushObject:]_block_invoke_2.146
+__49-[NetmeraUIPresenter presentBannerForPushObject:]_block_invoke.145
+__destroy_helper_block_e4_20s24w
+__copy_helper_block_e4_20s24w
+__49-[NetmeraUIPresenter presentBannerForPushObject:]_block_invoke_2
+__49-[NetmeraUIPresenter presentBannerForPushObject:]_block_invoke
+__55-[NetmeraUIPresenter presentViewForInAppMessageObject:]_block_invoke_4
+__55-[NetmeraUIPresenter presentViewForInAppMessageObject:]_block_invoke_3
+__55-[NetmeraUIPresenter presentViewForInAppMessageObject:]_block_invoke_2
+__55-[NetmeraUIPresenter presentViewForInAppMessageObject:]_block_invoke
+__77-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]_block_invoke.101
+__77-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]_block_invoke_2
+__77-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]_block_invoke.89
+__77-[NetmeraUIPresenter presentViewForWebViewAction:webViewDelegate:pushObject:]_block_invoke
+-[NetmeraRequestSender initWithNetworkRequestor:stateManager:]
+-[NetmeraRequestSender sendEvent:]
+-[NetmeraRequestSender sendCrashReportEvent:]
+-[NetmeraRequestSender sendInitSessionRequest]
+-[NetmeraRequestSender sendAppConfigRequest]
+-[NetmeraRequestSender sendUpdateUserRequestWithUser:]
+-[NetmeraRequestSender sendUpdateDeviceRequestWithAdvertisingId:]
+-[NetmeraRequestSender sendRegisterPushRequestWithDeviceToken:]
+-[NetmeraRequestSender sendEnablePushRequestWithSource:]
+-[NetmeraRequestSender sendDisablePushRequestWithSource:]
+-[NetmeraRequestSender sendEnableAdIdRequest:]
+-[NetmeraRequestSender sendDisableAdIdRequest:]
+-[NetmeraRequestSender sendFetchInboxRequestWithFilter:completion:]
+-[NetmeraRequestSender sendFetchInboxCountRequestWithFilter:completion:]
+-[NetmeraRequestSender sendSetInboxStatusRequestWithPushObjects:status:completion:]
+-[NetmeraRequestSender sendSetInboxStatusRequestWithCategories:status:completion:]
+-[NetmeraRequestSender sendSetInboxStatusRequestForAllObjectWithStatus:completion:]
+-[NetmeraRequestSender sendFetchInboxCategoryRequestWithFilter:completion:]
+-[NetmeraRequestSender sendAddTestDeviceRequestWithParams:completion:]
+-[NetmeraRequestSender sendDeviceInfoRequestWithDeviceInfo:completion:]
+-[NetmeraRequestSender sendSetUserCategoryPreferenceWithCategoryId:categoryEnabled:completion:]
+-[NetmeraRequestSender sendGetUserCategoryWithCompletion:]
+-[NetmeraRequestSender stateManager]
+-[NetmeraRequestSender setStateManager:]
+-[NetmeraRequestSender networkRequestor]
+-[NetmeraRequestSender setNetworkRequestor:]
+-[NetmeraRequestSender .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_CLASSLIST_REFERENCES_$_.36
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_CLASSLIST_REFERENCES_$_.45
+_OBJC_CLASSLIST_REFERENCES_$_.54
+_OBJC_CLASSLIST_REFERENCES_$_.57
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_CLASSLIST_REFERENCES_$_.76
+_OBJC_CLASSLIST_REFERENCES_$_.78
+_OBJC_CLASSLIST_REFERENCES_$_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_CLASSLIST_REFERENCES_$_.103
+_OBJC_CLASSLIST_REFERENCES_$_.104
+_OBJC_CLASSLIST_REFERENCES_$_.110
+__OBJC_$_PROTOCOL_REFS_NetmeraEventSender
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraEventSender
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraEventSender
+__OBJC_PROTOCOL_$_NetmeraEventSender
+__OBJC_LABEL_PROTOCOL_$_NetmeraEventSender
+__OBJC_CLASS_PROTOCOLS_$_NetmeraRequestSender
+__OBJC_METACLASS_RO_$_NetmeraRequestSender
+__OBJC_$_INSTANCE_METHODS_NetmeraRequestSender
+_OBJC_IVAR_$_NetmeraRequestSender._stateManager
+_OBJC_IVAR_$_NetmeraRequestSender._networkRequestor
+__OBJC_$_INSTANCE_VARIABLES_NetmeraRequestSender
+__OBJC_$_PROP_LIST_NetmeraRequestSender
+__OBJC_CLASS_RO_$_NetmeraRequestSender
+/Users/vagrant/git/Netmera/Netmera/RequestSender/NetmeraRequestSender.m
+Netmera/RequestSender/NetmeraRequestSender.m
++[NetmeraAsset closeImageData]
+__OBJC_$_CLASS_METHODS_NetmeraAsset
+__OBJC_METACLASS_RO_$_NetmeraAsset
+__OBJC_CLASS_RO_$_NetmeraAsset
+/Users/vagrant/git/Netmera/Netmera/View/NetmeraAsset.m
+Netmera/View/NetmeraAsset.m
+-[UIPickerView(ActionTracking) getActionWithSelector:row:component:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIPickerView_$_ActionTracking
+__OBJC_$_CATEGORY_UIPickerView_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UIPickerView+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UIPickerView+ActionTracking.m
+-[Netmera UIApplication]
+-[Netmera initWithCreatingInternalObjects]
+-[Netmera dealloc]
++[Netmera instance]
++[Netmera setInstance:]
++[Netmera start]
+___16+[Netmera start]_block_invoke
++[Netmera setAPIKey:]
++[Netmera getAPIKey]
++[Netmera setBaseURL:]
++[Netmera setFramework:]
++[Netmera setFrameworkVersion:]
++[Netmera setLogLevel:]
+-[Netmera request:didReceiveResponse:withError:]
+-[Netmera handleInitSessionResponse:forRequest:]
+-[Netmera handleAppConfigResponse:]
+-[Netmera handleIdentifyUserResponse:]
+-[Netmera loadUserAgent]
+___24-[Netmera loadUserAgent]_block_invoke
+___24-[Netmera loadUserAgent]_block_invoke_2
+-[Netmera debugDescription]
+-[Netmera attributedDebugDescription]
+-[Netmera application]
+-[Netmera setApplication:]
+-[Netmera appDelegate]
+-[Netmera setAppDelegate:]
+-[Netmera requestSender]
+-[Netmera setRequestSender:]
+-[Netmera networkManager]
+-[Netmera setNetworkManager:]
+-[Netmera stateManager]
+-[Netmera setStateManager:]
+-[Netmera UIPresenter]
+-[Netmera setUIPresenter:]
+-[Netmera actionManager]
+-[Netmera setActionManager:]
+-[Netmera pushManager]
+-[Netmera setPushManager:]
+-[Netmera locationManager]
+-[Netmera setLocationManager:]
+-[Netmera batteryManager]
+-[Netmera setBatteryManager:]
+-[Netmera screenTrackingManager]
+-[Netmera setScreenTrackingManager:]
+-[Netmera inAppPurchaseManager]
+-[Netmera setInAppPurchaseManager:]
+-[Netmera userAgentCollector]
+-[Netmera setUserAgentCollector:]
+-[Netmera advertisingManager]
+-[Netmera setAdvertisingManager:]
+-[Netmera isTurnedOffSendingEventAndUserRequest]
+-[Netmera setIsTurnedOffSendingEventAndUserRequest:]
+-[Netmera .cxx_destruct]
++[Netmera(PushNotification) setPushDelegate:]
++[Netmera(PushNotification) recentPushObject]
++[Netmera(PushNotification) handlePushObject:]
++[Netmera(PushNotification) handleInteractiveAction:forPushObject:]
++[Netmera(PushNotification) setAppGroupName:]
++[Netmera(PushNotification) loadWebViewContentInWebView:]
++[Netmera(PushNotification) requestPushNotificationAuthorizationForTypes:]
++[Netmera(PushNotification) setEnabledReceivingPushNotifications:]
++[Netmera(PushNotification) isEnabledReceivingPushNotifications]
++[Netmera(PushNotification) setEnabledPopupPresentation:]
++[Netmera(PushNotification) enablePopupPresentation]
++[Netmera(PushNotification) disablePopupPresentation]
++[Netmera(PushNotification) setEnabledInAppMessagePresentation:]
++[Netmera(PushNotification) enableInAppMessagePresentation]
++[Netmera(PushNotification) disableInAppMessagePresentation]
++[Netmera(Location) requestLocationAuthorization]
++[Netmera(Location) setNetmeraMaxActiveRegions:]
+-[Netmera(Inbox) inboxWithFilter:]
++[Netmera(Inbox) fetchInboxCountWithFilter:completion:]
++[Netmera(Inbox) fetchInboxUsingFilter:completion:]
+___51+[Netmera(Inbox) fetchInboxUsingFilter:completion:]_block_invoke
++[Netmera(Inbox) updateStatus:forAllWithCompletion:]
+___52+[Netmera(Inbox) updateStatus:forAllWithCompletion:]_block_invoke
+___copy_helper_block_e4_20b
+-[Netmera(InboxCategory) inboxCategoryWithFilter:]
++[Netmera(InboxCategory) fetchInboxCategoryUsingFilter:completion:]
+___67+[Netmera(InboxCategory) fetchInboxCategoryUsingFilter:completion:]_block_invoke
++[Netmera(InboxCategory) updateStatus:byCategories:completion:]
+___63+[Netmera(InboxCategory) updateStatus:byCategories:completion:]_block_invoke
++[Netmera(User) updateUser:]
++[Netmera(User) getCurrentExternalId]
++[Netmera(User) setUserCategoryPreferenceWithCategoryId:categoryEnabled:completion:]
+___84+[Netmera(User) setUserCategoryPreferenceWithCategoryId:categoryEnabled:completion:]_block_invoke
++[Netmera(User) getUserCategoryPreferenceListWithCompletion:]
+___61+[Netmera(User) getUserCategoryPreferenceListWithCompletion:]_block_invoke
++[Netmera(Event) sendEvent:]
++[Netmera(Event) sendCrashReportEvent:]
++[Netmera(Event) setEncyptor:]
++[Netmera(KVK) turnOffSendingEventAndUserUpdate]
++[Netmera(Exception) handleException:]
++[Netmera(Advertising) requestTrackingAuthorization]
++[Netmera(Advertising) setAuthorizedAdvertisingIdentifier:]
++[Netmera(Advertising) isAuthorizedAdvertisingIdentifier]
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_CLASSLIST_REFERENCES_$_.43
+___instance
+_start.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.86
+_OBJC_CLASSLIST_REFERENCES_$_.106
+_OBJC_CLASSLIST_REFERENCES_$_.116
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_CLASSLIST_REFERENCES_$_.153
+_OBJC_CLASSLIST_REFERENCES_$_.166
+_OBJC_CLASSLIST_REFERENCES_$_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+___block_descriptor_24_e4_20s_e19_v12?04"NSError"8l
+___block_descriptor_24_e4_20s_e17_v8?0"NSString"4l
+_OBJC_CLASSLIST_REFERENCES_$_.199
+_OBJC_CLASSLIST_REFERENCES_$_.205
+_OBJC_CLASSLIST_REFERENCES_$_.208
+__OBJC_$_CLASS_METHODS_Netmera
+__OBJC_$_PROTOCOL_REFS_NetmeraNetworkManagerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraNetworkManagerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraNetworkManagerDelegate
+__OBJC_PROTOCOL_$_NetmeraNetworkManagerDelegate
+__OBJC_LABEL_PROTOCOL_$_NetmeraNetworkManagerDelegate
+__OBJC_CLASS_PROTOCOLS_$_Netmera
+__OBJC_METACLASS_RO_$_Netmera
+__OBJC_$_INSTANCE_METHODS_Netmera
+_OBJC_IVAR_$_Netmera._isTurnedOffSendingEventAndUserRequest
+_OBJC_IVAR_$_Netmera._application
+_OBJC_IVAR_$_Netmera._appDelegate
+_OBJC_IVAR_$_Netmera._requestSender
+_OBJC_IVAR_$_Netmera._networkManager
+_OBJC_IVAR_$_Netmera._stateManager
+_OBJC_IVAR_$_Netmera._UIPresenter
+_OBJC_IVAR_$_Netmera._actionManager
+_OBJC_IVAR_$_Netmera._pushManager
+_OBJC_IVAR_$_Netmera._locationManager
+_OBJC_IVAR_$_Netmera._batteryManager
+_OBJC_IVAR_$_Netmera._screenTrackingManager
+_OBJC_IVAR_$_Netmera._inAppPurchaseManager
+_OBJC_IVAR_$_Netmera._userAgentCollector
+_OBJC_IVAR_$_Netmera._advertisingManager
+__OBJC_$_INSTANCE_VARIABLES_Netmera
+__OBJC_$_PROP_LIST_Netmera
+__OBJC_CLASS_RO_$_Netmera
+_OBJC_SELECTOR_REFERENCES_.350
+_OBJC_SELECTOR_REFERENCES_.351
+_OBJC_SELECTOR_REFERENCES_.355
+_OBJC_SELECTOR_REFERENCES_.357
+_OBJC_SELECTOR_REFERENCES_.359
+_OBJC_SELECTOR_REFERENCES_.361
+_OBJC_SELECTOR_REFERENCES_.363
+_OBJC_SELECTOR_REFERENCES_.367
+_OBJC_SELECTOR_REFERENCES_.369
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_PushNotification
+__OBJC_$_CATEGORY_Netmera_$_PushNotification
+_OBJC_SELECTOR_REFERENCES_.391
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_Location
+__OBJC_$_CATEGORY_Netmera_$_Location
+_OBJC_CLASSLIST_REFERENCES_$_.394
+_OBJC_SELECTOR_REFERENCES_.396
+_OBJC_SELECTOR_REFERENCES_.398
+_OBJC_SELECTOR_REFERENCES_.400
+___block_descriptor_28_e4_20bs24s_e16_v8?0"NSError"4l
+_OBJC_SELECTOR_REFERENCES_.403
+_OBJC_CLASSLIST_REFERENCES_$_.404
+_OBJC_SELECTOR_REFERENCES_.408
+___block_descriptor_24_e4_20bs_e19_v12?04"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.410
+__OBJC_$_CATEGORY_INSTANCE_METHODS_Netmera_$_Inbox
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_Inbox
+__OBJC_$_CATEGORY_Netmera_$_Inbox
+_OBJC_CLASSLIST_REFERENCES_$_.418
+_OBJC_SELECTOR_REFERENCES_.420
+_OBJC_SELECTOR_REFERENCES_.422
+__OBJC_$_CATEGORY_INSTANCE_METHODS_Netmera_$_InboxCategory
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_InboxCategory
+__OBJC_$_CATEGORY_Netmera_$_InboxCategory
+_OBJC_SELECTOR_REFERENCES_.427
+_OBJC_SELECTOR_REFERENCES_.429
+_OBJC_SELECTOR_REFERENCES_.431
+_OBJC_SELECTOR_REFERENCES_.433
+_OBJC_SELECTOR_REFERENCES_.435
+___block_descriptor_24_e4_20bs_e53_v12?0"NetmeraFetchUserCategoryResponse"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.438
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_User
+__OBJC_$_CATEGORY_Netmera_$_User
+_OBJC_SELECTOR_REFERENCES_.447
+_OBJC_SELECTOR_REFERENCES_.449
+_OBJC_SELECTOR_REFERENCES_.451
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_Event
+__OBJC_$_CATEGORY_Netmera_$_Event
+_OBJC_SELECTOR_REFERENCES_.454
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_KVK
+__OBJC_$_CATEGORY_Netmera_$_KVK
+_OBJC_SELECTOR_REFERENCES_.458
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_Exception
+__OBJC_$_CATEGORY_Netmera_$_Exception
+_OBJC_SELECTOR_REFERENCES_.462
+_OBJC_SELECTOR_REFERENCES_.464
+_OBJC_SELECTOR_REFERENCES_.466
+__OBJC_$_CATEGORY_CLASS_METHODS_Netmera_$_Advertising
+__OBJC_$_CATEGORY_Netmera_$_Advertising
+/Users/vagrant/git/Netmera/Netmera/Netmera.m
+Netmera/Netmera.m
+__61+[Netmera(User) getUserCategoryPreferenceListWithCompletion:]_block_invoke
+__84+[Netmera(User) setUserCategoryPreferenceWithCategoryId:categoryEnabled:completion:]_block_invoke
+__63+[Netmera(InboxCategory) updateStatus:byCategories:completion:]_block_invoke
+__67+[Netmera(InboxCategory) fetchInboxCategoryUsingFilter:completion:]_block_invoke
+__copy_helper_block_e4_20b
+__52+[Netmera(Inbox) updateStatus:forAllWithCompletion:]_block_invoke
+__51+[Netmera(Inbox) fetchInboxUsingFilter:completion:]_block_invoke
+__24-[Netmera loadUserAgent]_block_invoke_2
+__24-[Netmera loadUserAgent]_block_invoke
+__16+[Netmera start]_block_invoke
+-[NetmeraUserAgentCollector initWithStateManager:]
+-[NetmeraUserAgentCollector loadUserAgentWithCompletion:]
+___57-[NetmeraUserAgentCollector loadUserAgentWithCompletion:]_block_invoke
+___copy_helper_block_e4_20s24b
+-[NetmeraUserAgentCollector loadUserAgent]
+-[NetmeraUserAgentCollector saveUserAgent:]
+-[NetmeraUserAgentCollector collectUserAgentWithCompletion:]
+___60-[NetmeraUserAgentCollector collectUserAgentWithCompletion:]_block_invoke
+___60-[NetmeraUserAgentCollector collectUserAgentWithCompletion:]_block_invoke_2
+-[NetmeraUserAgentCollector userAgent]
+-[NetmeraUserAgentCollector setUserAgent:]
+-[NetmeraUserAgentCollector webview]
+-[NetmeraUserAgentCollector setWebview:]
+-[NetmeraUserAgentCollector stateManager]
+-[NetmeraUserAgentCollector setStateManager:]
+-[NetmeraUserAgentCollector .cxx_destruct]
+___block_descriptor_28_e4_20s24bs_e17_v8?0"NSString"4l
+___block_descriptor_28_e4_20bs24s_e19_v12?04"NSError"8l
+___block_descriptor_28_e4_20s24bs_e5_v4?0l
+__OBJC_METACLASS_RO_$_NetmeraUserAgentCollector
+__OBJC_$_INSTANCE_METHODS_NetmeraUserAgentCollector
+_OBJC_IVAR_$_NetmeraUserAgentCollector._userAgent
+_OBJC_IVAR_$_NetmeraUserAgentCollector._webview
+_OBJC_IVAR_$_NetmeraUserAgentCollector._stateManager
+__OBJC_$_INSTANCE_VARIABLES_NetmeraUserAgentCollector
+__OBJC_$_PROP_LIST_NetmeraUserAgentCollector
+__OBJC_CLASS_RO_$_NetmeraUserAgentCollector
+/Users/vagrant/git/Netmera/Netmera/UserAgent/NetmeraUserAgentCollector.m
+Netmera/UserAgent/NetmeraUserAgentCollector.m
+Netmera/UserAgent/NetmeraUserAgentCollector.h
+__60-[NetmeraUserAgentCollector collectUserAgentWithCompletion:]_block_invoke_2
+__60-[NetmeraUserAgentCollector collectUserAgentWithCompletion:]_block_invoke
+__copy_helper_block_e4_20s24b
+__57-[NetmeraUserAgentCollector loadUserAgentWithCompletion:]_block_invoke
+-[NetmeraUIControlAction description]
+-[NetmeraUIControlAction itemId]
+-[NetmeraUIControlAction setItemId:]
+-[NetmeraUIControlAction value]
+-[NetmeraUIControlAction setValue:]
+-[NetmeraUIControlAction actionType]
+-[NetmeraUIControlAction setActionType:]
+-[NetmeraUIControlAction .cxx_destruct]
+__OBJC_METACLASS_RO_$_NetmeraUIControlAction
+__OBJC_$_INSTANCE_METHODS_NetmeraUIControlAction
+_OBJC_IVAR_$_NetmeraUIControlAction._itemId
+_OBJC_IVAR_$_NetmeraUIControlAction._value
+_OBJC_IVAR_$_NetmeraUIControlAction._actionType
+__OBJC_$_INSTANCE_VARIABLES_NetmeraUIControlAction
+__OBJC_$_PROP_LIST_NetmeraUIControlAction
+__OBJC_CLASS_RO_$_NetmeraUIControlAction
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/NetmeraUIControlAction.m
+Netmera/ScreenTracking/NetmeraUIControlAction.m
+Netmera/ScreenTracking/NetmeraUIControlAction.h
+-[UITextField(Tracking) netmera_setDelegate:]
++[UITextField(Tracking) swizzle]
+___32+[UITextField(Tracking) swizzle]_block_invoke
++[UITextField(Tracking) unSwizzle]
+___34+[UITextField(Tracking) unSwizzle]_block_invoke
+-[UITextField(Tracking) netmera_swizzleDidEndEditingPathMethodWithDelegate:]
+_netmera_textFieldDidEndEditing
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UITextField_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_UITextField_$_Tracking
+__OBJC_$_CATEGORY_UITextField_$_Tracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UITextField+Tracking.m
+netmera_textFieldDidEndEditing
+Netmera/ScreenTracking/UITextField+Tracking.m
+__34+[UITextField(Tracking) unSwizzle]_block_invoke
+__32+[UITextField(Tracking) swizzle]_block_invoke
+-[UIStepper(ActionTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIStepper_$_ActionTracking
+__OBJC_$_CATEGORY_UIStepper_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UIStepper+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UIStepper+ActionTracking.m
+-[UIPageControl(AutoTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIPageControl_$_AutoTracking
+__OBJC_$_CATEGORY_UIPageControl_$_AutoTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UIPageControl+AutoTracking.m
+Netmera/ScreenTracking/UIControlTracking/UIPageControl+AutoTracking.m
+-[NetmeraProxyAppDelegate hookAppDelegateMethods]
+_NetmeraDidRegisterForRemoteNotificationsWithDeviceToken
+_NetmeraDidFailToRegisterForRemoteNotificationsWithError
+_NetmeraDidRegisterUserNotificationSettings
+_NetmeraDidReceiveRemoteNotification
+_NetmeraDidReceiveRemoteNotificationFetchCompletionHandler
+_NetmeraHandleActionWithIdentifierForRemoteNotificationCompletionHandler
+_NetmeraHandleActionWithIdentifierForRemoteNotificationWithResponseInfoCompletionHandler
+_NetmeraOpenURLSourceApplicationAnnotation
+_NetmeraOpenURLOptions
+-[NetmeraProxyAppDelegate unhookAppDelegateMethods]
+-[NetmeraProxyAppDelegate initWithOriginalAppDelegate:pushDelegate:requestSender:UIPresenter:stateManager:advertisingManager:]
+-[NetmeraProxyAppDelegate dealloc]
+-[NetmeraProxyAppDelegate registerApplicationLifecycleNotifications]
+-[NetmeraProxyAppDelegate unregisterApplicationLifecycleNotifications]
+-[NetmeraProxyAppDelegate applicationDidFinishLaunchingWithOptionsNotification:]
+-[NetmeraProxyAppDelegate performOperationsForWillEnterForeground:]
+-[NetmeraProxyAppDelegate applicationWillEnterForeground:]
+-[NetmeraProxyAppDelegate applicationDidEnterBackground:]
+-[NetmeraProxyAppDelegate handleURLIfNeeded:]
+___45-[NetmeraProxyAppDelegate handleURLIfNeeded:]_block_invoke
+-[NetmeraProxyAppDelegate originalAppDelegate]
+-[NetmeraProxyAppDelegate setOriginalAppDelegate:]
+-[NetmeraProxyAppDelegate pushDelegate]
+-[NetmeraProxyAppDelegate setPushDelegate:]
+-[NetmeraProxyAppDelegate requestSender]
+-[NetmeraProxyAppDelegate setRequestSender:]
+-[NetmeraProxyAppDelegate UIPresenter]
+-[NetmeraProxyAppDelegate setUIPresenter:]
+-[NetmeraProxyAppDelegate stateManager]
+-[NetmeraProxyAppDelegate setStateManager:]
+-[NetmeraProxyAppDelegate activationDate]
+-[NetmeraProxyAppDelegate setActivationDate:]
+-[NetmeraProxyAppDelegate lastSessionId]
+-[NetmeraProxyAppDelegate setLastSessionId:]
+-[NetmeraProxyAppDelegate swizzleInfoArray]
+-[NetmeraProxyAppDelegate setSwizzleInfoArray:]
+-[NetmeraProxyAppDelegate advertisingManager]
+-[NetmeraProxyAppDelegate setAdvertisingManager:]
+-[NetmeraProxyAppDelegate .cxx_destruct]
+__OBJC_PROTOCOL_REFERENCE_$_UIApplicationDelegate
+_OBJC_CLASSLIST_REFERENCES_$_.170
+_OBJC_CLASSLIST_REFERENCES_$_.185
+_OBJC_CLASSLIST_REFERENCES_$_.238
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_CLASSLIST_REFERENCES_$_.253
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_CLASSLIST_REFERENCES_$_.267
+_OBJC_SELECTOR_REFERENCES_.269
+_OBJC_SELECTOR_REFERENCES_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_SELECTOR_REFERENCES_.277
+_OBJC_SELECTOR_REFERENCES_.279
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.284
+_OBJC_CLASSLIST_REFERENCES_$_.285
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_SELECTOR_REFERENCES_.289
+_OBJC_SELECTOR_REFERENCES_.291
+_OBJC_SELECTOR_REFERENCES_.293
+_OBJC_SELECTOR_REFERENCES_.295
+_OBJC_SELECTOR_REFERENCES_.297
+_OBJC_CLASSLIST_REFERENCES_$_.300
+_OBJC_SELECTOR_REFERENCES_.302
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_SELECTOR_REFERENCES_.308
+__OBJC_CLASS_PROTOCOLS_$_NetmeraProxyAppDelegate
+__OBJC_METACLASS_RO_$_NetmeraProxyAppDelegate
+__OBJC_$_INSTANCE_METHODS_NetmeraProxyAppDelegate
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._originalAppDelegate
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._pushDelegate
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._requestSender
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._UIPresenter
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._stateManager
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._activationDate
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._lastSessionId
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._swizzleInfoArray
+_OBJC_IVAR_$_NetmeraProxyAppDelegate._advertisingManager
+__OBJC_$_INSTANCE_VARIABLES_NetmeraProxyAppDelegate
+__OBJC_$_PROP_LIST_NetmeraProxyAppDelegate
+__OBJC_CLASS_RO_$_NetmeraProxyAppDelegate
+_OBJC_SELECTOR_REFERENCES_.362
+/Users/vagrant/git/Netmera/Netmera/Application/NetmeraProxyAppDelegate.m
+Netmera/Application/NetmeraProxyAppDelegate.m
+__45-[NetmeraProxyAppDelegate handleURLIfNeeded:]_block_invoke
+NetmeraOpenURLOptions
+NetmeraGetProxyAppDelegate
+NetmeraOpenURLSourceApplicationAnnotation
+NetmeraHandleActionWithIdentifierForRemoteNotificationWithResponseInfoCompletionHandler
+NetmeraHandleActionWithIdentifierForRemoteNotificationCompletionHandler
+NetmeraDidReceiveRemoteNotificationFetchCompletionHandler
+NetmeraDidReceiveRemoteNotification
+NetmeraDidRegisterUserNotificationSettings
+NetmeraDidFailToRegisterForRemoteNotificationsWithError
+NetmeraDidRegisterForRemoteNotificationsWithDeviceToken
+NetmeraSetSwizzleInfo
+NetmeraSetProxyAppDelegate
+NetmeraOriginalImplementationForSelector
+NetmeraGetSwizzleInfo
+-[NetmeraWebViewDelegate webView:didStartProvisionalNavigation:]
+-[NetmeraWebViewDelegate webView:didFinishNavigation:]
+-[NetmeraWebViewDelegate webView:didFailNavigation:withError:]
+-[NetmeraWebViewDelegate webView:didFailProvisionalNavigation:withError:]
+-[NetmeraWebViewDelegate webView:decidePolicyForNavigationAction:decisionHandler:]
+-[NetmeraWebViewDelegate loadWebViewContentForAction:inWebView:withVC:]
+-[NetmeraWebViewDelegate templateKeyForParameterKey:]
+-[NetmeraWebViewDelegate HTMLStringFromTemplateHTML:params:]
+-[NetmeraWebViewDelegate stringIsNil:]
+-[NetmeraWebViewDelegate actionHandler]
+-[NetmeraWebViewDelegate setActionHandler:]
+-[NetmeraWebViewDelegate userDelegate]
+-[NetmeraWebViewDelegate setUserDelegate:]
+-[NetmeraWebViewDelegate webVC]
+-[NetmeraWebViewDelegate setWebVC:]
+-[NetmeraWebViewDelegate .cxx_destruct]
+_OBJC_IVAR_$_NetmeraWebViewDelegate._webVC
+_OBJC_CLASSLIST_REFERENCES_$_.95
+_OBJC_IVAR_$_NetmeraWebViewDelegate._actionHandler
+_OBJC_IVAR_$_NetmeraWebViewDelegate._userDelegate
+__OBJC_CLASS_PROTOCOLS_$_NetmeraWebViewDelegate
+__OBJC_METACLASS_RO_$_NetmeraWebViewDelegate
+__OBJC_$_INSTANCE_METHODS_NetmeraWebViewDelegate
+__OBJC_$_INSTANCE_VARIABLES_NetmeraWebViewDelegate
+__OBJC_$_PROP_LIST_NetmeraWebViewDelegate
+__OBJC_CLASS_RO_$_NetmeraWebViewDelegate
+/Users/vagrant/git/Netmera/Netmera/View/NetmeraWebViewDelegate.m
+Netmera/View/NetmeraWebViewDelegate.m
+Netmera/View/NetmeraWebViewDelegate.h
+-[NetmeraActionManager initWithApplication:stateManager:UIPresenter:eventSender:]
+-[NetmeraActionManager performWebViewAction:forPushObject:]
+-[NetmeraActionManager performLoadActionInWebView:]
+-[NetmeraActionManager performDeepLinkAction:forPushObject:]
+___60-[NetmeraActionManager performDeepLinkAction:forPushObject:]_block_invoke
+-[NetmeraActionManager performEventAction:]
+-[NetmeraActionManager performShareAction:]
+-[NetmeraActionManager performReviewAction:]
+-[NetmeraActionManager performActionWithDictionary:]
+-[NetmeraActionManager performActionWithDictionary:forPushObject:]
+-[NetmeraActionManager pushDelegate]
+-[NetmeraActionManager setPushDelegate:]
+-[NetmeraActionManager application]
+-[NetmeraActionManager setApplication:]
+-[NetmeraActionManager stateManager]
+-[NetmeraActionManager setStateManager:]
+-[NetmeraActionManager UIPresenter]
+-[NetmeraActionManager setUIPresenter:]
+-[NetmeraActionManager eventSender]
+-[NetmeraActionManager setEventSender:]
+-[NetmeraActionManager webViewDelegate]
+-[NetmeraActionManager setWebViewDelegate:]
+-[NetmeraActionManager recentAction]
+-[NetmeraActionManager setRecentAction:]
+-[NetmeraActionManager .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_CLASSLIST_REFERENCES_$_.71
+_OBJC_CLASSLIST_REFERENCES_$_.82
+_OBJC_CLASSLIST_REFERENCES_$_.93
+_OBJC_CLASSLIST_REFERENCES_$_.98
+_OBJC_CLASSLIST_REFERENCES_$_.123
+_OBJC_CLASSLIST_REFERENCES_$_.128
+_OBJC_CLASSLIST_REFERENCES_$_.139
+_OBJC_CLASSLIST_REFERENCES_$_.152
+_OBJC_CLASSLIST_REFERENCES_$_.159
+_OBJC_CLASSLIST_REFERENCES_$_.162
+_OBJC_CLASSLIST_REFERENCES_$_.165
+__OBJC_$_PROTOCOL_REFS_NetmeraActionPerformer
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraActionPerformer
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraActionPerformer
+__OBJC_PROTOCOL_$_NetmeraActionPerformer
+__OBJC_LABEL_PROTOCOL_$_NetmeraActionPerformer
+__OBJC_CLASS_PROTOCOLS_$_NetmeraActionManager
+__OBJC_METACLASS_RO_$_NetmeraActionManager
+__OBJC_$_INSTANCE_METHODS_NetmeraActionManager
+_OBJC_IVAR_$_NetmeraActionManager._pushDelegate
+_OBJC_IVAR_$_NetmeraActionManager._application
+_OBJC_IVAR_$_NetmeraActionManager._stateManager
+_OBJC_IVAR_$_NetmeraActionManager._UIPresenter
+_OBJC_IVAR_$_NetmeraActionManager._eventSender
+_OBJC_IVAR_$_NetmeraActionManager._webViewDelegate
+_OBJC_IVAR_$_NetmeraActionManager._recentAction
+__OBJC_$_INSTANCE_VARIABLES_NetmeraActionManager
+__OBJC_$_PROP_LIST_NetmeraActionManager
+__OBJC_CLASS_RO_$_NetmeraActionManager
+/Users/vagrant/git/Netmera/Netmera/Action/NetmeraActionManager.m
+Netmera/Action/NetmeraActionManager.m
+Netmera/Action/NetmeraActionManager.h
+__60-[NetmeraActionManager performDeepLinkAction:forPushObject:]_block_invoke
+-[NetmeraLocationManager initWithEventSender:stateManager:]
+-[NetmeraLocationManager setNetmeraMaxActiveRegions:]
+-[NetmeraLocationManager registerApplicationLifecycleNotifications]
+-[NetmeraLocationManager willEnterForegroundNotification:]
+-[NetmeraLocationManager dealloc]
+-[NetmeraLocationManager unregisterNotifications]
+-[NetmeraLocationManager performLaunchOperations]
+-[NetmeraLocationManager infoDictionary]
+-[NetmeraLocationManager requestLocationAuthorizationIfNeeded]
+-[NetmeraLocationManager sendLocationInfoIfAvailable]
+-[NetmeraLocationManager nearestRegionsForLocation:withMaxActiveRegions:]
+___73-[NetmeraLocationManager nearestRegionsForLocation:withMaxActiveRegions:]_block_invoke
+-[NetmeraLocationManager containerRegionForRegions:forLocation:]
+-[NetmeraLocationManager stopMonitoringRegions]
+-[NetmeraLocationManager startMonitoringRegions]
+-[NetmeraLocationManager setUpRegionsFromConfigData]
+-[NetmeraLocationManager performOperationsForConfigUpdate:]
+-[NetmeraLocationManager sendLocationIfNeeded]
+-[NetmeraLocationManager restartRegionMonitoring]
+-[NetmeraLocationManager locationManager:didChangeAuthorizationStatus:]
+-[NetmeraLocationManager locationManager:didEnterRegion:]
+-[NetmeraLocationManager locationManager:didExitRegion:]
+-[NetmeraLocationManager locationManager:monitoringDidFailForRegion:withError:]
+-[NetmeraLocationManager locationManager:didUpdateLocations:]
+-[NetmeraLocationManager locationManager:didFailWithError:]
+-[NetmeraLocationManager currentLocation]
+-[NetmeraLocationManager locationAvailable]
+-[NetmeraLocationManager updateStateManagerWithLocation]
+-[NetmeraLocationManager regionForRegionData:]
+-[NetmeraLocationManager locationAuthorizationStatus]
+-[NetmeraLocationManager setLocationAuthorizationStatus:]
+-[NetmeraLocationManager updateLocationAuthorizationStatus:]
+-[NetmeraLocationManager eventSender]
+-[NetmeraLocationManager setEventSender:]
+-[NetmeraLocationManager stateManager]
+-[NetmeraLocationManager setStateManager:]
+-[NetmeraLocationManager locationManager]
+-[NetmeraLocationManager setLocationManager:]
+-[NetmeraLocationManager currentRegions]
+-[NetmeraLocationManager setCurrentRegions:]
+-[NetmeraLocationManager netmeraMaxActiveRegions]
+-[NetmeraLocationManager sentLocationEventAfterConfigChange]
+-[NetmeraLocationManager setSentLocationEventAfterConfigChange:]
+-[NetmeraLocationManager .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_CLASSLIST_REFERENCES_$_.37
+___block_descriptor_24_e4_20s_e46_i12?0"CLCircularRegion"4"CLCircularRegion"8l
+_OBJC_CLASSLIST_REFERENCES_$_.129
+_OBJC_CLASSLIST_REFERENCES_$_.146
+_OBJC_CLASSLIST_REFERENCES_$_.187
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_CLASSLIST_REFERENCES_$_.218
+__OBJC_$_PROTOCOL_REFS_CLLocationManagerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_CLLocationManagerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_CLLocationManagerDelegate
+__OBJC_PROTOCOL_$_CLLocationManagerDelegate
+__OBJC_LABEL_PROTOCOL_$_CLLocationManagerDelegate
+__OBJC_CLASS_PROTOCOLS_$_NetmeraLocationManager
+__OBJC_METACLASS_RO_$_NetmeraLocationManager
+__OBJC_$_INSTANCE_METHODS_NetmeraLocationManager
+_OBJC_IVAR_$_NetmeraLocationManager._sentLocationEventAfterConfigChange
+_OBJC_IVAR_$_NetmeraLocationManager._eventSender
+_OBJC_IVAR_$_NetmeraLocationManager._stateManager
+_OBJC_IVAR_$_NetmeraLocationManager._locationManager
+_OBJC_IVAR_$_NetmeraLocationManager._currentRegions
+_OBJC_IVAR_$_NetmeraLocationManager._netmeraMaxActiveRegions
+__OBJC_$_INSTANCE_VARIABLES_NetmeraLocationManager
+__OBJC_$_PROP_LIST_NetmeraLocationManager
+__OBJC_CLASS_RO_$_NetmeraLocationManager
+/Users/vagrant/git/Netmera/Netmera/Location/NetmeraLocationManager.m
+Netmera/Location/NetmeraLocationManager.m
+__73-[NetmeraLocationManager nearestRegionsForLocation:withMaxActiveRegions:]_block_invoke
+-[SKPaymentQueue(Tracking) NetmeraFinishTransaction:]
++[SKPaymentQueue(Tracking) swizzle]
+___35+[SKPaymentQueue(Tracking) swizzle]_block_invoke
++[SKPaymentQueue(Tracking) unSwizzle]
+___37+[SKPaymentQueue(Tracking) unSwizzle]_block_invoke
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_CLASSLIST_REFERENCES_$_.22
+___block_literal_global.35
+__OBJC_$_CATEGORY_INSTANCE_METHODS_SKPaymentQueue_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_SKPaymentQueue_$_Tracking
+__OBJC_$_CATEGORY_SKPaymentQueue_$_Tracking
+/Users/vagrant/git/Netmera/Netmera/InAppPurchase/SKPaymentQueue+Tracking.m
+__37+[SKPaymentQueue(Tracking) unSwizzle]_block_invoke
+Netmera/InAppPurchase/SKPaymentQueue+Tracking.m
+__35+[SKPaymentQueue(Tracking) swizzle]_block_invoke
+-[UITextView(Tracking) netmera_setDelegate:]
++[UITextView(Tracking) swizzle]
+___31+[UITextView(Tracking) swizzle]_block_invoke
++[UITextView(Tracking) unSwizzle]
+___33+[UITextView(Tracking) unSwizzle]_block_invoke
+-[UITextView(Tracking) netmera_swizzleDidEndEditingPathMethodWithDelegate:]
+_netmera_textViewDidEndEditing
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UITextView_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_UITextView_$_Tracking
+__OBJC_$_CATEGORY_UITextView_$_Tracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UITextView+Tracking.m
+netmera_textViewDidEndEditing
+Netmera/ScreenTracking/UITextView+Tracking.m
+__33+[UITextView(Tracking) unSwizzle]_block_invoke
+__31+[UITextView(Tracking) swizzle]_block_invoke
+-[NetmeraInboxCategory initWithRequestSender:filter:]
+-[NetmeraInboxCategory pageSize]
+-[NetmeraInboxCategory fetchInboxCategoryDataWithCompletionBlock:]
+___66-[NetmeraInboxCategory fetchInboxCategoryDataWithCompletionBlock:]_block_invoke
+-[NetmeraInboxCategory fetchInitialPageWithCompletionBlock:]
+-[NetmeraInboxCategory fetchNextPageWithCompletionBlock:]
+-[NetmeraInboxCategory objects]
+-[NetmeraInboxCategory setObjects:]
+-[NetmeraInboxCategory hasNextPage]
+-[NetmeraInboxCategory setHasNextPage:]
+-[NetmeraInboxCategory filter]
+-[NetmeraInboxCategory setFilter:]
+-[NetmeraInboxCategory requestSender]
+-[NetmeraInboxCategory setRequestSender:]
+-[NetmeraInboxCategory .cxx_destruct]
+___block_descriptor_28_e4_20bs24s_e49_v12?0"NetmeraInboxCategoryResponse"4"NSError"8l
+_OBJC_CLASSLIST_REFERENCES_$_.25
+__OBJC_METACLASS_RO_$_NetmeraInboxCategory
+__OBJC_$_INSTANCE_METHODS_NetmeraInboxCategory
+_OBJC_IVAR_$_NetmeraInboxCategory._hasNextPage
+_OBJC_IVAR_$_NetmeraInboxCategory._objects
+_OBJC_IVAR_$_NetmeraInboxCategory._filter
+_OBJC_IVAR_$_NetmeraInboxCategory._requestSender
+__OBJC_$_INSTANCE_VARIABLES_NetmeraInboxCategory
+__OBJC_$_PROP_LIST_NetmeraInboxCategory
+__OBJC_CLASS_RO_$_NetmeraInboxCategory
+/Users/vagrant/git/Netmera/Netmera/Push/Inbox/NetmeraInboxCategory.m
+Netmera/Push/Inbox/NetmeraInboxCategory.m
+Netmera/Push/Inbox/NetmeraInboxCategory.h
+__66-[NetmeraInboxCategory fetchInboxCategoryDataWithCompletionBlock:]_block_invoke
+-[UITextField(ActionTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UITextField_$_ActionTracking
+__OBJC_$_CATEGORY_UITextField_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UITextField+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UITextField+ActionTracking.m
+-[NetmeraSQLiteAdapter initWithPath:]
+-[NetmeraSQLiteAdapter init]
+-[NetmeraSQLiteAdapter dealloc]
+-[NetmeraSQLiteAdapter purgeDatabase]
+-[NetmeraSQLiteAdapter fetchObjectsWithCompletionBlock:]
+___56-[NetmeraSQLiteAdapter fetchObjectsWithCompletionBlock:]_block_invoke
+___56-[NetmeraSQLiteAdapter fetchObjectsWithCompletionBlock:]_block_invoke_2
+-[NetmeraSQLiteAdapter saveObject:]
+___35-[NetmeraSQLiteAdapter saveObject:]_block_invoke
+-[NetmeraSQLiteAdapter syncSaveObject:]
+-[NetmeraSQLiteAdapter removeObject:]
+___37-[NetmeraSQLiteAdapter removeObject:]_block_invoke
+-[NetmeraSQLiteAdapter syncRemoveObject:]
+-[NetmeraSQLiteAdapter syncRemoveObjectsWithIds:]
+-[NetmeraSQLiteAdapter dispatchInSerialQueue:]
+___46-[NetmeraSQLiteAdapter dispatchInSerialQueue:]_block_invoke
+-[NetmeraSQLiteAdapter dispatchInCallbackQueue:]
+___48-[NetmeraSQLiteAdapter dispatchInCallbackQueue:]_block_invoke
+-[NetmeraSQLiteAdapter queue]
+-[NetmeraSQLiteAdapter setQueue:]
+-[NetmeraSQLiteAdapter callbackQueue]
+-[NetmeraSQLiteAdapter setCallbackQueue:]
+-[NetmeraSQLiteAdapter database]
+-[NetmeraSQLiteAdapter setDatabase:]
+-[NetmeraSQLiteAdapter databasePath]
+-[NetmeraSQLiteAdapter setDatabasePath:]
+-[NetmeraSQLiteAdapter .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_CLASSLIST_REFERENCES_$_.69
+_OBJC_CLASSLIST_REFERENCES_$_.74
+_OBJC_CLASSLIST_REFERENCES_$_.81
+_OBJC_CLASSLIST_REFERENCES_$_.100
+_OBJC_CLASSLIST_REFERENCES_$_.109
+___block_descriptor_28_e4_20bs24s_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.157
+___block_descriptor_24_e4_20bs_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.179
+__OBJC_$_PROTOCOL_REFS_NetmeraPersistenceAdapter
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraPersistenceAdapter
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraPersistenceAdapter
+__OBJC_PROTOCOL_$_NetmeraPersistenceAdapter
+__OBJC_LABEL_PROTOCOL_$_NetmeraPersistenceAdapter
+__OBJC_CLASS_PROTOCOLS_$_NetmeraSQLiteAdapter
+__OBJC_METACLASS_RO_$_NetmeraSQLiteAdapter
+__OBJC_$_INSTANCE_METHODS_NetmeraSQLiteAdapter
+_OBJC_IVAR_$_NetmeraSQLiteAdapter._queue
+_OBJC_IVAR_$_NetmeraSQLiteAdapter._callbackQueue
+_OBJC_IVAR_$_NetmeraSQLiteAdapter._database
+_OBJC_IVAR_$_NetmeraSQLiteAdapter._databasePath
+__OBJC_$_INSTANCE_VARIABLES_NetmeraSQLiteAdapter
+__OBJC_$_PROP_LIST_NetmeraSQLiteAdapter
+__OBJC_CLASS_RO_$_NetmeraSQLiteAdapter
+/Users/vagrant/git/Netmera/Netmera/Network/NetmeraSQLiteAdapter.m
+Netmera/Network/NetmeraSQLiteAdapter.m
+__48-[NetmeraSQLiteAdapter dispatchInCallbackQueue:]_block_invoke
+__46-[NetmeraSQLiteAdapter dispatchInSerialQueue:]_block_invoke
+__37-[NetmeraSQLiteAdapter removeObject:]_block_invoke
+__35-[NetmeraSQLiteAdapter saveObject:]_block_invoke
+__56-[NetmeraSQLiteAdapter fetchObjectsWithCompletionBlock:]_block_invoke_2
+__56-[NetmeraSQLiteAdapter fetchObjectsWithCompletionBlock:]_block_invoke
+-[NetmeraKeychainStore init]
+-[NetmeraKeychainStore saveObject:forKey:]
+-[NetmeraKeychainStore objectForKey:]
+-[NetmeraKeychainStore store]
+-[NetmeraKeychainStore setStore:]
+-[NetmeraKeychainStore .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_NetmeraKeychainStore
+__OBJC_METACLASS_RO_$_NetmeraKeychainStore
+__OBJC_$_INSTANCE_METHODS_NetmeraKeychainStore
+_OBJC_IVAR_$_NetmeraKeychainStore._store
+__OBJC_$_INSTANCE_VARIABLES_NetmeraKeychainStore
+__OBJC_$_PROP_LIST_NetmeraKeychainStore
+__OBJC_CLASS_RO_$_NetmeraKeychainStore
+/Users/vagrant/git/Netmera/Netmera/Cache/NetmeraKeychainStore.m
+Netmera/Cache/NetmeraKeychainStore.m
+-[NetmeraInAppMessageVC initWithObject:]
+-[NetmeraInAppMessageVC viewDidLoad]
+-[NetmeraInAppMessageVC configureView]
+-[NetmeraInAppMessageVC configureInsideOfView]
+-[NetmeraInAppMessageVC configureCloseButton]
+-[NetmeraInAppMessageVC configureSettings]
+-[NetmeraInAppMessageVC tapToView:]
+-[NetmeraInAppMessageVC handleTap:]
+-[NetmeraInAppMessageVC autoClose:]
+-[NetmeraInAppMessageVC iamView]
+-[NetmeraInAppMessageVC setIamView:]
+-[NetmeraInAppMessageVC actionPerformer]
+-[NetmeraInAppMessageVC setActionPerformer:]
+-[NetmeraInAppMessageVC object]
+-[NetmeraInAppMessageVC setObject:]
+-[NetmeraInAppMessageVC settings]
+-[NetmeraInAppMessageVC setSettings:]
+-[NetmeraInAppMessageVC textColor]
+-[NetmeraInAppMessageVC setTextColor:]
+-[NetmeraInAppMessageVC titleColor]
+-[NetmeraInAppMessageVC setTitleColor:]
+-[NetmeraInAppMessageVC backgroundColor]
+-[NetmeraInAppMessageVC setBackgroundColor:]
+-[NetmeraInAppMessageVC cancelButtonBackgroundColor]
+-[NetmeraInAppMessageVC setCancelButtonBackgroundColor:]
+-[NetmeraInAppMessageVC titleFont]
+-[NetmeraInAppMessageVC setTitleFont:]
+-[NetmeraInAppMessageVC textFont]
+-[NetmeraInAppMessageVC setTextFont:]
+-[NetmeraInAppMessageVC viewHeight]
+-[NetmeraInAppMessageVC setViewHeight:]
+-[NetmeraInAppMessageVC viewWidth]
+-[NetmeraInAppMessageVC setViewWidth:]
+-[NetmeraInAppMessageVC cancelButtonRadius]
+-[NetmeraInAppMessageVC setCancelButtonRadius:]
+-[NetmeraInAppMessageVC shadowOpacity]
+-[NetmeraInAppMessageVC setShadowOpacity:]
+-[NetmeraInAppMessageVC timeToLive]
+-[NetmeraInAppMessageVC setTimeToLive:]
+-[NetmeraInAppMessageVC cancelButtonImage]
+-[NetmeraInAppMessageVC setCancelButtonImage:]
+-[NetmeraInAppMessageVC cornerRadius]
+-[NetmeraInAppMessageVC setCornerRadius:]
+-[NetmeraInAppMessageVC topPadding]
+-[NetmeraInAppMessageVC setTopPadding:]
+-[NetmeraInAppMessageVC bottomPadding]
+-[NetmeraInAppMessageVC setBottomPadding:]
+-[NetmeraInAppMessageVC leftPadding]
+-[NetmeraInAppMessageVC setLeftPadding:]
+-[NetmeraInAppMessageVC rightPadding]
+-[NetmeraInAppMessageVC setRightPadding:]
+-[NetmeraInAppMessageVC textSpacing]
+-[NetmeraInAppMessageVC setTextSpacing:]
+-[NetmeraInAppMessageVC imageSpacing]
+-[NetmeraInAppMessageVC setImageSpacing:]
+-[NetmeraInAppMessageVC titleFontSize]
+-[NetmeraInAppMessageVC setTitleFontSize:]
+-[NetmeraInAppMessageVC textFontSize]
+-[NetmeraInAppMessageVC setTextFontSize:]
+-[NetmeraInAppMessageVC .cxx_destruct]
+_OBJC_IVAR_$_NetmeraInAppMessageVC._object
+_OBJC_IVAR_$_NetmeraInAppMessageVC._textSpacing
+_OBJC_IVAR_$_NetmeraInAppMessageVC._imageSpacing
+_OBJC_IVAR_$_NetmeraInAppMessageVC._titleFontSize
+_OBJC_IVAR_$_NetmeraInAppMessageVC._textFontSize
+_OBJC_CLASSLIST_REFERENCES_$_.53
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_CLASSLIST_REFERENCES_$_.151
+_OBJC_CLASSLIST_REFERENCES_$_.173
+_OBJC_CLASSLIST_REFERENCES_$_.182
+_OBJC_IVAR_$_NetmeraInAppMessageVC._settings
+_OBJC_IVAR_$_NetmeraInAppMessageVC._cancelButtonImage
+_OBJC_CLASSLIST_REFERENCES_$_.234
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_SELECTOR_REFERENCES_.260
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_SELECTOR_REFERENCES_.266
+_OBJC_SELECTOR_REFERENCES_.278
+_OBJC_SELECTOR_REFERENCES_.282
+_OBJC_IVAR_$_NetmeraInAppMessageVC._iamView
+_OBJC_IVAR_$_NetmeraInAppMessageVC._actionPerformer
+_OBJC_IVAR_$_NetmeraInAppMessageVC._textColor
+_OBJC_IVAR_$_NetmeraInAppMessageVC._titleColor
+_OBJC_IVAR_$_NetmeraInAppMessageVC._backgroundColor
+_OBJC_IVAR_$_NetmeraInAppMessageVC._cancelButtonBackgroundColor
+_OBJC_IVAR_$_NetmeraInAppMessageVC._titleFont
+_OBJC_IVAR_$_NetmeraInAppMessageVC._textFont
+_OBJC_IVAR_$_NetmeraInAppMessageVC._viewHeight
+_OBJC_IVAR_$_NetmeraInAppMessageVC._viewWidth
+_OBJC_IVAR_$_NetmeraInAppMessageVC._cancelButtonRadius
+_OBJC_IVAR_$_NetmeraInAppMessageVC._shadowOpacity
+_OBJC_IVAR_$_NetmeraInAppMessageVC._timeToLive
+_OBJC_IVAR_$_NetmeraInAppMessageVC._cornerRadius
+_OBJC_IVAR_$_NetmeraInAppMessageVC._topPadding
+_OBJC_IVAR_$_NetmeraInAppMessageVC._bottomPadding
+_OBJC_IVAR_$_NetmeraInAppMessageVC._leftPadding
+_OBJC_IVAR_$_NetmeraInAppMessageVC._rightPadding
+__OBJC_METACLASS_RO_$_NetmeraInAppMessageVC
+__OBJC_$_INSTANCE_METHODS_NetmeraInAppMessageVC
+__OBJC_$_INSTANCE_VARIABLES_NetmeraInAppMessageVC
+__OBJC_$_PROP_LIST_NetmeraInAppMessageVC
+__OBJC_CLASS_RO_$_NetmeraInAppMessageVC
+/Users/vagrant/git/Netmera/Netmera/View/NetmeraInAppMessageVC.m
+Netmera/View/NetmeraInAppMessageVC.m
+-[NetmeraKeyValueStore init]
+-[NetmeraKeyValueStore setExpirationTimeInterval:]
+-[NetmeraKeyValueStore expirationTimeInterval]
+-[NetmeraKeyValueStore storeForLocation:]
+-[NetmeraKeyValueStore saveObject:forKey:]
+-[NetmeraKeyValueStore saveObject:forKey:location:]
+-[NetmeraKeyValueStore objectForKey:]
+-[NetmeraKeyValueStore objectForKey:location:]
+-[NetmeraKeyValueStore userDefaultsStore]
+-[NetmeraKeyValueStore setUserDefaultsStore:]
+-[NetmeraKeyValueStore keychainStore]
+-[NetmeraKeyValueStore setKeychainStore:]
+-[NetmeraKeyValueStore .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_NetmeraKeyValueStore
+__OBJC_METACLASS_RO_$_NetmeraKeyValueStore
+__OBJC_$_INSTANCE_METHODS_NetmeraKeyValueStore
+_OBJC_IVAR_$_NetmeraKeyValueStore._userDefaultsStore
+_OBJC_IVAR_$_NetmeraKeyValueStore._keychainStore
+__OBJC_$_INSTANCE_VARIABLES_NetmeraKeyValueStore
+__OBJC_$_PROP_LIST_NetmeraKeyValueStore
+__OBJC_CLASS_RO_$_NetmeraKeyValueStore
+/Users/vagrant/git/Netmera/Netmera/Cache/NetmeraKeyValueStore.m
+Netmera/Cache/NetmeraKeyValueStore.m
++[NetmeraErrorManager errorForNetmeraError:info:]
++[NetmeraErrorManager errorForNetmeraError:description:info:]
+__OBJC_$_CLASS_METHODS_NetmeraErrorManager
+__OBJC_METACLASS_RO_$_NetmeraErrorManager
+__OBJC_CLASS_RO_$_NetmeraErrorManager
+/Users/vagrant/git/Netmera/Netmera/ErrorManager/NetmeraErrorManager.m
+Netmera/ErrorManager/NetmeraErrorManager.m
+-[UIButton(ActionTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIButton_$_ActionTracking
+__OBJC_$_CATEGORY_UIButton_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UIButton+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UIButton+ActionTracking.m
+-[NMViewControllerInfo initWithName:pageId:parentName:parentId:appearDate:]
+-[NMViewControllerInfo description]
+-[NMViewControllerInfo getPageName]
+-[NMViewControllerInfo getParentName]
+-[NMViewControllerInfo name]
+-[NMViewControllerInfo setName:]
+-[NMViewControllerInfo parentName]
+-[NMViewControllerInfo setParentName:]
+-[NMViewControllerInfo pageId]
+-[NMViewControllerInfo setPageId:]
+-[NMViewControllerInfo parentId]
+-[NMViewControllerInfo setParentId:]
+-[NMViewControllerInfo appearDate]
+-[NMViewControllerInfo setAppearDate:]
+-[NMViewControllerInfo disappearDate]
+-[NMViewControllerInfo setDisappearDate:]
+-[NMViewControllerInfo identifier]
+-[NMViewControllerInfo setIdentifier:]
+-[NMViewControllerInfo isAppear]
+-[NMViewControllerInfo setIsAppear:]
+-[NMViewControllerInfo isExist]
+-[NMViewControllerInfo setIsExist:]
+-[NMViewControllerInfo childs]
+-[NMViewControllerInfo setChilds:]
+-[NMViewControllerInfo parentChilds]
+-[NMViewControllerInfo setParentChilds:]
+-[NMViewControllerInfo .cxx_destruct]
+__OBJC_METACLASS_RO_$_NMViewControllerInfo
+__OBJC_$_INSTANCE_METHODS_NMViewControllerInfo
+_OBJC_IVAR_$_NMViewControllerInfo._isAppear
+_OBJC_IVAR_$_NMViewControllerInfo._isExist
+_OBJC_IVAR_$_NMViewControllerInfo._name
+_OBJC_IVAR_$_NMViewControllerInfo._parentName
+_OBJC_IVAR_$_NMViewControllerInfo._pageId
+_OBJC_IVAR_$_NMViewControllerInfo._parentId
+_OBJC_IVAR_$_NMViewControllerInfo._appearDate
+_OBJC_IVAR_$_NMViewControllerInfo._disappearDate
+_OBJC_IVAR_$_NMViewControllerInfo._identifier
+_OBJC_IVAR_$_NMViewControllerInfo._childs
+_OBJC_IVAR_$_NMViewControllerInfo._parentChilds
+__OBJC_$_INSTANCE_VARIABLES_NMViewControllerInfo
+__OBJC_$_PROP_LIST_NMViewControllerInfo
+__OBJC_CLASS_RO_$_NMViewControllerInfo
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/NMViewControllerInfo.m
+Netmera/ScreenTracking/NMViewControllerInfo.m
+Netmera/ScreenTracking/NMViewControllerInfo.h
++[NSString(NetmeraUtils) netmera_localizedStringWithKey:value:]
++[NSString(NetmeraUtils) netmera_notificationString]
++[NSString(NetmeraUtils) netmera_dismissString]
++[NSString(NetmeraUtils) netmera_OKString]
++[NSString(NetmeraUtils) netmera_infoString]
++[NSString(NetmeraUtils) netmera_testDeviceString:]
+__OBJC_$_CATEGORY_CLASS_METHODS_NSString_$_NetmeraUtils
+__OBJC_$_CATEGORY_NSString_$_NetmeraUtils
+/Users/vagrant/git/Netmera/Netmera/Utils/NSString+NetmeraUtils.m
+Netmera/Utils/NSString+NetmeraUtils.m
+-[NetmeraNotificationSettingsEvent initWithNotificationSettings:]
++[NetmeraNotificationSettingsEvent eventWithNotificationSettings:]
+-[NetmeraNotificationSettingsEvent eventKey]
++[NetmeraNotificationSettingsEvent keyPathPropertySelectorMapping]
+-[NetmeraNotificationSettingsEvent authorizationStatus]
+-[NetmeraNotificationSettingsEvent setAuthorizationStatus:]
+-[NetmeraNotificationSettingsEvent lockScreenSetting]
+-[NetmeraNotificationSettingsEvent setLockScreenSetting:]
+-[NetmeraNotificationSettingsEvent badgeSetting]
+-[NetmeraNotificationSettingsEvent setBadgeSetting:]
+-[NetmeraNotificationSettingsEvent soundSetting]
+-[NetmeraNotificationSettingsEvent setSoundSetting:]
+-[NetmeraNotificationSettingsEvent alertSetting]
+-[NetmeraNotificationSettingsEvent setAlertSetting:]
+-[NetmeraNotificationSettingsEvent notificationCenterSetting]
+-[NetmeraNotificationSettingsEvent setNotificationCenterSetting:]
+-[NetmeraNotificationSettingsEvent alertStyle]
+-[NetmeraNotificationSettingsEvent setAlertStyle:]
+-[NetmeraNotificationSettingsEvent carPlaySetting]
+-[NetmeraNotificationSettingsEvent setCarPlaySetting:]
+_OBJC_IVAR_$_NetmeraNotificationSettingsEvent._lockScreenSetting
+_OBJC_IVAR_$_NetmeraNotificationSettingsEvent._badgeSetting
+_OBJC_IVAR_$_NetmeraNotificationSettingsEvent._soundSetting
+_OBJC_IVAR_$_NetmeraNotificationSettingsEvent._alertSetting
+_OBJC_IVAR_$_NetmeraNotificationSettingsEvent._carPlaySetting
+_OBJC_IVAR_$_NetmeraNotificationSettingsEvent._notificationCenterSetting
+_OBJC_IVAR_$_NetmeraNotificationSettingsEvent._authorizationStatus
+_OBJC_IVAR_$_NetmeraNotificationSettingsEvent._alertStyle
+__OBJC_$_CLASS_METHODS_NetmeraNotificationSettingsEvent
+__OBJC_METACLASS_RO_$_NetmeraNotificationSettingsEvent
+__OBJC_$_INSTANCE_METHODS_NetmeraNotificationSettingsEvent
+__OBJC_$_INSTANCE_VARIABLES_NetmeraNotificationSettingsEvent
+__OBJC_$_PROP_LIST_NetmeraNotificationSettingsEvent
+__OBJC_CLASS_RO_$_NetmeraNotificationSettingsEvent
+/Users/vagrant/git/Netmera/Netmera/Push/NetmeraNotificationSettingsEvent.m
+Netmera/Push/NetmeraNotificationSettingsEvent.m
+-[NetmeraIAPManager initWithEventSender:stateManager:]
+-[NetmeraIAPManager performOperationsForConfigUpdate:]
+-[NetmeraIAPManager performLaunchOperations]
+-[NetmeraIAPManager setUpInAppPurchaseFromConfigData]
+-[NetmeraIAPManager startPurchaseMonitoring]
+-[NetmeraIAPManager stopPurchaseMonitoring]
+-[NetmeraIAPManager inAppPurchasefinishTransaction:]
+-[NetmeraIAPManager fetchProductInformationForIds:]
+-[NetmeraIAPManager productsRequest:didReceiveResponse:]
+___56-[NetmeraIAPManager productsRequest:didReceiveResponse:]_block_invoke
+-[NetmeraIAPManager addTransaction:]
+-[NetmeraIAPManager eventSender]
+-[NetmeraIAPManager setEventSender:]
+-[NetmeraIAPManager stateManager]
+-[NetmeraIAPManager setStateManager:]
+-[NetmeraIAPManager shouldSendInAppPurchaseEvent]
+-[NetmeraIAPManager setShouldSendInAppPurchaseEvent:]
+-[NetmeraIAPManager purchaseMonitoring]
+-[NetmeraIAPManager setPurchaseMonitoring:]
+-[NetmeraIAPManager .cxx_destruct]
+__OBJC_$_PROTOCOL_REFS_SKRequestDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_SKRequestDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_SKRequestDelegate
+__OBJC_PROTOCOL_$_SKRequestDelegate
+__OBJC_LABEL_PROTOCOL_$_SKRequestDelegate
+__OBJC_$_PROTOCOL_REFS_SKProductsRequestDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_SKProductsRequestDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_SKProductsRequestDelegate
+__OBJC_PROTOCOL_$_SKProductsRequestDelegate
+__OBJC_LABEL_PROTOCOL_$_SKProductsRequestDelegate
+__OBJC_CLASS_PROTOCOLS_$_NetmeraIAPManager
+__OBJC_METACLASS_RO_$_NetmeraIAPManager
+__OBJC_$_INSTANCE_METHODS_NetmeraIAPManager
+_OBJC_IVAR_$_NetmeraIAPManager._shouldSendInAppPurchaseEvent
+_OBJC_IVAR_$_NetmeraIAPManager._purchaseMonitoring
+_OBJC_IVAR_$_NetmeraIAPManager._eventSender
+_OBJC_IVAR_$_NetmeraIAPManager._stateManager
+__OBJC_$_INSTANCE_VARIABLES_NetmeraIAPManager
+__OBJC_$_PROP_LIST_NetmeraIAPManager
+__OBJC_CLASS_RO_$_NetmeraIAPManager
+/Users/vagrant/git/Netmera/Netmera/InAppPurchase/NetmeraIAPManager.m
+Netmera/InAppPurchase/NetmeraIAPManager.m
+__56-[NetmeraIAPManager productsRequest:didReceiveResponse:]_block_invoke
+-[UIViewController(Tracking) logWithIsAppear:]
+-[UIViewController(Tracking) NetmeraViewDidAppear:]
+-[UIViewController(Tracking) NetmeraViewDidDisappear:]
++[UIViewController(Tracking) swizzle]
+___37+[UIViewController(Tracking) swizzle]_block_invoke
+-[UIViewController(Tracking) registerTextInputNotifications]
++[UIViewController(Tracking) unSwizzle]
+___39+[UIViewController(Tracking) unSwizzle]_block_invoke
+-[UIViewController(Tracking) shouldTrackClass:]
+___47-[UIViewController(Tracking) shouldTrackClass:]_block_invoke
+___block_literal_global.43
+_shouldTrackClass:.blacklistedClasses
+_shouldTrackClass:.onceToken
+___block_literal_global.44
+_OBJC_CLASSLIST_REFERENCES_$_.140
+_OBJC_CLASSLIST_REFERENCES_$_.145
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIViewController_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_UIViewController_$_Tracking
+__OBJC_$_CATEGORY_UIViewController_$_Tracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIViewController+Tracking.m
+__47-[UIViewController(Tracking) shouldTrackClass:]_block_invoke
+Netmera/ScreenTracking/UIViewController+Tracking.m
+__39+[UIViewController(Tracking) unSwizzle]_block_invoke
+__37+[UIViewController(Tracking) swizzle]_block_invoke
+-[NetmeraApplication initWithApplication:notificationCenter:]
+-[NetmeraApplication openURL:]
+___30-[NetmeraApplication openURL:]_block_invoke
+-[NetmeraApplication requestDeviceToken]
+-[NetmeraApplication requestNotificationAuthorizationForCategories:]
+-[NetmeraApplication requestNotificationAuthorizationForTypes:categories:]
+___74-[NetmeraApplication requestNotificationAuthorizationForTypes:categories:]_block_invoke
+___74-[NetmeraApplication requestNotificationAuthorizationForTypes:categories:]_block_invoke_2
+-[NetmeraApplication setNotificationCategories:]
+___48-[NetmeraApplication setNotificationCategories:]_block_invoke
+-[NetmeraApplication isExistCategory:inCategories:]
+-[NetmeraApplication pushSettings]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___34-[NetmeraApplication pushSettings]_block_invoke
+___copy_helper_block_e4_20s24r
+___destroy_helper_block_e4_20s24r
+-[NetmeraApplication authorizedNotificationTypes]
+___49-[NetmeraApplication authorizedNotificationTypes]_block_invoke
+-[NetmeraApplication isUserAuthorizedNotifications]
+-[NetmeraApplication setBadgeCount:]
+-[NetmeraApplication badgeCount]
+-[NetmeraApplication isActive]
+-[NetmeraApplication isInactive]
+-[NetmeraApplication isBackground]
+-[NetmeraApplication beginBackgroundTask]
+___41-[NetmeraApplication beginBackgroundTask]_block_invoke
+-[NetmeraApplication endBackgroundTask]
+-[NetmeraApplication delegate]
+-[NetmeraApplication setDelegate:]
+-[NetmeraApplication application]
+-[NetmeraApplication setApplication:]
+-[NetmeraApplication backgroundTaskIdentifier]
+-[NetmeraApplication setBackgroundTaskIdentifier:]
+-[NetmeraApplication notificationCenter]
+-[NetmeraApplication setNotificationCenter:]
+-[NetmeraApplication .cxx_destruct]
++[UNNotificationCategory(NetmeraNotificationCategory) netmera_categoryWithUIUserNotificationCategory:]
+___block_descriptor_24_e4_20s_e7_v8?0c4l
+_OBJC_CLASSLIST_REFERENCES_$_.34
+___block_descriptor_24_e4_20s_e19_v12?0c4"NSError"8l
+___block_descriptor_28_e4_20s24s_e14_v8?0"NSSet"4l
+___block_descriptor_28_e4_20s24r_e31_v8?0"UNNotificationSettings"4l
+__OBJC_METACLASS_RO_$_NetmeraApplication
+__OBJC_$_INSTANCE_METHODS_NetmeraApplication
+_OBJC_IVAR_$_NetmeraApplication._delegate
+_OBJC_IVAR_$_NetmeraApplication._application
+_OBJC_IVAR_$_NetmeraApplication._backgroundTaskIdentifier
+_OBJC_IVAR_$_NetmeraApplication._notificationCenter
+__OBJC_$_INSTANCE_VARIABLES_NetmeraApplication
+__OBJC_$_PROP_LIST_NetmeraApplication
+__OBJC_CLASS_RO_$_NetmeraApplication
+_OBJC_CLASSLIST_REFERENCES_$_.184
+__OBJC_$_CATEGORY_CLASS_METHODS_UNNotificationCategory_$_NetmeraNotificationCategory
+__OBJC_$_CATEGORY_UNNotificationCategory_$_NetmeraNotificationCategory
+/Users/vagrant/git/Netmera/Netmera/Application/NetmeraApplication.m
+Netmera/Application/NetmeraApplication.m
+Netmera/Application/NetmeraApplication.h
+__41-[NetmeraApplication beginBackgroundTask]_block_invoke
+__49-[NetmeraApplication authorizedNotificationTypes]_block_invoke
+__destroy_helper_block_e4_20s24r
+__copy_helper_block_e4_20s24r
+__34-[NetmeraApplication pushSettings]_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__48-[NetmeraApplication setNotificationCategories:]_block_invoke
+__74-[NetmeraApplication requestNotificationAuthorizationForTypes:categories:]_block_invoke_2
+__74-[NetmeraApplication requestNotificationAuthorizationForTypes:categories:]_block_invoke
+__30-[NetmeraApplication openURL:]_block_invoke
+-[UIApplication(Tracking) NetmeraSendAction:to:from:forEvent:]
++[UIApplication(Tracking) swizzle]
+___34+[UIApplication(Tracking) swizzle]_block_invoke
++[UIApplication(Tracking) unSwizzle]
+___36+[UIApplication(Tracking) unSwizzle]_block_invoke
+-[UIApplication(Tracking) shouldTrackActionName:]
+___49-[UIApplication(Tracking) shouldTrackActionName:]_block_invoke
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_CLASSLIST_REFERENCES_$_.46
+___block_literal_global.53
+_shouldTrackActionName:.blacklistedActions
+_shouldTrackActionName:.onceToken
+___block_literal_global.54
+_OBJC_CLASSLIST_REFERENCES_$_.92
+_OBJC_CLASSLIST_REFERENCES_$_.101
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIApplication_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_UIApplication_$_Tracking
+__OBJC_$_CATEGORY_UIApplication_$_Tracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIApplication+Tracking.m
+__49-[UIApplication(Tracking) shouldTrackActionName:]_block_invoke
+Netmera/ScreenTracking/UIApplication+Tracking.m
+__36+[UIApplication(Tracking) unSwizzle]_block_invoke
+__34+[UIApplication(Tracking) swizzle]_block_invoke
+-[UISegmentedControl(ActionTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UISegmentedControl_$_ActionTracking
+__OBJC_$_CATEGORY_UISegmentedControl_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UISegmentedControl+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UISegmentedControl+ActionTracking.m
+-[NetmeraLabel drawTextInRect:]
+-[NetmeraPushVC initWithPushObject:]
+-[NetmeraPushVC dealloc]
+-[NetmeraPushVC viewDidLoad]
+-[NetmeraPushVC configureContentView]
+-[NetmeraPushVC configureBlur]
+-[NetmeraPushVC configureLabel]
+-[NetmeraPushVC configureButtonsIfNeeded]
+-[NetmeraPushVC configureGestureRecognizers]
+-[NetmeraPushVC configureAutoDismiss]
+-[NetmeraPushVC handleButtonTap:]
+-[NetmeraPushVC handleTap:]
+-[NetmeraPushVC handlePan:]
+-[NetmeraPushVC autoClose:]
+-[NetmeraPushVC handleCloseTap:]
+-[NetmeraPushVC imageWithColor:]
+-[NetmeraPushVC heightConstraint]
+-[NetmeraPushVC setHeightConstraint:]
+-[NetmeraPushVC contentView]
+-[NetmeraPushVC setContentView:]
+-[NetmeraPushVC pushObject]
+-[NetmeraPushVC setPushObject:]
+-[NetmeraPushVC label]
+-[NetmeraPushVC setLabel:]
+-[NetmeraPushVC buttons]
+-[NetmeraPushVC setButtons:]
+-[NetmeraPushVC panRecognizer]
+-[NetmeraPushVC setPanRecognizer:]
+-[NetmeraPushVC tapRecognizer]
+-[NetmeraPushVC setTapRecognizer:]
+-[NetmeraPushVC defaultMetrics]
+-[NetmeraPushVC setDefaultMetrics:]
+-[NetmeraPushVC .cxx_destruct]
+__OBJC_METACLASS_RO_$_NetmeraLabel
+__OBJC_$_INSTANCE_METHODS_NetmeraLabel
+__OBJC_CLASS_RO_$_NetmeraLabel
+_OBJC_IVAR_$_NetmeraPushVC._pushObject
+_OBJC_IVAR_$_NetmeraPushVC._defaultMetrics
+_OBJC_CLASSLIST_REFERENCES_$_.15
+_OBJC_IVAR_$_NetmeraPushVC._buttons
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_CLASSLIST_REFERENCES_$_.68
+_OBJC_CLASSLIST_REFERENCES_$_.94
+_OBJC_CLASSLIST_REFERENCES_$_.99
+_OBJC_CLASSLIST_REFERENCES_$_.112
+_OBJC_CLASSLIST_REFERENCES_$_.192
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_handlePan:.lastHeight
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_CLASSLIST_REFERENCES_$_.232
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_IVAR_$_NetmeraPushVC._heightConstraint
+_OBJC_IVAR_$_NetmeraPushVC._contentView
+_OBJC_IVAR_$_NetmeraPushVC._label
+_OBJC_IVAR_$_NetmeraPushVC._panRecognizer
+_OBJC_IVAR_$_NetmeraPushVC._tapRecognizer
+__OBJC_$_PROTOCOL_REFS_UIGestureRecognizerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIGestureRecognizerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIGestureRecognizerDelegate
+__OBJC_PROTOCOL_$_UIGestureRecognizerDelegate
+__OBJC_LABEL_PROTOCOL_$_UIGestureRecognizerDelegate
+__OBJC_CLASS_PROTOCOLS_$_NetmeraPushVC
+__OBJC_METACLASS_RO_$_NetmeraPushVC
+__OBJC_$_INSTANCE_METHODS_NetmeraPushVC
+__OBJC_$_INSTANCE_VARIABLES_NetmeraPushVC
+__OBJC_$_PROP_LIST_NetmeraPushVC
+__OBJC_CLASS_RO_$_NetmeraPushVC
+/Users/vagrant/git/Netmera/Netmera/View/NetmeraPushVC.m
+Netmera/View/NetmeraPushVC.m
+Netmera/View/NetmeraPushVC.h
+-[NetmeraInbox initWithRequestSender:filter:]
+-[NetmeraInbox pageSize]
+-[NetmeraInbox fetchInboxDataWithCompletionBlock:]
+___50-[NetmeraInbox fetchInboxDataWithCompletionBlock:]_block_invoke
+-[NetmeraInbox fetchInitialPageWithCompletionBlock:]
+-[NetmeraInbox fetchNextPageWithCompletionBlock:]
+-[NetmeraInbox updateStatus:forPushObjects:completion:]
+___55-[NetmeraInbox updateStatus:forPushObjects:completion:]_block_invoke
+___copy_helper_block_e4_20b24s28s
+-[NetmeraInbox decrementCountForStatus:byValue:]
+-[NetmeraInbox incrementCountForStatus:byValue:]
+-[NetmeraInbox countForStatus:]
+-[NetmeraInbox notifyUnreadCount]
+-[NetmeraInbox objects]
+-[NetmeraInbox setObjects:]
+-[NetmeraInbox hasNextPage]
+-[NetmeraInbox setHasNextPage:]
+-[NetmeraInbox filter]
+-[NetmeraInbox setFilter:]
+-[NetmeraInbox requestSender]
+-[NetmeraInbox setRequestSender:]
+-[NetmeraInbox counts]
+-[NetmeraInbox setCounts:]
+-[NetmeraInbox delegate]
+-[NetmeraInbox setDelegate:]
+-[NetmeraInbox .cxx_destruct]
+___block_descriptor_28_e4_20bs24s_e41_v12?0"NetmeraInboxResponse"4"NSError"8l
+___block_descriptor_36_e4_20bs24s28s_e19_v12?04"NSError"8l
+__OBJC_METACLASS_RO_$_NetmeraInbox
+__OBJC_$_INSTANCE_METHODS_NetmeraInbox
+_OBJC_IVAR_$_NetmeraInbox._hasNextPage
+_OBJC_IVAR_$_NetmeraInbox._objects
+_OBJC_IVAR_$_NetmeraInbox._filter
+_OBJC_IVAR_$_NetmeraInbox._requestSender
+_OBJC_IVAR_$_NetmeraInbox._counts
+_OBJC_IVAR_$_NetmeraInbox._delegate
+__OBJC_$_INSTANCE_VARIABLES_NetmeraInbox
+__OBJC_$_PROP_LIST_NetmeraInbox
+__OBJC_CLASS_RO_$_NetmeraInbox
+/Users/vagrant/git/Netmera/Netmera/Push/Inbox/NetmeraInbox.m
+Netmera/Push/Inbox/NetmeraInbox.m
+Netmera/Push/Inbox/NetmeraInbox_Private.h
+Netmera/Push/Inbox/NetmeraInbox.h
+__copy_helper_block_e4_20b24s28s
+__55-[NetmeraInbox updateStatus:forPushObjects:completion:]_block_invoke
+__50-[NetmeraInbox fetchInboxDataWithCompletionBlock:]_block_invoke
+-[UICollectionView(Tracking) netmera_setDelegate:]
++[UICollectionView(Tracking) swizzle]
+___37+[UICollectionView(Tracking) swizzle]_block_invoke
++[UICollectionView(Tracking) unSwizzle]
+___39+[UICollectionView(Tracking) unSwizzle]_block_invoke
+-[UICollectionView(Tracking) netmera_swizzleDidSelectItemAtIndexPathMethodWithDelegate:]
+_netmera_collectionViewDidSelectItem
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UICollectionView_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_UICollectionView_$_Tracking
+__OBJC_$_CATEGORY_UICollectionView_$_Tracking
+_OBJC_CLASSLIST_REFERENCES_$_.60
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UICollectionView+Tracking.m
+netmera_collectionViewDidSelectItem
+Netmera/ScreenTracking/UICollectionView+Tracking.m
+__39+[UICollectionView(Tracking) unSwizzle]_block_invoke
+__37+[UICollectionView(Tracking) swizzle]_block_invoke
+-[UISwitch(ActionTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UISwitch_$_ActionTracking
+__OBJC_$_CATEGORY_UISwitch_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UISwitch+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UISwitch+ActionTracking.m
+-[NetmeraBaseVC delegate]
+-[NetmeraBaseVC setDelegate:]
+-[NetmeraBaseVC dismissAnimations]
+-[NetmeraBaseVC setDismissAnimations:]
+-[NetmeraBaseVC presentationAnimations]
+-[NetmeraBaseVC setPresentationAnimations:]
+-[NetmeraBaseVC .cxx_destruct]
+_OBJC_IVAR_$_NetmeraBaseVC._delegate
+_OBJC_IVAR_$_NetmeraBaseVC._dismissAnimations
+_OBJC_IVAR_$_NetmeraBaseVC._presentationAnimations
+__OBJC_METACLASS_RO_$_NetmeraBaseVC
+__OBJC_$_INSTANCE_METHODS_NetmeraBaseVC
+__OBJC_$_INSTANCE_VARIABLES_NetmeraBaseVC
+__OBJC_$_PROP_LIST_NetmeraBaseVC
+__OBJC_CLASS_RO_$_NetmeraBaseVC
+/Users/vagrant/git/Netmera/Netmera/View/NetmeraBaseVC.m
+Netmera/View/NetmeraBaseVC.m
+Netmera/View/NetmeraBaseVC.h
+-[NetmeraRequestState request]
+-[NetmeraRequestState setRequest:]
+-[NetmeraRequestState responseDict]
+-[NetmeraRequestState setResponseDict:]
+-[NetmeraRequestState response]
+-[NetmeraRequestState setResponse:]
+-[NetmeraRequestState error]
+-[NetmeraRequestState setError:]
+-[NetmeraRequestState completionBlock]
+-[NetmeraRequestState setCompletionBlock:]
+-[NetmeraRequestState shouldRemoveObjectOnCompletion]
+-[NetmeraRequestState setShouldRemoveObjectOnCompletion:]
+-[NetmeraRequestState .cxx_destruct]
+-[NetmeraNetworkManager initWithPersistenceAdapter:networkAdapter:stateManager:application:]
+-[NetmeraNetworkManager performOperationsForConfigUpdate:]
+-[NetmeraNetworkManager performLaunchOperations]
+-[NetmeraNetworkManager setUpEventPostTimeFromConfigData]
+-[NetmeraNetworkManager dealloc]
+-[NetmeraNetworkManager setupDefaultParametersForRequest:]
+-[NetmeraNetworkManager setupDefaultParametersForRequestSpec:]
+-[NetmeraNetworkManager sendRequest:]
+-[NetmeraNetworkManager shouldSendSynchronous:]
+-[NetmeraNetworkManager saveRequestIfNeeded:]
+-[NetmeraNetworkManager sendRequest:completion:]
+-[NetmeraNetworkManager sendCrashRequest:]
+-[NetmeraNetworkManager startRequest:completionBlock:]
+___54-[NetmeraNetworkManager startRequest:completionBlock:]_block_invoke
+___copy_helper_block_e4_20s24s28s
+-[NetmeraNetworkManager handleState:]
+-[NetmeraNetworkManager checkResponseForShouldStartRequest:]
+-[NetmeraNetworkManager validateResponseForState:]
+-[NetmeraNetworkManager performErrorSpecificOperationsForState:]
+-[NetmeraNetworkManager performNotifyOperationsForState:]
+___57-[NetmeraNetworkManager performNotifyOperationsForState:]_block_invoke
+-[NetmeraNetworkManager objectOfClass:fromDictionary:]
+-[NetmeraNetworkManager stopHulkRequestProcessing]
+-[NetmeraNetworkManager startHulkRequestProcessingWithInterval:]
+-[NetmeraNetworkManager processRequestsInPersistantStorageIfNeeded]
+___67-[NetmeraNetworkManager processRequestsInPersistantStorageIfNeeded]_block_invoke
+-[NetmeraNetworkManager requestsToSendFromObjects:continuingRequests:]
+-[NetmeraNetworkManager packageAndSendPersistedRequests:]
+-[NetmeraNetworkManager sendPersistedBulkRequest:]
+-[NetmeraNetworkManager sendPersistedRequest:]
+-[NetmeraNetworkManager removeAllEventRequestInPersistant]
+___58-[NetmeraNetworkManager removeAllEventRequestInPersistant]_block_invoke
+-[NetmeraNetworkManager delegate]
+-[NetmeraNetworkManager setDelegate:]
+-[NetmeraNetworkManager APIKey]
+-[NetmeraNetworkManager setAPIKey:]
+-[NetmeraNetworkManager baseURL]
+-[NetmeraNetworkManager setBaseURL:]
+-[NetmeraNetworkManager framework]
+-[NetmeraNetworkManager setFramework:]
+-[NetmeraNetworkManager frameworkVersion]
+-[NetmeraNetworkManager setFrameworkVersion:]
+-[NetmeraNetworkManager application]
+-[NetmeraNetworkManager networkAdapter]
+-[NetmeraNetworkManager persistenceAdapter]
+-[NetmeraNetworkManager stateManager]
+-[NetmeraNetworkManager periodicProcessTimer]
+-[NetmeraNetworkManager setPeriodicProcessTimer:]
+-[NetmeraNetworkManager shouldStartRequest]
+-[NetmeraNetworkManager setShouldStartRequest:]
+-[NetmeraNetworkManager continuingRequests]
+-[NetmeraNetworkManager setContinuingRequests:]
+-[NetmeraNetworkManager pendingRequestsResponse]
+-[NetmeraNetworkManager setPendingRequestsResponse:]
+-[NetmeraNetworkManager eventPostTimeInterval]
+-[NetmeraNetworkManager setEventPostTimeInterval:]
+-[NetmeraNetworkManager offlineEventPermission]
+-[NetmeraNetworkManager setOfflineEventPermission:]
+-[NetmeraNetworkManager eventPermission]
+-[NetmeraNetworkManager setEventPermission:]
+-[NetmeraNetworkManager .cxx_destruct]
+__OBJC_METACLASS_RO_$_NetmeraRequestState
+__OBJC_$_INSTANCE_METHODS_NetmeraRequestState
+_OBJC_IVAR_$_NetmeraRequestState._shouldRemoveObjectOnCompletion
+_OBJC_IVAR_$_NetmeraRequestState._request
+_OBJC_IVAR_$_NetmeraRequestState._responseDict
+_OBJC_IVAR_$_NetmeraRequestState._response
+_OBJC_IVAR_$_NetmeraRequestState._error
+_OBJC_IVAR_$_NetmeraRequestState._completionBlock
+__OBJC_$_INSTANCE_VARIABLES_NetmeraRequestState
+__OBJC_$_PROP_LIST_NetmeraRequestState
+__OBJC_CLASS_RO_$_NetmeraRequestState
+_OBJC_CLASSLIST_REFERENCES_$_.168
+_OBJC_CLASSLIST_REFERENCES_$_.181
+_OBJC_CLASSLIST_REFERENCES_$_.191
+___block_descriptor_32_e4_20s24s28s_e33_v12?0"NSDictionary"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_CLASSLIST_REFERENCES_$_.265
+_OBJC_SELECTOR_REFERENCES_.267
+_OBJC_CLASSLIST_REFERENCES_$_.280
+_OBJC_SELECTOR_REFERENCES_.288
+_OBJC_CLASSLIST_REFERENCES_$_.289
+___block_descriptor_28_e4_20s24s_e16_v8?0"NSArray"4l
+_OBJC_SELECTOR_REFERENCES_.320
+_OBJC_SELECTOR_REFERENCES_.324
+_OBJC_SELECTOR_REFERENCES_.326
+_OBJC_SELECTOR_REFERENCES_.328
+_OBJC_SELECTOR_REFERENCES_.330
+_OBJC_SELECTOR_REFERENCES_.334
+_OBJC_SELECTOR_REFERENCES_.340
+__OBJC_$_PROTOCOL_REFS_NetmeraNetworkRequestor
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraNetworkRequestor
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraNetworkRequestor
+__OBJC_PROTOCOL_$_NetmeraNetworkRequestor
+__OBJC_LABEL_PROTOCOL_$_NetmeraNetworkRequestor
+__OBJC_CLASS_PROTOCOLS_$_NetmeraNetworkManager
+__OBJC_METACLASS_RO_$_NetmeraNetworkManager
+__OBJC_$_INSTANCE_METHODS_NetmeraNetworkManager
+_OBJC_IVAR_$_NetmeraNetworkManager._shouldStartRequest
+_OBJC_IVAR_$_NetmeraNetworkManager._pendingRequestsResponse
+_OBJC_IVAR_$_NetmeraNetworkManager._offlineEventPermission
+_OBJC_IVAR_$_NetmeraNetworkManager._delegate
+_OBJC_IVAR_$_NetmeraNetworkManager._APIKey
+_OBJC_IVAR_$_NetmeraNetworkManager._baseURL
+_OBJC_IVAR_$_NetmeraNetworkManager._framework
+_OBJC_IVAR_$_NetmeraNetworkManager._frameworkVersion
+_OBJC_IVAR_$_NetmeraNetworkManager._application
+_OBJC_IVAR_$_NetmeraNetworkManager._networkAdapter
+_OBJC_IVAR_$_NetmeraNetworkManager._persistenceAdapter
+_OBJC_IVAR_$_NetmeraNetworkManager._stateManager
+_OBJC_IVAR_$_NetmeraNetworkManager._periodicProcessTimer
+_OBJC_IVAR_$_NetmeraNetworkManager._continuingRequests
+_OBJC_IVAR_$_NetmeraNetworkManager._eventPermission
+_OBJC_IVAR_$_NetmeraNetworkManager._eventPostTimeInterval
+__OBJC_$_INSTANCE_VARIABLES_NetmeraNetworkManager
+__OBJC_$_PROP_LIST_NetmeraNetworkManager
+__OBJC_CLASS_RO_$_NetmeraNetworkManager
+/Users/vagrant/git/Netmera/Netmera/Network/NetmeraNetworkManager.m
+Netmera/Network/NetmeraNetworkManager.m
+Netmera/Network/NetmeraNetworkManager.h
+__58-[NetmeraNetworkManager removeAllEventRequestInPersistant]_block_invoke
+__67-[NetmeraNetworkManager processRequestsInPersistantStorageIfNeeded]_block_invoke
+__57-[NetmeraNetworkManager performNotifyOperationsForState:]_block_invoke
+__copy_helper_block_e4_20s24s28s
+__54-[NetmeraNetworkManager startRequest:completionBlock:]_block_invoke
+-[NetmeraAdvertisingIdManager initWithRequestSender:stateManager:]
+-[NetmeraAdvertisingIdManager performOperationsForConfigUpdate:]
+-[NetmeraAdvertisingIdManager performLaunchOperations]
+-[NetmeraAdvertisingIdManager setUpShouldTrackFromConfigData]
+-[NetmeraAdvertisingIdManager applicationWillEnterForeground]
+-[NetmeraAdvertisingIdManager setAuthorizationAdIdStatus:forSource:]
+-[NetmeraAdvertisingIdManager authorizationAdIdStatusForSource:]
+-[NetmeraAdvertisingIdManager updateAuthorizationAdIdStatus:onServerForSource:]
+-[NetmeraAdvertisingIdManager userDidUpdateAuthorizationAdIdStatus]
+-[NetmeraAdvertisingIdManager isUserAuthorizedAdId]
+-[NetmeraAdvertisingIdManager requestAdvertisingAuthorizationIfNeeded]
+-[NetmeraAdvertisingIdManager sender]
+-[NetmeraAdvertisingIdManager setSender:]
+-[NetmeraAdvertisingIdManager stateManager]
+-[NetmeraAdvertisingIdManager setStateManager:]
+-[NetmeraAdvertisingIdManager shouldSendAdvertisingId]
+-[NetmeraAdvertisingIdManager setShouldSendAdvertisingId:]
+-[NetmeraAdvertisingIdManager .cxx_destruct]
+__OBJC_METACLASS_RO_$_NetmeraAdvertisingIdManager
+__OBJC_$_INSTANCE_METHODS_NetmeraAdvertisingIdManager
+_OBJC_IVAR_$_NetmeraAdvertisingIdManager._shouldSendAdvertisingId
+_OBJC_IVAR_$_NetmeraAdvertisingIdManager._sender
+_OBJC_IVAR_$_NetmeraAdvertisingIdManager._stateManager
+__OBJC_$_INSTANCE_VARIABLES_NetmeraAdvertisingIdManager
+__OBJC_$_PROP_LIST_NetmeraAdvertisingIdManager
+__OBJC_CLASS_RO_$_NetmeraAdvertisingIdManager
+/Users/vagrant/git/Netmera/Netmera/Advertising/NetmeraAdvertisingIdManager.m
+Netmera/Advertising/NetmeraAdvertisingIdManager.m
+__OBJC_METACLASS_RO_$_NetmeraEncryptor
+__OBJC_CLASS_RO_$_NetmeraEncryptor
+/Users/vagrant/git/Netmera/Netmera/Encryptor/NetmeraEncryptor.m
+-[UITextView(ActionTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UITextView_$_ActionTracking
+__OBJC_$_CATEGORY_UITextView_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UITextView+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UITextView+ActionTracking.m
+-[NetmeraBatteryStateManager initWithEventSender:stateManager:]
+-[NetmeraBatteryStateManager performOperationsForConfigUpdate:]
+-[NetmeraBatteryStateManager performLaunchOperations]
+-[NetmeraBatteryStateManager setUpBatteryLimitFromConfigData]
+-[NetmeraBatteryStateManager startMonitoringBattery]
+-[NetmeraBatteryStateManager stopMonitoringBattery]
+-[NetmeraBatteryStateManager deviceBatteryLevelDidChangeNotification:]
+-[NetmeraBatteryStateManager eventSender]
+-[NetmeraBatteryStateManager setEventSender:]
+-[NetmeraBatteryStateManager stateManager]
+-[NetmeraBatteryStateManager setStateManager:]
+-[NetmeraBatteryStateManager lastBatteryLevel]
+-[NetmeraBatteryStateManager setLastBatteryLevel:]
+-[NetmeraBatteryStateManager batteryLevelLimit]
+-[NetmeraBatteryStateManager setBatteryLevelLimit:]
+-[NetmeraBatteryStateManager shouldSendBatteryLevel]
+-[NetmeraBatteryStateManager setShouldSendBatteryLevel:]
+-[NetmeraBatteryStateManager batteryMonitoring]
+-[NetmeraBatteryStateManager setBatteryMonitoring:]
+-[NetmeraBatteryStateManager .cxx_destruct]
+__OBJC_METACLASS_RO_$_NetmeraBatteryStateManager
+__OBJC_$_INSTANCE_METHODS_NetmeraBatteryStateManager
+_OBJC_IVAR_$_NetmeraBatteryStateManager._shouldSendBatteryLevel
+_OBJC_IVAR_$_NetmeraBatteryStateManager._batteryMonitoring
+_OBJC_IVAR_$_NetmeraBatteryStateManager._eventSender
+_OBJC_IVAR_$_NetmeraBatteryStateManager._stateManager
+_OBJC_IVAR_$_NetmeraBatteryStateManager._lastBatteryLevel
+_OBJC_IVAR_$_NetmeraBatteryStateManager._batteryLevelLimit
+__OBJC_$_INSTANCE_VARIABLES_NetmeraBatteryStateManager
+__OBJC_$_PROP_LIST_NetmeraBatteryStateManager
+__OBJC_CLASS_RO_$_NetmeraBatteryStateManager
+/Users/vagrant/git/Netmera/Netmera/Battery/NetmeraBatteryStateManager.m
+Netmera/Battery/NetmeraBatteryStateManager.m
+-[UIDatePicker(AutoTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIDatePicker_$_AutoTracking
+__OBJC_$_CATEGORY_UIDatePicker_$_AutoTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UIDatePicker+AutoTracking.m
+Netmera/ScreenTracking/UIControlTracking/UIDatePicker+AutoTracking.m
+-[NetmeraAFNetworkingAdapter init]
+-[NetmeraAFNetworkingAdapter sendRequestWithSpec:onResponse:]
+___61-[NetmeraAFNetworkingAdapter sendRequestWithSpec:onResponse:]_block_invoke
+___copy_helper_block_e4_20s24b28r
+___destroy_helper_block_e4_20s24s28r
+-[NetmeraAFNetworkingAdapter addTaskToQueue:]
+-[NetmeraAFNetworkingAdapter removeTaskFromQueue:]
+-[NetmeraAFNetworkingAdapter startProcessingRequests]
+-[NetmeraAFNetworkingAdapter stopProcessingRequests]
+-[NetmeraAFNetworkingAdapter isProcessingRequests]
+-[NetmeraAFNetworkingAdapter cancelAllRequests]
+-[NetmeraAFNetworkingAdapter requestManager]
+-[NetmeraAFNetworkingAdapter setRequestManager:]
+-[NetmeraAFNetworkingAdapter taskQueue]
+-[NetmeraAFNetworkingAdapter setTaskQueue:]
+-[NetmeraAFNetworkingAdapter .cxx_destruct]
+___block_descriptor_32_e4_20s24bs28r_e37_v16?0"NSURLResponse"48"NSError"12l
+__OBJC_$_PROTOCOL_REFS_NetmeraNetworkAdapter
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraNetworkAdapter
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraNetworkAdapter
+__OBJC_PROTOCOL_$_NetmeraNetworkAdapter
+__OBJC_LABEL_PROTOCOL_$_NetmeraNetworkAdapter
+__OBJC_CLASS_PROTOCOLS_$_NetmeraAFNetworkingAdapter
+__OBJC_METACLASS_RO_$_NetmeraAFNetworkingAdapter
+__OBJC_$_INSTANCE_METHODS_NetmeraAFNetworkingAdapter
+_OBJC_IVAR_$_NetmeraAFNetworkingAdapter._requestManager
+_OBJC_IVAR_$_NetmeraAFNetworkingAdapter._taskQueue
+__OBJC_$_INSTANCE_VARIABLES_NetmeraAFNetworkingAdapter
+__OBJC_$_PROP_LIST_NetmeraAFNetworkingAdapter
+__OBJC_CLASS_RO_$_NetmeraAFNetworkingAdapter
+/Users/vagrant/git/Netmera/Netmera/Network/NetmeraAFNetworkingAdapter.m
+Netmera/Network/NetmeraAFNetworkingAdapter.m
+__destroy_helper_block_e4_20s24s28r
+__copy_helper_block_e4_20s24b28r
+__61-[NetmeraAFNetworkingAdapter sendRequestWithSpec:onResponse:]_block_invoke
+-[NSObject(Netmera) logPropertys]
+-[NSObject(Netmera) logIvars]
++[NSObject(Netmera) getObjectInstanceVariable:variable:]
+-[NSObject(Netmera) controllerVariable]
+-[NSObject(Netmera) autoDescribe:classType:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSObject_$_Netmera
+__OBJC_$_CATEGORY_CLASS_METHODS_NSObject_$_Netmera
+__OBJC_$_CATEGORY_NSObject_$_Netmera
+/Users/vagrant/git/Netmera/Netmera/Utils/NSObject+Netmera.m
+Netmera/Utils/NSObject+Netmera.m
+NSStringFromProperty
+-[UIBarItem(ActionTracking) getActionWithSelector:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIBarItem_$_ActionTracking
+__OBJC_$_CATEGORY_UIBarItem_$_ActionTracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UIControlTracking/UIBarItem+ActionTracking.m
+Netmera/ScreenTracking/UIControlTracking/UIBarItem+ActionTracking.m
+-[NetmeraScreenTrackingManager initWithEventSender:stateManager:]
+-[NetmeraScreenTrackingManager performOperationsForConfigUpdate:]
+-[NetmeraScreenTrackingManager performLaunchOperations]
+-[NetmeraScreenTrackingManager setUpScreenTrackingFromConfigData]
+___65-[NetmeraScreenTrackingManager setUpScreenTrackingFromConfigData]_block_invoke
+-[NetmeraScreenTrackingManager startTrackingScreen]
+-[NetmeraScreenTrackingManager stopTrackingScreen]
+-[NetmeraScreenTrackingManager startTrackingActions]
+-[NetmeraScreenTrackingManager stopTrackingActions]
+-[NetmeraScreenTrackingManager registerApplicationLifecycleNotifications]
+-[NetmeraScreenTrackingManager dealloc]
+-[NetmeraScreenTrackingManager unregisterNotifications]
+-[NetmeraScreenTrackingManager screenOpenNotification:]
+-[NetmeraScreenTrackingManager creteInfoWithController:]
+-[NetmeraScreenTrackingManager getPageNameFromViewController:]
+-[NetmeraScreenTrackingManager screenCloseNotification:]
+-[NetmeraScreenTrackingManager willEnterForegroundNotification:]
+-[NetmeraScreenTrackingManager didEnterBackgroundNotification:]
+-[NetmeraScreenTrackingManager sendOpenEventWithViewInfo:]
+-[NetmeraScreenTrackingManager sendCloseEventWithViewInfo:]
+-[NetmeraScreenTrackingManager handleUIActionNotification:]
+-[NetmeraScreenTrackingManager sendUIActionEventWithName:value:type:]
+___69-[NetmeraScreenTrackingManager sendUIActionEventWithName:value:type:]_block_invoke
+-[NetmeraScreenTrackingManager encryptor]
+-[NetmeraScreenTrackingManager setEncryptor:]
+-[NetmeraScreenTrackingManager eventSender]
+-[NetmeraScreenTrackingManager setEventSender:]
+-[NetmeraScreenTrackingManager stateManager]
+-[NetmeraScreenTrackingManager setStateManager:]
+-[NetmeraScreenTrackingManager shouldSendScreenEvent]
+-[NetmeraScreenTrackingManager setShouldSendScreenEvent:]
+-[NetmeraScreenTrackingManager shouldSendInputFlow]
+-[NetmeraScreenTrackingManager setShouldSendInputFlow:]
+-[NetmeraScreenTrackingManager screenTracking]
+-[NetmeraScreenTrackingManager setScreenTracking:]
+-[NetmeraScreenTrackingManager actionTracking]
+-[NetmeraScreenTrackingManager setActionTracking:]
+-[NetmeraScreenTrackingManager includeUIActions]
+-[NetmeraScreenTrackingManager setIncludeUIActions:]
+-[NetmeraScreenTrackingManager isTestUser]
+-[NetmeraScreenTrackingManager setIsTestUser:]
+-[NetmeraScreenTrackingManager viewStack]
+-[NetmeraScreenTrackingManager setViewStack:]
+-[NetmeraScreenTrackingManager currentViewInfo]
+-[NetmeraScreenTrackingManager setCurrentViewInfo:]
+-[NetmeraScreenTrackingManager previousViewInfo]
+-[NetmeraScreenTrackingManager setPreviousViewInfo:]
+-[NetmeraScreenTrackingManager .cxx_destruct]
+___block_descriptor_24_e4_20s_e33_v16?0"NSString"4"NSArray"8^c12l
+_OBJC_CLASSLIST_REFERENCES_$_.75
+_OBJC_CLASSLIST_REFERENCES_$_.87
+_OBJC_CLASSLIST_REFERENCES_$_.88
+_OBJC_CLASSLIST_REFERENCES_$_.89
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_CLASSLIST_REFERENCES_$_.137
+_OBJC_CLASSLIST_REFERENCES_$_.144
+__OBJC_$_PROTOCOL_REFS_NetmeraScreenTrackable
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NetmeraScreenTrackable
+__OBJC_$_PROTOCOL_METHOD_TYPES_NetmeraScreenTrackable
+__OBJC_PROTOCOL_$_NetmeraScreenTrackable
+__OBJC_LABEL_PROTOCOL_$_NetmeraScreenTrackable
+__OBJC_PROTOCOL_REFERENCE_$_NetmeraScreenTrackable
+_OBJC_CLASSLIST_REFERENCES_$_.221
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_CLASSLIST_REFERENCES_$_.244
+___block_descriptor_24_e4_20s_e31_c16?0"NetmeraUIAction"4I8^c12l
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_CLASSLIST_REFERENCES_$_.274
+__OBJC_METACLASS_RO_$_NetmeraScreenTrackingManager
+__OBJC_$_INSTANCE_METHODS_NetmeraScreenTrackingManager
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._shouldSendScreenEvent
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._shouldSendInputFlow
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._screenTracking
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._actionTracking
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._isTestUser
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._encryptor
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._eventSender
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._stateManager
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._includeUIActions
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._viewStack
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._currentViewInfo
+_OBJC_IVAR_$_NetmeraScreenTrackingManager._previousViewInfo
+__OBJC_$_INSTANCE_VARIABLES_NetmeraScreenTrackingManager
+__OBJC_$_PROP_LIST_NetmeraScreenTrackingManager
+__OBJC_CLASS_RO_$_NetmeraScreenTrackingManager
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/NetmeraScreenTrackingManager.m
+Netmera/ScreenTracking/NetmeraScreenTrackingManager.m
+Netmera/ScreenTracking/NetmeraScreenTrackingManager.h
+__69-[NetmeraScreenTrackingManager sendUIActionEventWithName:value:type:]_block_invoke
+__65-[NetmeraScreenTrackingManager setUpScreenTrackingFromConfigData]_block_invoke
+-[UITapGestureRecognizer(Tracking) setTargetName:]
+-[UITapGestureRecognizer(Tracking) targetName]
+-[UITapGestureRecognizer(Tracking) setOriginActionName:]
+-[UITapGestureRecognizer(Tracking) originActionName]
++[UITapGestureRecognizer(Tracking) swizzle]
+___43+[UITapGestureRecognizer(Tracking) swizzle]_block_invoke
++[UITapGestureRecognizer(Tracking) unSwizzle]
+___45+[UITapGestureRecognizer(Tracking) unSwizzle]_block_invoke
+-[UITapGestureRecognizer(Tracking) netmera_initWithTarget:action:]
+-[UITapGestureRecognizer(Tracking) netmera_addTarget:action:]
+-[UITapGestureRecognizer(Tracking) netmera_trackTapGestureAction:]
+_kTargetKey
+_kOriginActionKey
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UITapGestureRecognizer_$_Tracking
+__OBJC_$_CATEGORY_CLASS_METHODS_UITapGestureRecognizer_$_Tracking
+__OBJC_$_CATEGORY_UITapGestureRecognizer_$_Tracking
+/Users/vagrant/git/Netmera/Netmera/ScreenTracking/UITapGestureRecognizer+Tracking.m
+Netmera/ScreenTracking/UITapGestureRecognizer+Tracking.m
+__45+[UITapGestureRecognizer(Tracking) unSwizzle]_block_invoke
+__43+[UITapGestureRecognizer(Tracking) swizzle]_block_invoke
++[UIColor(Netmera) colorFromHexCode:]
+__OBJC_$_CATEGORY_CLASS_METHODS_UIColor_$_Netmera
+__OBJC_$_CATEGORY_UIColor_$_Netmera
+/Users/vagrant/git/Netmera/Netmera/Utils/UIColor+Netmera.m
+Netmera/Utils/UIColor+Netmera.m
++[NetmeraSwizzleInfo infoWithSelector:implementation:typeEncoding:]
+-[NetmeraSwizzleInfo selector]
+-[NetmeraSwizzleInfo setSelector:]
+-[NetmeraSwizzleInfo implementation]
+-[NetmeraSwizzleInfo setImplementation:]
+-[NetmeraSwizzleInfo typeEncoding]
+-[NetmeraSwizzleInfo setTypeEncoding:]
+-[NetmeraSwizzleInfo .cxx_destruct]
+__OBJC_$_CLASS_METHODS_NetmeraSwizzleInfo
+__OBJC_METACLASS_RO_$_NetmeraSwizzleInfo
+__OBJC_$_INSTANCE_METHODS_NetmeraSwizzleInfo
+_OBJC_IVAR_$_NetmeraSwizzleInfo._selector
+_OBJC_IVAR_$_NetmeraSwizzleInfo._implementation
+_OBJC_IVAR_$_NetmeraSwizzleInfo._typeEncoding
+__OBJC_$_INSTANCE_VARIABLES_NetmeraSwizzleInfo
+__OBJC_$_PROP_LIST_NetmeraSwizzleInfo
+__OBJC_CLASS_RO_$_NetmeraSwizzleInfo
+/Users/vagrant/git/Netmera/Netmera/Swizzle/NetmeraSwizzleInfo.m
+Netmera/Swizzle/NetmeraSwizzleInfo.m
+Netmera/Swizzle/NetmeraSwizzleInfo.h
++[NetmeraSwizzle swizzleMethod:withMethod:error:class:]
++[NetmeraSwizzle(NetmeraExtension) hook_methodWithOriginalClass:originalSel:replacedClass:replacedSel:]
+_OBJC_CLASSLIST_REFERENCES_$_.4
+__OBJC_$_CLASS_METHODS_NetmeraSwizzle
+__OBJC_METACLASS_RO_$_NetmeraSwizzle
+__OBJC_CLASS_RO_$_NetmeraSwizzle
+__OBJC_$_CATEGORY_CLASS_METHODS_NetmeraSwizzle_$_NetmeraExtension
+__OBJC_$_CATEGORY_NetmeraSwizzle_$_NetmeraExtension
+/Users/vagrant/git/Netmera/Netmera/Swizzle/NetmeraSwizzle.m
+Netmera/Swizzle/NetmeraSwizzle.m

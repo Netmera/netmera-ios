@@ -1,0 +1,7 @@
+//
+//  NetmeraCore.swift
+//  
+//
+//
+
+import Foundation

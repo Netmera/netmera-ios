@@ -90,22 +90,22 @@ let package = Package(
 
     .binaryTarget(
       name: "netmera",
-      path: "xcframework/Netmera.xcframework"),
+      path: "xcframework/Netmera/Netmera.xcframework"),
 
       .binaryTarget(
         name: "netmera-core",
-        path: "xcframework/NetmeraCore.xcframework"),
+        path: "xcframework/NetmeraCore/NetmeraCore.xcframework"),
 
       .binaryTarget(
         name: "netmera-adid",
-        path: "xcframework/NetmeraAdId.xcframework"),
+        path: "xcframework/NetmeraAdId/NetmeraAdId.xcframework"),
 
       .binaryTarget(
         name: "netmera-notification-service-extension",
-        path: "xcframework/NetmeraNotificationServiceExtension.xcframework"),
+        path: "xcframework/NetmeraNotificationServiceExtension/NetmeraNotificationServiceExtension.xcframework"),
 
       .binaryTarget(
         name: "netmera-notification-content-extension",
-        path: "xcframework/NetmeraNotificationContentExtension.xcframework"),
+        path: "xcframework/NetmeraNotificationContentExtension/NetmeraNotificationContentExtension.xcframework"),
   ]
 )

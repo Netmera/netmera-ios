@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Netmera'
-  s.version          = '3.14.8-beta1'
+  s.version          = '3.14.11-beta5'
   s.summary          = 'iOS SDK for Netmera mobile app engagement platform'
 
   s.description      = <<-DESC
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
     LICENSE
   }
   s.author           = { 'netmera' => 'sdk@netmera.com' }
-  s.source           = { :git => 'https://github.com/Netmera/netmera-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Netmera/netmera-ios.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/netmera'
 
   s.ios.deployment_target = '9.0'
@@ -47,54 +47,44 @@ Pod::Spec.new do |s|
 
   s.weak_frameworks = 'UserNotifications', 'AppTrackingTransparency', 'StoreKit', 'WatchConnectivity'
   s.libraries   = 'sqlite3'
+  s.requires_arc = true
 
-  s.default_subspec = 'NetmeraWithAdId', 'Core'
+  s.default_subspec = 'NetmeraWithAdId'
 
   s.subspec 'NetmeraWithAdId' do |ss|
     ss.ios.deployment_target = '9.0'
-    ss.dependency 'Netmera/Application'
+    ss.dependency 'Netmera/NetmeraWithoutAdId'
     ss.dependency 'Netmera/AdIdSupport'
-    ss.frameworks = 'NetmeraAdId'
   end
 
   s.subspec 'NetmeraWithoutAdId' do |ss|
     ss.ios.deployment_target = '9.0'
-    ss.dependency 'Netmera/Application'
-  end
-
-  s.subspec 'Application' do |ss|
-    ss.ios.deployment_target = '9.0'
-    ss.vendored_frameworks = 'Netmera.xcframework'
+    ss.vendored_frameworks = 'Frameworks/Netmera/Netmera.xcframework'
     ss.dependency 'AFNetworking/NSURLSession'
-    ss.dependency 'Netmera/Core'
+    ss.dependency 'NetmeraCore'
     ss.dependency 'MMWormhole', '~> 2.0.0'
     ss.dependency 'FMDB'
     ss.dependency 'UICKeyChainStore', '~>2.0'
   end
 
- s.subspec 'Core' do |ss|
-   ss.ios.deployment_target = '9.0'
-   ss.vendored_frameworks = 'NetmeraCore.xcframework'
- end
-
   s.subspec 'AdIdSupport' do |ss|
     ss.ios.deployment_target = '9.0'
-    ss.vendored_frameworks = 'NetmeraAdId.xcframework'
+    ss.vendored_frameworks = 'Frameworks/NetmeraAdId/NetmeraAdId.xcframework'
   end
 
   s.subspec 'NotificationContentExtension' do |ss|
     ss.ios.deployment_target = '10.0'
-    # ss.dependency 'NetmeraCore'
+    ss.dependency 'NetmeraCore'
     ss.dependency 'MMWormhole', '~> 2.0.0'
-    ss.vendored_frameworks = 'NetmeraNotificationContentExtension.xcframework'
+    ss.vendored_frameworks = 'Frameworks/NetmeraNotificationContentExtension/NetmeraNotificationContentExtension.xcframework'
   end
 
   s.subspec 'NotificationServiceExtension' do |ss|
     ss.ios.deployment_target = '10.0'
-    # ss.dependency 'NetmeraCore'
-    ss.vendored_frameworks = 'NetmeraNotificationServiceExtension.xcframework'
+    ss.dependency 'NetmeraCore'
+    ss.vendored_frameworks = 'Frameworks/NetmeraNotificationServiceExtension/NetmeraNotificationServiceExtension.xcframework'
   end
 
-
 end
+
 

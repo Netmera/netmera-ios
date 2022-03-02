@@ -1,6 +1,0 @@
-framework module NetmeraAdId {
-  umbrella header "NetmeraAdId.h"
-
-  export *
-  module * { export * }
-}

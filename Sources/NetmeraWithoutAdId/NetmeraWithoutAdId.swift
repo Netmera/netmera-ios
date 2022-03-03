@@ -1,6 +1,0 @@
-//
-//  NetmeraWithoutAdId.swift
-//  
-//
-//
-

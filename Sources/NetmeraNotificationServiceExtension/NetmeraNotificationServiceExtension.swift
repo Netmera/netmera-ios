@@ -1,6 +1,0 @@
-//
-//  NetmeraNotificationServiceExtension.swift
-//  
-//
-//
-

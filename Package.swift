@@ -9,8 +9,8 @@ let package = Package(
   products: [
     // Products define the executables and libraries a package produces, and make them visible to other packages.
     .library(
-      name: "Netmera",
-      targets: ["NetmeraSDK", "Netmera"]),
+      name: "NetmeraSDK",
+      targets: ["NetmeraSDK"]),
     .library(
       name: "NetmeraNotificationServiceExtension",
       targets: ["NetmeraNotificationServiceExtensionSDK"]),
@@ -21,9 +21,9 @@ let package = Package(
   dependencies: [
     // Dependencies declare other packages that this package depends on.
     // .package(url: /* package url */, from: "1.0.0"),
-    .package(url: "https://github.com/AFNetworking/AFNetworking.git", .exact("4.0.1")),
+    .package(name: "AFNetworking", url: "https://github.com/AFNetworking/AFNetworking.git", .exact("4.0.1")),
     .package(name: "FMDB", url: "https://github.com/ccgus/fmdb", .exact("2.7.7")),
-    .package(url: "https://github.com/kishikawakatsumi/UICKeyChainStore.git", .exact("2.2.1")),
+    .package(name: "UICKeyChainStore", url: "https://github.com/kishikawakatsumi/UICKeyChainStore.git", .exact("2.2.1")),
     .package(name: "MMWormhole", url: "https://github.com/NetmeraSDK/MMWormhole.git", branch: "feature/spm-support")
   ],
   targets: [

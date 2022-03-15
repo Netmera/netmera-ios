@@ -10,85 +10,45 @@ let package = Package(
     // Products define the executables and libraries a package produces, and make them visible to other packages.
     .library(
       name: "NetmeraSDK",
-      targets: ["NetmeraSDK"]),
+      targets: ["NetmeraCore", "Netmera", "NetmeraAdId"]),
     .library(
       name: "NetmeraNotificationServiceExtension",
-      targets: ["NetmeraNotificationServiceExtensionSDK"]),
+      targets: ["NetmeraNotificationServiceExtension"]),
     .library(
       name: "NetmeraNotificationContentExtension",
-      targets: ["NetmeraNotificationContentExtensionSDK"]),
+      targets: ["NetmeraNotificationContentExtension"]),
   ],
   dependencies: [
     // Dependencies declare other packages that this package depends on.
     // .package(url: /* package url */, from: "1.0.0"),
-    .package(name: "AFNetworking", url: "https://github.com/AFNetworking/AFNetworking.git", .exact("4.0.1")),
-    .package(name: "FMDB", url: "https://github.com/ccgus/fmdb", .exact("2.7.7")),
-    .package(name: "UICKeyChainStore", url: "https://github.com/kishikawakatsumi/UICKeyChainStore.git", .exact("2.2.1")),
-    .package(name: "MMWormhole", url: "https://github.com/NetmeraSDK/MMWormhole.git", branch: "feature/spm-support")
   ],
   targets: [
     // Targets are the basic building blocks of a package. A target can define a module or a test suite.
     // Targets can depend on other targets in this package, and on products in packages this package depends on.
-
-    .target(
-      name: "NetmeraSDK",
-      dependencies: [
-//        "AFNetworking", "UICKeyChainStore", "FMDB", "MMWormhole", "NetmeraCore"
-        .product(name: "AFNetworking", package: "AFNetworking"),
-        .product(name: "UICKeyChainStore", package: "UICKeyChainStore"),
-        .product(name: "FMDB", package: "FMDB"),
-        .product(name: "MMWormhole", package: "MMWormhole"),
-        .target(name: "NetmeraCore",
-                condition: .when(platforms: [.iOS])),
-        .target(name: "NetmeraAdId",
-                condition: .when(platforms: [.iOS])),
-        .target(name: "Netmera",
-                condition: .when(platforms: [.iOS]))
-      ]
-    ),
-    .target(
-      name: "NetmeraNotificationServiceExtensionSDK",
-      dependencies: [
-        .target(name: "NetmeraCore",
-                condition: .when(platforms: [.iOS])),
-        .target(name: "NetmeraNotificationServiceExtension",
-                condition: .when(platforms: [.iOS]))
-      ]
-    ),
-    .target(
-      name: "NetmeraNotificationContentExtensionSDK",
-      dependencies: [
-        .target(name: "NetmeraCore",
-                condition: .when(platforms: [.iOS])),
-        .target(name: "NetmeraNotificationContentExtension",
-                condition: .when(platforms: [.iOS])),
-        .product(name: "MMWormhole", package: "MMWormhole")
-      ]
-    ),
     .binaryTarget(
       name: "NetmeraCore",
-      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta5/NetmeraCore.xcframework.zip",
-      checksum: "6d6115798fe7d16e095a0ec2092c76372193d4bafeb777fff87c186ba28419dc"
+      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta3/NetmeraCore.xcframework.zip",
+      checksum: "a5525675fa7990b66c3a2ac314f85ae4d5c19ae9d6cb219c1d3a522b79a9c37a"
     ),
     .binaryTarget(
       name: "Netmera",
-      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta5/Netmera.xcframework.zip",
-      checksum: "80aed8ecc535da98fb5b0e601e8dccc39e8ac632f3467be2337314335fe0a24d"
+      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta3/NetmeraEmbedded.xcframework.zip",
+      checksum: "debc984227c90cbeae4d32000178440a39084e01516de5e8a08a17e37b7a20b8"
     ),
     .binaryTarget(
       name: "NetmeraAdId",
-      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta5/NetmeraAdId.xcframework.zip",
-      checksum: "3334b12948f80cceb1024434419b1b6eda9eefbfdec66ceab2e9526579648b86"
+      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta3/NetmeraAdId.xcframework.zip",
+      checksum: "72ab7f347a2e8b8383aff75ed33761748a3ea07b4e9c29f2436cd7234ffd39d4"
     ),
     .binaryTarget(
       name: "NetmeraNotificationServiceExtension",
-      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta5/NetmeraNotificationServiceExtension.xcframework.zip",
-      checksum: "fa8f4d32a76076bcf31c61a697afcbc94e86fe6d36d9846a98e9933dd7f4cbf3"
+      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta3/NetmeraNotificationServiceExtension.xcframework.zip",
+      checksum: "2c658093c4030d798008cfb7a54d6f2e661c0f148d94d2f3c17194431ae4eba0"
     ),
     .binaryTarget(
       name: "NetmeraNotificationContentExtension",
-      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta5/NetmeraNotificationContentExtension.xcframework.zip",
-      checksum: "da7303266924ad7eb1943f2a3ef4e7b1c03e728edb9745c4ebe57a8abae835ed"
+      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta3/NetmeraNotificationContentExtensionEmbedded.xcframework.zip",
+      checksum: "71a4cb33a25bb9576f692885e1457c19ccbb193349ce919a9fd6286321afd1ad"
     ),
   ]
 )

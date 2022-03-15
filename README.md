@@ -5,8 +5,8 @@
 ## Netmera iOS SDK
 [![Version](https://img.shields.io/cocoapods/v/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
 [![Platform](https://img.shields.io/cocoapods/p/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
+[![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
 [![License](https://img.shields.io/cocoapods/l/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
-
 ---
 
 [Netmera](https://www.netmera.com) iOS SDK for Netmera mobile app engagement platform
@@ -47,6 +47,12 @@ For Without AdId Support
 ```ruby
 pod 'Netmera/NetmeraWithoutAdId'
 ```
+
+### Swift Package Manager(SPM)
+
+In Xcode, select File > Add Packages..
+
+Enter the package URL for this repository https://github.com/Netmera/netmera-ios.git.
 
 ### Carthage
 // TODO: Feature

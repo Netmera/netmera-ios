@@ -10,7 +10,7 @@ let package = Package(
     // Products define the executables and libraries a package produces, and make them visible to other packages.
     .library(
       name: "NetmeraSDK",
-      targets: ["NetmeraCore", "Netmera", "NetmeraAdId"]),
+      targets: ["Netmera", "NetmeraCore", "NetmeraAdId", "AFNetworking", "FMDB", "MMWormhole", "UICKeyChainStore"]),
     .library(
       name: "NetmeraNotificationServiceExtension",
       targets: ["NetmeraNotificationServiceExtension"]),
@@ -32,8 +32,8 @@ let package = Package(
     ),
     .binaryTarget(
       name: "Netmera",
-      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta3/NetmeraEmbedded.xcframework.zip",
-      checksum: "debc984227c90cbeae4d32000178440a39084e01516de5e8a08a17e37b7a20b8"
+      url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta3/Netmera.xcframework.zip",
+      checksum: "75e73a93316fab8a0d76ce842b56b8fdaf6bf32a40db2681d167fd03900ec325"
     ),
     .binaryTarget(
       name: "NetmeraAdId",
@@ -50,5 +50,9 @@ let package = Package(
       url: "https://github.com/Netmera/netmera-ios/releases/download/3.14.8-beta3/NetmeraNotificationContentExtensionEmbedded.xcframework.zip",
       checksum: "71a4cb33a25bb9576f692885e1457c19ccbb193349ce919a9fd6286321afd1ad"
     ),
+    .binaryTarget(name: "AFNetworking", path: "Frameworks/AFNetworking.xcframework"),
+    .binaryTarget(name: "FMDB", path: "Frameworks/FMDB.xcframework"),
+    .binaryTarget(name: "MMWormhole", path: "Frameworks/MMWormhole.xcframework"),
+    .binaryTarget(name: "UICKeyChainStore", path: "Frameworks/UICKeyChainStore.xcframework")
   ]
 )

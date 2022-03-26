@@ -1,0 +1,6 @@
+framework module NetmeraNotificationContentExtension {
+  umbrella header "NetmeraNotificationContentExtension.h"
+
+  export *
+  module * { export * }
+}

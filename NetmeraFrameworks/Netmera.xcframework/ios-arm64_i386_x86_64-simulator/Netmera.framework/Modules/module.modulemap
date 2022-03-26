@@ -1,0 +1,6 @@
+framework module Netmera {
+  umbrella header "Netmera.h"
+
+  export *
+  module * { export * }
+}

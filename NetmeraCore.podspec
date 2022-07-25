@@ -8,12 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NetmeraCore'
-  s.version          = '3.13.0'
+  s.version          = '3.14.11-beta5'
   s.summary          = 'iOS SDK for Netmera mobile app engagement platform'
 
   s.description      = <<-DESC
 
-	Know & understand your app users, send them targeted push notification & popup campaigns, and analyze results with Netmera!
+  Know & understand your app users, send them targeted push notification & popup campaigns, and analyze results with Netmera!
 
   Netmera iOS SDK provides you set of tools to work seamlessly with Netmera User Engagement platform.
 
@@ -38,10 +38,17 @@ Pod::Spec.new do |s|
     LICENSE
   }
   s.author           = { 'netmera' => 'sdk@netmera.com' }
-  s.source           = { :git => 'https://github.com/Netmera/netmera-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Netmera/netmera-ios.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/netmera'
-
   s.ios.deployment_target = '9.0'
-  s.vendored_frameworks = 'NetmeraCore.xcframework'
 
+  s.frameworks = 'Foundation', 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreServices', 'CoreTelephony', 'CoreLocation', 'WebKit', 'QuartzCore', 'OpenGLES'
+
+  s.weak_frameworks = 'UserNotifications', 'AppTrackingTransparency', 'StoreKit', 'WatchConnectivity'
+  s.libraries   = 'sqlite3'
+  s.requires_arc = true
+
+  s.vendored_frameworks = 'Frameworks/NetmeraCore/NetmeraCore.xcframework'
 end
+
+

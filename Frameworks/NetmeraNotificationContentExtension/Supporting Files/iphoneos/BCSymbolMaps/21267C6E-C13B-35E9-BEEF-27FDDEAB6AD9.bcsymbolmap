@@ -1,0 +1,655 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.5)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk
+iPhoneOS15.5.sdk
+/Users/muhammedkilinc/Library/Developer/Xcode/DerivedData/NetmeraApp-etaktxqjhpnrmacqiuexzyngdzmf/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraNotificationContentExtension/IntermediateBuildFilesPath/NetmeraNotificationContentExtension.build/Release-iphoneos/NetmeraNotificationContentExtension.build/DerivedSources/NetmeraNotificationContentExtension_vers.c
+/Users/muhammedkilinc/inomera-projects/netmera-sdk-ios/NotificationContentExtension
+-[CarouselItemModel initWithDictionary:]
+-[CarouselItemModel url]
+-[CarouselItemModel setUrl:]
+-[CarouselItemModel title]
+-[CarouselItemModel setTitle:]
+-[CarouselItemModel subtitle]
+-[CarouselItemModel setSubtitle:]
+-[CarouselItemModel imageData]
+-[CarouselItemModel setImageData:]
+-[CarouselItemModel .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.12
+__OBJC_METACLASS_RO_$_CarouselItemModel
+__OBJC_$_INSTANCE_METHODS_CarouselItemModel
+_OBJC_IVAR_$_CarouselItemModel._url
+_OBJC_IVAR_$_CarouselItemModel._title
+_OBJC_IVAR_$_CarouselItemModel._subtitle
+_OBJC_IVAR_$_CarouselItemModel._imageData
+__OBJC_$_INSTANCE_VARIABLES_CarouselItemModel
+__OBJC_$_PROP_LIST_CarouselItemModel
+__OBJC_CLASS_RO_$_CarouselItemModel
+/Users/muhammedkilinc/inomera-projects/netmera-sdk-ios/NotificationContentExtension/NetmeraNotificationContentExtension/CarouselItemModel.m
+NetmeraNotificationContentExtension/CarouselItemModel.m
+NetmeraNotificationContentExtension/CarouselItemModel.h
+-[CarouselView initWithFrame:]
+-[CarouselView commonInit]
+-[CarouselView prepareCarouselView:]
+-[CarouselView forwardCarousel]
+-[CarouselView numberOfItemsInCarousel:]
+-[CarouselView carousel:viewForItemAtIndex:reusingView:]
+___56-[CarouselView carousel:viewForItemAtIndex:reusingView:]_block_invoke
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+-[CarouselView carouselCurrentItemIndexDidChange:]
+-[CarouselView carousel:valueForOption:withDefault:]
+-[CarouselView carousel:didSelectItemAtIndex:]
+-[CarouselView pushObject]
+-[CarouselView setPushObject:]
+-[CarouselView delegate]
+-[CarouselView setDelegate:]
+-[CarouselView objectIndex]
+-[CarouselView setObjectIndex:]
+-[CarouselView carousel]
+-[CarouselView setCarousel:]
+-[CarouselView carouselDataArray]
+-[CarouselView setCarouselDataArray:]
+-[CarouselView spacingMultiplier]
+-[CarouselView setSpacingMultiplier:]
+-[CarouselView .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_IVAR_$_CarouselView._spacingMultiplier
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_CLASSLIST_REFERENCES_$_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_CLASSLIST_REFERENCES_$_.68
+_OBJC_CLASSLIST_REFERENCES_$_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_CLASSLIST_REFERENCES_$_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_CLASSLIST_REFERENCES_$_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_IVAR_$_CarouselView._pushObject
+_OBJC_IVAR_$_CarouselView._delegate
+_OBJC_IVAR_$_CarouselView._objectIndex
+_OBJC_IVAR_$_CarouselView._carousel
+_OBJC_IVAR_$_CarouselView._carouselDataArray
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_NMCarouselDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NMCarouselDataSource
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NMCarouselDataSource
+__OBJC_$_PROTOCOL_METHOD_TYPES_NMCarouselDataSource
+__OBJC_PROTOCOL_$_NMCarouselDataSource
+__OBJC_LABEL_PROTOCOL_$_NMCarouselDataSource
+__OBJC_$_PROTOCOL_REFS_NMCarouselDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NMCarouselDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NMCarouselDelegate
+__OBJC_PROTOCOL_$_NMCarouselDelegate
+__OBJC_LABEL_PROTOCOL_$_NMCarouselDelegate
+__OBJC_CLASS_PROTOCOLS_$_CarouselView
+__OBJC_METACLASS_RO_$_CarouselView
+__OBJC_$_INSTANCE_METHODS_CarouselView
+__OBJC_$_INSTANCE_VARIABLES_CarouselView
+__OBJC_$_PROP_LIST_CarouselView
+__OBJC_CLASS_RO_$_CarouselView
+/Users/muhammedkilinc/inomera-projects/netmera-sdk-ios/NotificationContentExtension/NetmeraNotificationContentExtension/CarouselView.m
+NetmeraNotificationContentExtension/CarouselView.m
+NetmeraNotificationContentExtension/CarouselView.h
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__56-[CarouselView carousel:viewForItemAtIndex:reusingView:]_block_invoke
+dispatch_get_main_queue
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/dispatch/queue.h
+llvm.loop.mustprogress
+-[NSObject(NMCarousel) numberOfPlaceholdersInCarousel:]
+-[NSObject(NMCarousel) carouselWillBeginScrollingAnimation:]
+-[NSObject(NMCarousel) carouselDidEndScrollingAnimation:]
+-[NSObject(NMCarousel) carouselDidScroll:]
+-[NSObject(NMCarousel) carouselCurrentItemIndexDidChange:]
+-[NSObject(NMCarousel) carouselWillBeginDragging:]
+-[NSObject(NMCarousel) carouselDidEndDragging:willDecelerate:]
+-[NSObject(NMCarousel) carouselWillBeginDecelerating:]
+-[NSObject(NMCarousel) carouselDidEndDecelerating:]
+-[NSObject(NMCarousel) carousel:shouldSelectItemAtIndex:]
+-[NSObject(NMCarousel) carousel:didSelectItemAtIndex:]
+-[NSObject(NMCarousel) carouselItemWidth:]
+-[NSObject(NMCarousel) carousel:itemTransformForOffset:baseTransform:]
+-[NSObject(NMCarousel) carousel:valueForOption:withDefault:]
+-[NMCarousel setUp]
+-[NMCarousel initWithCoder:]
+-[NMCarousel initWithFrame:]
+-[NMCarousel dealloc]
+-[NMCarousel setDataSource:]
+-[NMCarousel setDelegate:]
+-[NMCarousel setType:]
+-[NMCarousel setVertical:]
+-[NMCarousel setScrollOffset:]
+-[NMCarousel setCurrentItemIndex:]
+-[NMCarousel setPerspective:]
+-[NMCarousel setViewpointOffset:]
+-[NMCarousel setContentOffset:]
+-[NMCarousel setAutoscroll:]
+-[NMCarousel pushAnimationState:]
+-[NMCarousel popAnimationState]
+-[NMCarousel indexesForVisibleItems]
+-[NMCarousel visibleItemViews]
+-[NMCarousel itemViewAtIndex:]
+-[NMCarousel currentItemView]
+-[NMCarousel indexOfItemView:]
+-[NMCarousel indexOfItemViewOrSubview:]
+-[NMCarousel itemViewAtPoint:]
+-[NMCarousel setItemView:forIndex:]
+-[NMCarousel removeViewAtIndex:]
+-[NMCarousel insertView:atIndex:]
+-[NMCarousel alphaForItemWithOffset:]
+-[NMCarousel valueForOption:withDefault:]
+-[NMCarousel transformForItemViewWithOffset:]
+-[NMCarousel depthSortViews]
+-[NMCarousel offsetForItemAtIndex:]
+-[NMCarousel containView:]
+-[NMCarousel transformItemView:atIndex:]
+-[NMCarousel layoutSubviews]
+-[NMCarousel transformItemViews]
+-[NMCarousel updateItemWidth]
+-[NMCarousel updateNumberOfVisibleItems]
+-[NMCarousel circularCarouselItemCount]
+-[NMCarousel layOutItemViews]
+-[NMCarousel queueItemView:]
+-[NMCarousel queuePlaceholderView:]
+-[NMCarousel dequeueItemView]
+-[NMCarousel dequeuePlaceholderView]
+-[NMCarousel loadViewAtIndex:withContainerView:]
+-[NMCarousel loadViewAtIndex:]
+-[NMCarousel loadUnloadViews]
+-[NMCarousel reloadData]
+-[NMCarousel clampedIndex:]
+-[NMCarousel clampedOffset:]
+-[NMCarousel currentItemIndex]
+-[NMCarousel minScrollDistanceFromIndex:toIndex:]
+-[NMCarousel minScrollDistanceFromOffset:toOffset:]
+-[NMCarousel scrollByOffset:duration:]
+-[NMCarousel scrollToOffset:duration:]
+-[NMCarousel scrollByNumberOfItems:duration:]
+-[NMCarousel scrollToItemAtIndex:duration:]
+-[NMCarousel scrollToItemAtIndex:animated:]
+-[NMCarousel removeItemAtIndex:animated:]
+-[NMCarousel insertItemAtIndex:animated:]
+-[NMCarousel reloadItemAtIndex:animated:]
+-[NMCarousel startAnimation]
+-[NMCarousel stopAnimation]
+-[NMCarousel decelerationDistance]
+-[NMCarousel shouldDecelerate]
+-[NMCarousel shouldScroll]
+-[NMCarousel startDecelerating]
+-[NMCarousel easeInOut:]
+-[NMCarousel step]
+-[NMCarousel didMoveToSuperview]
+-[NMCarousel didScroll]
+-[NMCarousel viewOrSuperviewIndex:]
+-[NMCarousel viewOrSuperview:implementsSelector:]
+-[NMCarousel viewOrSuperview:ofClass:]
+-[NMCarousel gestureRecognizer:shouldReceiveTouch:]
+-[NMCarousel gestureRecognizerShouldBegin:]
+-[NMCarousel didTap:]
+-[NMCarousel didPan:]
+-[NMCarousel dataSource]
+-[NMCarousel delegate]
+-[NMCarousel type]
+-[NMCarousel perspective]
+-[NMCarousel decelerationRate]
+-[NMCarousel setDecelerationRate:]
+-[NMCarousel scrollSpeed]
+-[NMCarousel setScrollSpeed:]
+-[NMCarousel bounceDistance]
+-[NMCarousel setBounceDistance:]
+-[NMCarousel isScrollEnabled]
+-[NMCarousel setScrollEnabled:]
+-[NMCarousel isPagingEnabled]
+-[NMCarousel setPagingEnabled:]
+-[NMCarousel isVertical]
+-[NMCarousel isWrapEnabled]
+-[NMCarousel setWrapEnabled:]
+-[NMCarousel bounces]
+-[NMCarousel setBounces:]
+-[NMCarousel scrollOffset]
+-[NMCarousel offsetMultiplier]
+-[NMCarousel setOffsetMultiplier:]
+-[NMCarousel contentOffset]
+-[NMCarousel viewpointOffset]
+-[NMCarousel numberOfItems]
+-[NMCarousel numberOfPlaceholders]
+-[NMCarousel numberOfVisibleItems]
+-[NMCarousel setNumberOfVisibleItems:]
+-[NMCarousel itemWidth]
+-[NMCarousel setItemWidth:]
+-[NMCarousel contentView]
+-[NMCarousel setContentView:]
+-[NMCarousel toggle]
+-[NMCarousel autoscroll]
+-[NMCarousel stopAtItemBoundary]
+-[NMCarousel setStopAtItemBoundary:]
+-[NMCarousel scrollToItemBoundary]
+-[NMCarousel setScrollToItemBoundary:]
+-[NMCarousel ignorePerpendicularSwipes]
+-[NMCarousel setIgnorePerpendicularSwipes:]
+-[NMCarousel centerItemWhenSelected]
+-[NMCarousel setCenterItemWhenSelected:]
+-[NMCarousel isDragging]
+-[NMCarousel setDragging:]
+-[NMCarousel isDecelerating]
+-[NMCarousel setDecelerating:]
+-[NMCarousel isScrolling]
+-[NMCarousel setScrolling:]
+-[NMCarousel itemViews]
+-[NMCarousel setItemViews:]
+-[NMCarousel itemViewPool]
+-[NMCarousel setItemViewPool:]
+-[NMCarousel placeholderViewPool]
+-[NMCarousel setPlaceholderViewPool:]
+-[NMCarousel previousScrollOffset]
+-[NMCarousel setPreviousScrollOffset:]
+-[NMCarousel previousItemIndex]
+-[NMCarousel setPreviousItemIndex:]
+-[NMCarousel numberOfPlaceholdersToShow]
+-[NMCarousel setNumberOfPlaceholdersToShow:]
+-[NMCarousel startOffset]
+-[NMCarousel setStartOffset:]
+-[NMCarousel endOffset]
+-[NMCarousel setEndOffset:]
+-[NMCarousel scrollDuration]
+-[NMCarousel setScrollDuration:]
+-[NMCarousel startTime]
+-[NMCarousel setStartTime:]
+-[NMCarousel lastTime]
+-[NMCarousel setLastTime:]
+-[NMCarousel startVelocity]
+-[NMCarousel setStartVelocity:]
+-[NMCarousel timer]
+-[NMCarousel setTimer:]
+-[NMCarousel previousTranslation]
+-[NMCarousel setPreviousTranslation:]
+-[NMCarousel didDrag]
+-[NMCarousel setDidDrag:]
+-[NMCarousel toggleTime]
+-[NMCarousel setToggleTime:]
+-[NMCarousel .cxx_destruct]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSObject_$_NMCarousel
+__OBJC_$_CATEGORY_NSObject_$_NMCarousel
+_OBJC_IVAR_$_NMCarousel._decelerationRate
+_OBJC_IVAR_$_NMCarousel._scrollEnabled
+_OBJC_IVAR_$_NMCarousel._bounces
+_OBJC_IVAR_$_NMCarousel._offsetMultiplier
+_OBJC_IVAR_$_NMCarousel._perspective
+_OBJC_IVAR_$_NMCarousel._contentOffset
+_OBJC_IVAR_$_NMCarousel._viewpointOffset
+_OBJC_IVAR_$_NMCarousel._scrollSpeed
+_OBJC_IVAR_$_NMCarousel._bounceDistance
+_OBJC_IVAR_$_NMCarousel._stopAtItemBoundary
+_OBJC_IVAR_$_NMCarousel._scrollToItemBoundary
+_OBJC_IVAR_$_NMCarousel._ignorePerpendicularSwipes
+_OBJC_IVAR_$_NMCarousel._centerItemWhenSelected
+_OBJC_IVAR_$_NMCarousel._contentView
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_IVAR_$_NMCarousel._dataSource
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_IVAR_$_NMCarousel._delegate
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_IVAR_$_NMCarousel._type
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_IVAR_$_NMCarousel._vertical
+_OBJC_IVAR_$_NMCarousel._scrolling
+_OBJC_IVAR_$_NMCarousel._decelerating
+_OBJC_IVAR_$_NMCarousel._startOffset
+_OBJC_IVAR_$_NMCarousel._endOffset
+_OBJC_IVAR_$_NMCarousel._scrollOffset
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_IVAR_$_NMCarousel._autoscroll
+_OBJC_CLASSLIST_REFERENCES_$_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_IVAR_$_NMCarousel._itemViews
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_CLASSLIST_REFERENCES_$_.85
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_CLASSLIST_REFERENCES_$_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_IVAR_$_NMCarousel._itemWidth
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_IVAR_$_NMCarousel._toggle
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_IVAR_$_NMCarousel._wrapEnabled
+_OBJC_IVAR_$_NMCarousel._numberOfItems
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_CLASSLIST_REFERENCES_$_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_IVAR_$_NMCarousel._dragging
+_OBJC_IVAR_$_NMCarousel._didDrag
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_IVAR_$_NMCarousel._numberOfPlaceholders
+_OBJC_IVAR_$_NMCarousel._numberOfVisibleItems
+_OBJC_IVAR_$_NMCarousel._numberOfPlaceholdersToShow
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_IVAR_$_NMCarousel._previousScrollOffset
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_IVAR_$_NMCarousel._itemViewPool
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_IVAR_$_NMCarousel._placeholderViewPool
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_CLASSLIST_REFERENCES_$_.232
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_IVAR_$_NMCarousel._startTime
+_OBJC_IVAR_$_NMCarousel._scrollDuration
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_IVAR_$_NMCarousel._previousItemIndex
+_OBJC_SELECTOR_REFERENCES_.258
+_OBJC_SELECTOR_REFERENCES_.260
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_SELECTOR_REFERENCES_.266
+_OBJC_SELECTOR_REFERENCES_.268
+_OBJC_SELECTOR_REFERENCES_.270
+_OBJC_SELECTOR_REFERENCES_.272
+_OBJC_SELECTOR_REFERENCES_.274
+_OBJC_SELECTOR_REFERENCES_.276
+_OBJC_SELECTOR_REFERENCES_.278
+_OBJC_CLASSLIST_REFERENCES_$_.279
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.283
+_OBJC_CLASSLIST_REFERENCES_$_.284
+_OBJC_SELECTOR_REFERENCES_.286
+_OBJC_SELECTOR_REFERENCES_.288
+_OBJC_SELECTOR_REFERENCES_.290
+_OBJC_SELECTOR_REFERENCES_.292
+_OBJC_IVAR_$_NMCarousel._timer
+_OBJC_CLASSLIST_REFERENCES_$_.293
+_OBJC_SELECTOR_REFERENCES_.295
+_OBJC_SELECTOR_REFERENCES_.297
+_OBJC_SELECTOR_REFERENCES_.299
+_OBJC_CLASSLIST_REFERENCES_$_.300
+_OBJC_SELECTOR_REFERENCES_.302
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_IVAR_$_NMCarousel._startVelocity
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_IVAR_$_NMCarousel._pagingEnabled
+_OBJC_IVAR_$_NMCarousel._lastTime
+_OBJC_SELECTOR_REFERENCES_.310
+_OBJC_SELECTOR_REFERENCES_.311
+_OBJC_SELECTOR_REFERENCES_.312
+_OBJC_IVAR_$_NMCarousel._toggleTime
+_OBJC_SELECTOR_REFERENCES_.314
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_SELECTOR_REFERENCES_.319
+_OBJC_SELECTOR_REFERENCES_.320
+_OBJC_SELECTOR_REFERENCES_.322
+_OBJC_SELECTOR_REFERENCES_.324
+_OBJC_SELECTOR_REFERENCES_.326
+_OBJC_SELECTOR_REFERENCES_.328
+_OBJC_SELECTOR_REFERENCES_.330
+_OBJC_SELECTOR_REFERENCES_.332
+_OBJC_SELECTOR_REFERENCES_.334
+_OBJC_SELECTOR_REFERENCES_.336
+_OBJC_SELECTOR_REFERENCES_.338
+_OBJC_SELECTOR_REFERENCES_.340
+_OBJC_CLASSLIST_REFERENCES_$_.341
+_OBJC_SELECTOR_REFERENCES_.343
+_OBJC_SELECTOR_REFERENCES_.345
+_OBJC_CLASSLIST_REFERENCES_$_.346
+_OBJC_CLASSLIST_REFERENCES_$_.347
+_OBJC_SELECTOR_REFERENCES_.349
+_OBJC_SELECTOR_REFERENCES_.351
+_OBJC_SELECTOR_REFERENCES_.353
+_OBJC_SELECTOR_REFERENCES_.354
+_OBJC_SELECTOR_REFERENCES_.355
+_OBJC_SELECTOR_REFERENCES_.357
+_OBJC_IVAR_$_NMCarousel._previousTranslation
+_OBJC_SELECTOR_REFERENCES_.358
+_OBJC_SELECTOR_REFERENCES_.360
+_OBJC_SELECTOR_REFERENCES_.362
+_OBJC_SELECTOR_REFERENCES_.363
+_OBJC_SELECTOR_REFERENCES_.365
+_OBJC_SELECTOR_REFERENCES_.366
+_OBJC_SELECTOR_REFERENCES_.368
+__OBJC_METACLASS_RO_$_NMCarousel
+__OBJC_$_INSTANCE_METHODS_NMCarousel
+__OBJC_$_INSTANCE_VARIABLES_NMCarousel
+__OBJC_$_PROP_LIST_NMCarousel
+__OBJC_CLASS_RO_$_NMCarousel
+/Users/muhammedkilinc/inomera-projects/netmera-sdk-ios/NotificationContentExtension/NetmeraNotificationContentExtension/NMCarousel.m
+NetmeraNotificationContentExtension/NMCarousel.m
+NetmeraNotificationContentExtension/NMCarousel.h
+__tg_fabs
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/usr/include/tgmath.h
+__tg_round
+__tg_pow
+__tg_floor
+__tg_ceil
+__tg_tan
+compareViewDepth
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+-[CarouselItemView awakeFromNib]
+-[CarouselItemView commonInit]
+-[CarouselItemView initWithFrame:]
+-[CarouselItemView itemView]
+-[CarouselItemView setItemView:]
+-[CarouselItemView imageView]
+-[CarouselItemView setImageView:]
+-[CarouselItemView titleLabel]
+-[CarouselItemView setTitleLabel:]
+-[CarouselItemView subtitleLabel]
+-[CarouselItemView setSubtitleLabel:]
+-[CarouselItemView .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_CLASSLIST_REFERENCES_$_.78
+_OBJC_IVAR_$_CarouselItemView._itemView
+_OBJC_IVAR_$_CarouselItemView._imageView
+_OBJC_IVAR_$_CarouselItemView._titleLabel
+_OBJC_IVAR_$_CarouselItemView._subtitleLabel
+__OBJC_METACLASS_RO_$_CarouselItemView
+__OBJC_$_INSTANCE_METHODS_CarouselItemView
+__OBJC_$_INSTANCE_VARIABLES_CarouselItemView
+__OBJC_$_PROP_LIST_CarouselItemView
+__OBJC_CLASS_RO_$_CarouselItemView
+/Users/muhammedkilinc/inomera-projects/netmera-sdk-ios/NotificationContentExtension/NetmeraNotificationContentExtension/CarouselItemView.m
+NetmeraNotificationContentExtension/CarouselItemView.m
+NetmeraNotificationContentExtension/CarouselItemView.h
+-[NetmeraNotificationContentExtension cacheURL]
+-[NetmeraNotificationContentExtension viewDidLoad]
+-[NetmeraNotificationContentExtension viewWillDisappear:]
+-[NetmeraNotificationContentExtension loadView]
+-[NetmeraNotificationContentExtension didReceiveNotification:]
+-[NetmeraNotificationContentExtension didReceiveNotificationResponse:completionHandler:]
+-[NetmeraNotificationContentExtension didSelectItemAtIndex:]
+-[NetmeraNotificationContentExtension clearMessageForWormhole]
+-[NetmeraNotificationContentExtension setMessageForWormholdeWithPushObject:atIndex:]
+-[NetmeraNotificationContentExtension setViewMessageForPushObject:]
+-[NetmeraNotificationContentExtension traditionalWormhole]
+-[NetmeraNotificationContentExtension setTraditionalWormhole:]
+-[NetmeraNotificationContentExtension .cxx_destruct]
+___clang_at_available_requires_core_foundation_framework
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_IVAR_$_NetmeraNotificationContentExtension.pushObject
+_OBJC_CLASSLIST_REFERENCES_$_.61
+_OBJC_IVAR_$_NetmeraNotificationContentExtension.carousel
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_CLASSLIST_REFERENCES_$_.106
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_IVAR_$_NetmeraNotificationContentExtension._traditionalWormhole
+__OBJC_$_PROTOCOL_REFS_UNNotificationContentExtension
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_UNNotificationContentExtension
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UNNotificationContentExtension
+__OBJC_$_PROP_LIST_UNNotificationContentExtension
+__OBJC_$_PROTOCOL_METHOD_TYPES_UNNotificationContentExtension
+__OBJC_PROTOCOL_$_UNNotificationContentExtension
+__OBJC_LABEL_PROTOCOL_$_UNNotificationContentExtension
+__OBJC_$_PROTOCOL_REFS_CarouselViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_CarouselViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_CarouselViewDelegate
+__OBJC_PROTOCOL_$_CarouselViewDelegate
+__OBJC_LABEL_PROTOCOL_$_CarouselViewDelegate
+__OBJC_CLASS_PROTOCOLS_$_NetmeraNotificationContentExtension
+__OBJC_METACLASS_RO_$_NetmeraNotificationContentExtension
+__OBJC_$_INSTANCE_METHODS_NetmeraNotificationContentExtension
+__OBJC_$_INSTANCE_VARIABLES_NetmeraNotificationContentExtension
+__OBJC_$_PROP_LIST_NetmeraNotificationContentExtension
+__OBJC_CLASS_RO_$_NetmeraNotificationContentExtension
+/Users/muhammedkilinc/inomera-projects/netmera-sdk-ios/NotificationContentExtension/NetmeraNotificationContentExtension/NetmeraNotificationContentExtension.m
+NetmeraNotificationContentExtension/NetmeraNotificationContentExtension.m

@@ -1,5 +1,5 @@
 framework module Netmera {
-  umbrella header "Netmera-umbrella.h"
+  umbrella header "Netmera.h"
 
   export *
   module * { export * }

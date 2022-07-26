@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/NetmeraAdId-umbrella.h</key>
-		<data>
-		1KUPFcyztJO0sn53pkohnF1a3Zg=
-		</data>
 		<key>Headers/NetmeraAdId.h</key>
 		<data>
 		8ykrZtLnjgDkLbR6nALdW/nNZkA=
@@ -18,26 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TYZq+SOPtLIaA18g/ORs6YyRB6c=
+		Vt6m5W4aVo2k75/zJi+w3g5rD6E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		zLV6L5Q2fWrEDpLFqaOaLm8ArLU=
+		BLooRnfdd82vp3UbMm53KDF6cdo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/NetmeraAdId-umbrella.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1KUPFcyztJO0sn53pkohnF1a3Zg=
-			</data>
-			<key>hash2</key>
-			<data>
-			1pT9Bc+EQ0xa3tAvAcnZLV3NUOZtwbgZ81+9Qxt+uKY=
-			</data>
-		</dict>
 		<key>Headers/NetmeraAdId.h</key>
 		<dict>
 			<key>hash</key>
@@ -64,11 +49,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zLV6L5Q2fWrEDpLFqaOaLm8ArLU=
+			BLooRnfdd82vp3UbMm53KDF6cdo=
 			</data>
 			<key>hash2</key>
 			<data>
-			un7IYk0AomI+VqDUy7hzsT8g/YQdVF5knSxPtC0jpn8=
+			aNc09T+DBN8C1JRCU7mAqExE/cSP/08wEG3VdT5TWGw=
 			</data>
 		</dict>
 	</dict>

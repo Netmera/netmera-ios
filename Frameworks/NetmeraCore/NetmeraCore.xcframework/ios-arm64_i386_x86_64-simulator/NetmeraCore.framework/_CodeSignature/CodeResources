@@ -108,10 +108,6 @@
 		<data>
 		V/QLYbEtm42qv7ZjNhJcnFfU/1s=
 		</data>
-		<key>Headers/NetmeraCore-umbrella.h</key>
-		<data>
-		NWDOHvJSjtm/NNjtPYaq9jTl1/M=
-		</data>
 		<key>Headers/NetmeraCore.h</key>
 		<data>
 		CnRG/azVtgD53x7TFbjkHfqxpUA=
@@ -502,11 +498,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tp5k3rwfAhxeRXUBOFMqINMvKUM=
+		/R66jFwhsJolb3ME9YDs7JGkAMs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		VyNDZKae0k5Abic3b1tzdXZ1JYs=
+		5BkQP+Cx3iCBVZ2LsI5TgfNrDqo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -795,17 +791,6 @@
 			<key>hash2</key>
 			<data>
 			STAGnBbVzL6zM+c7TlZ3o61lugN6v8hZoPKfXbl36o8=
-			</data>
-		</dict>
-		<key>Headers/NetmeraCore-umbrella.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NWDOHvJSjtm/NNjtPYaq9jTl1/M=
-			</data>
-			<key>hash2</key>
-			<data>
-			9sXySONSDweF5EFgV4a37JLnLwETmcjVR6LGkCM1DyE=
 			</data>
 		</dict>
 		<key>Headers/NetmeraCore.h</key>
@@ -1879,11 +1864,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VyNDZKae0k5Abic3b1tzdXZ1JYs=
+			5BkQP+Cx3iCBVZ2LsI5TgfNrDqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			fne4XSukeEqbsnWc1oOEiQ4PWvIHAUteTu3rWBdKUQE=
+			BRml4gnj8fqkhaGcl97hsyfY7L128k4bZy70yi0h9iM=
 			</data>
 		</dict>
 	</dict>

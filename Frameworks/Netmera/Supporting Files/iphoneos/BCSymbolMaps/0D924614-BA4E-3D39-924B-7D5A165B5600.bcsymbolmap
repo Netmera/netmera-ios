@@ -1,0 +1,27 @@
+BCSymbolMap Version: 2.0
+Apple clang version 13.1.6 (clang-1316.0.21.2.5)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.5.sdk
+iPhoneOS15.5.sdk
+/Users/muhammedkilinc/Library/Developer/Xcode/DerivedData/NetmeraApp-etaktxqjhpnrmacqiuexzyngdzmf/Build/Intermediates.noindex/ArchiveIntermediates/Netmera/IntermediateBuildFilesPath/NetmeraAdId.build/Release-iphoneos/NetmeraAdId.build/DerivedSources/NetmeraAdId_vers.c
+/Users/muhammedkilinc/inomera-projects/netmera-sdk-ios/NetmeraAdId
++[NetmeraAppTrackingTransparancy isUserAuthorizedAdId]
++[NetmeraAppTrackingTransparancy requestAdvertisingAuthorizationIfNeeded:]
+___74+[NetmeraAppTrackingTransparancy requestAdvertisingAuthorizationIfNeeded:]_block_invoke
+___74+[NetmeraAppTrackingTransparancy requestAdvertisingAuthorizationIfNeeded:]_block_invoke_2
+___copy_helper_block_e4_20b
+___destroy_helper_block_e4_20s
+___clang_at_available_requires_core_foundation_framework
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+___block_descriptor_24_e4_20bs_e5_v4?0l
+___block_descriptor_24_e4_20bs_e7_v8?0I4l
+_OBJC_SELECTOR_REFERENCES_.3
+__OBJC_$_CLASS_METHODS_NetmeraAppTrackingTransparancy
+__OBJC_METACLASS_RO_$_NetmeraAppTrackingTransparancy
+__OBJC_CLASS_RO_$_NetmeraAppTrackingTransparancy
+/Users/muhammedkilinc/inomera-projects/netmera-sdk-ios/NetmeraAdId/NetmeraAdId/NetmeraAppTrackingTransparancy.m
+__destroy_helper_block_e4_20s
+NetmeraAdId/NetmeraAppTrackingTransparancy.m
+__copy_helper_block_e4_20b
+__74+[NetmeraAppTrackingTransparancy requestAdvertisingAuthorizationIfNeeded:]_block_invoke_2
+__74+[NetmeraAppTrackingTransparancy requestAdvertisingAuthorizationIfNeeded:]_block_invoke

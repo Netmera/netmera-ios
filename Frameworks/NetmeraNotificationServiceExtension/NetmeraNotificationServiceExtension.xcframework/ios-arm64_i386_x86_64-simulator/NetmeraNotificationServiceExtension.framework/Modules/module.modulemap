@@ -1,5 +1,5 @@
 framework module NetmeraNotificationServiceExtension {
-  umbrella header "NetmeraNotificationServiceExtension-umbrella.h"
+  umbrella header "NetmeraNotificationServiceExtension.h"
 
   export *
   module * { export * }

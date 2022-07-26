@@ -4,36 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/NetmeraNotificationServiceExtension-umbrella.h</key>
-		<data>
-		1DQK8C83ktdanVuXPga+4rezNHU=
-		</data>
 		<key>Headers/NetmeraNotificationServiceExtension.h</key>
 		<data>
 		xVDiHrqrp/7Ndvc6SKnPiN/XpxI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		E2zTXcIWWai9MTfy+ApB8jLRqQw=
+		u8bprZTkR7Pk9g3Kv5050aDS7eE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		f+cxlJ3PAOhpJhyNoB6rh39+kiY=
+		aY1AH2+/LyT6CcN7olZMsJISMS8=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/NetmeraNotificationServiceExtension-umbrella.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1DQK8C83ktdanVuXPga+4rezNHU=
-			</data>
-			<key>hash2</key>
-			<data>
-			Xtt8Z2+vQpCjRnCvObNceVOarDFhyEgMmMuPSGMMXm8=
-			</data>
-		</dict>
 		<key>Headers/NetmeraNotificationServiceExtension.h</key>
 		<dict>
 			<key>hash</key>
@@ -49,11 +34,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			f+cxlJ3PAOhpJhyNoB6rh39+kiY=
+			aY1AH2+/LyT6CcN7olZMsJISMS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			j4UGi/HjxD8ucX2iIGPM9Jxm8VoNg8NGOljYtYhVZtE=
+			KjAR+72WvD8wF39AtXtIKTUd6cSfjO+d5kBq3PoNDDU=
 			</data>
 		</dict>
 	</dict>

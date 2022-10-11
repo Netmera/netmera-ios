@@ -44,30 +44,30 @@ let package = Package(
     // Targets can depend on other targets in this package, and on products in packages this package depends on.
     .binaryTarget(
       name: "NetmeraCore",
-      path: "Frameworks/NetmeraCore/NetmeraCore.xcframework"
+      path: "Frameworks/NetmeraCore.xcframework"
     ),
     .binaryTarget(
       name: "NetmeraAdId",
-      path: "Frameworks/NetmeraAdId/NetmeraAdId.xcframework"
+      path: "Frameworks/NetmeraAdId.xcframework"
     ),
     .binaryTarget(
       name: "Netmera",
-      path: "Frameworks/Netmera/Netmera.xcframework"
+      path: "Frameworks/Netmera.xcframework"
     ),
     .binaryTarget(
       name: "NetmeraNotificationServiceExtension",
-      path: "Frameworks/NetmeraNotificationServiceExtension/NetmeraNotificationServiceExtension.xcframework"
+      path: "Frameworks/NetmeraNotificationServiceExtension.xcframework"
     ),
     .binaryTarget(
       name: "NetmeraNotificationContentExtension",
-      path: "Frameworks/NetmeraNotificationContentExtension/NetmeraNotificationContentExtension.xcframework"
+      path: "Frameworks/NetmeraNotificationContentExtension.xcframework"
     ),
-      .target(
-        name: "NetmeraTarget",
-        dependencies: [
-          .target(name: "NetmeraWrapper", condition: .when(platforms: [.iOS])),
-        ]
-      ),
+    .target(
+      name: "NetmeraTarget",
+      dependencies: [
+        .target(name: "NetmeraWrapper", condition: .when(platforms: [.iOS])),
+      ]
+    ),
     .target(
       name: "NetmeraWrapper",
       dependencies: [
@@ -87,12 +87,12 @@ let package = Package(
         .linkedFramework("UserNotifications"),
       ]
     ),
-      .target(
-        name: "NetmeraNotificationContentExtensionTarget",
-        dependencies: [
-          .target(name: "NetmeraNotificationContentExtensionWrapper", condition: .when(platforms: [.iOS]))
-        ]
-      ),
+    .target(
+      name: "NetmeraNotificationContentExtensionTarget",
+      dependencies: [
+        .target(name: "NetmeraNotificationContentExtensionWrapper", condition: .when(platforms: [.iOS]))
+      ]
+    ),
     .target(name: "NetmeraNotificationContentExtensionWrapper",
             dependencies: [
               .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),

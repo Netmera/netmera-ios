@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NetmeraCore'
-  s.version          = '3.14.11'
+  s.version          = '3.14.12'
   s.summary          = 'iOS SDK for Netmera mobile app engagement platform'
 
   s.description      = <<-DESC
@@ -38,17 +38,19 @@ Pod::Spec.new do |s|
     LICENSE
   }
   s.author           = { 'netmera' => 'sdk@netmera.com' }
-  s.source           = { :git => "https://github.com/Netmera/netmera-ios.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Netmera/netmera-sdk-ios.git" }
   s.social_media_url = 'https://twitter.com/netmera'
+
   s.ios.deployment_target = '9.0'
 
   s.frameworks = 'Foundation', 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreServices', 'CoreTelephony', 'CoreLocation', 'WebKit', 'QuartzCore', 'OpenGLES'
 
   s.weak_frameworks = 'UserNotifications', 'AppTrackingTransparency', 'StoreKit', 'WatchConnectivity'
   s.libraries   = 'sqlite3'
-  s.requires_arc = true
+  s.requires_arc  = true
+  s.ios.vendored_frameworks = 'Frameworks/NetmeraCore.xcframework'
 
-  s.vendored_frameworks = 'Frameworks/NetmeraCore/NetmeraCore.xcframework'
+  s.ios.deployment_target = '9.0'
+
 end
-
 

@@ -10,14 +10,14 @@ let package = Package(
     // Products define the executables and libraries a package produces, and make them visible to other packages.
     .library(
       name: "Netmera",
-      targets: ["NetmeraTarget"]
+      targets: ["NetmeraWrapper"]
     ),
     .library(
       name: "NetmeraNotificationServiceExtension",
-      targets: ["NetmeraNotificationServiceExtensionTarget"]),
+      targets: ["NetmeraNotificationServiceExtensionWrapper"]),
     .library(
       name: "NetmeraNotificationContentExtension",
-      targets: ["NetmeraNotificationContentExtensionTarget"]),
+      targets: ["NetmeraNotificationContentExtensionWrapper"]),
   ],
   dependencies: [
     // Dependencies declare other packages that this package depends on.
@@ -63,21 +63,11 @@ let package = Package(
       path: "Frameworks/NetmeraNotificationContentExtension.xcframework"
     ),
     .target(
-      name: "NetmeraTarget",
-      dependencies: [
-        .target(name: "NetmeraWrapper", condition: .when(platforms: [.iOS])),
-      ]
-    ),
-    .target(
       name: "NetmeraWrapper",
       dependencies: [
-        .target(name: "Netmera", condition: .when(platforms: [.iOS])),
         .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
         .target(name: "NetmeraAdId", condition: .when(platforms: [.iOS])),
-        .product(name: "AFNetworking", package: "AFNetworking"),
-        .product(name: "UICKeyChainStore", package: "UICKeyChainStore"),
-        .product(name: "FMDB", package: "FMDB"),
-        .product(name: "MMWormhole", package: "MMWormhole"),
+        .target(name: "Netmera", condition: .when(platforms: [.iOS]))
       ],
       linkerSettings: [
         .linkedLibrary("sqlite3"),
@@ -87,25 +77,12 @@ let package = Package(
         .linkedFramework("UserNotifications"),
       ]
     ),
-    .target(
-      name: "NetmeraNotificationContentExtensionTarget",
-      dependencies: [
-        .target(name: "NetmeraNotificationContentExtensionWrapper", condition: .when(platforms: [.iOS]))
-      ]
-    ),
     .target(name: "NetmeraNotificationContentExtensionWrapper",
             dependencies: [
               .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
               .target(name: "NetmeraNotificationContentExtension", condition: .when(platforms: [.iOS])),
               .product(name: "MMWormhole", package: "MMWormhole"),
             ]),
-
-      .target(
-        name: "NetmeraNotificationServiceExtensionTarget",
-        dependencies: [
-          .target(name: "NetmeraNotificationServiceExtensionWrapper", condition: .when(platforms: [.iOS]))
-        ]
-      ),
     .target(name: "NetmeraNotificationServiceExtensionWrapper",
             dependencies: [
               .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),

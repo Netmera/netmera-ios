@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
     LICENSE
   }
   s.author           = { 'netmera' => 'sdk@netmera.com' }
-  s.source           = { :git => "https://github.com/Netmera/netmera-sdk-ios.git" }
+  s.source           = { :git => "https://github.com/Netmera/netmera-ios.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/netmera'
 
   s.ios.deployment_target = '9.0'

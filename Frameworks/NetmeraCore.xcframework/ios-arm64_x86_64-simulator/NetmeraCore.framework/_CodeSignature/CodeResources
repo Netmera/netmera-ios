@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/NetmeraAppConfig.h</key>
 		<data>
-		who1W3u5c3+SqcIYBBPF2Z6bag4=
+		ONmelzPTFmK0jIe2N6qVkBkwHn0=
 		</data>
 		<key>Headers/NetmeraAppConfigRequest.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/NetmeraBaseRequest.h</key>
 		<data>
-		A+dYLUpQgT9tNhzyClfJ4DK2T4s=
+		YnJxFTN5ZY9NS/+lwEIVDZZKO5c=
 		</data>
 		<key>Headers/NetmeraBaseResponseModel.h</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Headers/NetmeraIdentifiers.h</key>
 		<data>
-		sXfmsy9L5nhw8lS900RsiLhHFrw=
+		/06jAqhDEXPJFM38J8Lldv56sso=
 		</data>
 		<key>Headers/NetmeraIdentifyUserRequest.h</key>
 		<data>
@@ -388,17 +388,25 @@
 		<data>
 		pitOqDvza4/okiBW0WgId+JHfxI=
 		</data>
+		<key>Headers/NetmeraRemoteConfigRequest.h</key>
+		<data>
+		2JEeJDG3bxlnSSZKVOS8KCJz288=
+		</data>
+		<key>Headers/NetmeraRemoteConfigResponse.h</key>
+		<data>
+		xkr8McBrPFEXWG21Im5bEwrI5Dw=
+		</data>
 		<key>Headers/NetmeraRequestSpec.h</key>
 		<data>
 		v5ti+0uxQrrc8v0z9eK8L1DtJ9U=
 		</data>
 		<key>Headers/NetmeraRequests.h</key>
 		<data>
-		HzrPxpw1lcuPkkvFM/VTUAJDtz0=
+		pzZs3UDWPLKzmCjKm+k9NTqyzLI=
 		</data>
 		<key>Headers/NetmeraResponse.h</key>
 		<data>
-		Kj3/hcrHC4MkXtOSrFRVvzwJMb8=
+		NB8hOU58je1Rvtvk0402FVwcRKA=
 		</data>
 		<key>Headers/NetmeraReviewAction.h</key>
 		<data>
@@ -498,7 +506,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jZNLNvj9U+zsSEX0xV7NkdT6q+w=
+		Vfl/0ZCoC6dBBYVAt/v3RJTIph0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -555,11 +563,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			who1W3u5c3+SqcIYBBPF2Z6bag4=
+			ONmelzPTFmK0jIe2N6qVkBkwHn0=
 			</data>
 			<key>hash2</key>
 			<data>
-			XPq1tmgsjc22RKvEYObLTfgNbRBsRFxCn20aDyv74TY=
+			IiEpXOD8K3tCBi4m4oqcgYfB3BesN2nqyFu/DCIZClg=
 			</data>
 		</dict>
 		<key>Headers/NetmeraAppConfigRequest.h</key>
@@ -654,11 +662,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A+dYLUpQgT9tNhzyClfJ4DK2T4s=
+			YnJxFTN5ZY9NS/+lwEIVDZZKO5c=
 			</data>
 			<key>hash2</key>
 			<data>
-			QxFfxYcdNQlktrMvUwGeCNmpSjEUycFgj8qEfH6LTX0=
+			mt4AYJ9WIZnUamJjvdxKxXzVmdkz21bmRlIoAr79BuY=
 			</data>
 		</dict>
 		<key>Headers/NetmeraBaseResponseModel.h</key>
@@ -1028,11 +1036,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sXfmsy9L5nhw8lS900RsiLhHFrw=
+			/06jAqhDEXPJFM38J8Lldv56sso=
 			</data>
 			<key>hash2</key>
 			<data>
-			12Z6Xx0bRh3TekgQW4FK6UclsVYSbDqT7U4NsoO5O3E=
+			CoLnqXyCvWm1M4F+NFo/3UF7St97s0xnfX7io/A87sA=
 			</data>
 		</dict>
 		<key>Headers/NetmeraIdentifyUserRequest.h</key>
@@ -1563,6 +1571,28 @@
 			w+DzE5rmLPlWEtbDakXICjO1oRDLmZWuXzn/vHTUb3w=
 			</data>
 		</dict>
+		<key>Headers/NetmeraRemoteConfigRequest.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2JEeJDG3bxlnSSZKVOS8KCJz288=
+			</data>
+			<key>hash2</key>
+			<data>
+			rTuWyfJm1H7h1ajGdNiqIYqc2PfA806qucTm4O9UPUc=
+			</data>
+		</dict>
+		<key>Headers/NetmeraRemoteConfigResponse.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xkr8McBrPFEXWG21Im5bEwrI5Dw=
+			</data>
+			<key>hash2</key>
+			<data>
+			1AMeb2ffXPmVyFQnO+CYJMDXLLDchyTV8wWUwJbhGDs=
+			</data>
+		</dict>
 		<key>Headers/NetmeraRequestSpec.h</key>
 		<dict>
 			<key>hash</key>
@@ -1578,22 +1608,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HzrPxpw1lcuPkkvFM/VTUAJDtz0=
+			pzZs3UDWPLKzmCjKm+k9NTqyzLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			iUjTwVleuDzRtksqli/urgLWWBrM5qMg9mkgwfFe1qs=
+			P0mW9NrUi81k+yGc+SH2YPvhfATmBBnE022fxzKvmhY=
 			</data>
 		</dict>
 		<key>Headers/NetmeraResponse.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kj3/hcrHC4MkXtOSrFRVvzwJMb8=
+			NB8hOU58je1Rvtvk0402FVwcRKA=
 			</data>
 			<key>hash2</key>
 			<data>
-			NC9uPGpT3kwNPXCfwdEgbpEknmgLOHOOEgklChRCFo4=
+			9fEb+kltdAYCdKYzumaJkP8GqzfB1fB1ryiRKw9+zH4=
 			</data>
 		</dict>
 		<key>Headers/NetmeraReviewAction.h</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Netmera.h</key>
 		<data>
-		h1E2WQ7Y/P9wDvFpttsBxHPn2+A=
+		Tsf98o7lqMpTqqymsu9gUweLbhk=
 		</data>
 		<key>Headers/NetmeraEncryptionProtocol.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		m37JBDKy+Gv9FPF/36RtWeYTk0s=
+		jYbHo0VoETvc+7r/gC6QsvA1Wz4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,11 +47,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h1E2WQ7Y/P9wDvFpttsBxHPn2+A=
+			Tsf98o7lqMpTqqymsu9gUweLbhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			YPZ1T1ZxoQoShmoXNE1KheJHa0STKNyZoZNZeuMgHaY=
+			ETdDXvTNnfJYwCTI/8DwRgNtPSNbOVsVh3m3XjJwZU0=
 			</data>
 		</dict>
 		<key>Headers/NetmeraEncryptionProtocol.h</key>

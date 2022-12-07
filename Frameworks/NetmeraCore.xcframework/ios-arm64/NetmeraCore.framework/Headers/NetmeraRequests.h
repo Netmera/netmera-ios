@@ -28,5 +28,6 @@
 #import <NetmeraCore/NetmeraSetUserCategoryRequest.h>
 #import <NetmeraCore/NetmeraFetchInboxCountRequest.h>
 #import <NetmeraCore/NetmeraFetchUserCategoryRequest.h>
+#import <NetmeraCore/NetmeraRemoteConfigRequest.h>
 
 #endif /* NetmeraRequests_h */

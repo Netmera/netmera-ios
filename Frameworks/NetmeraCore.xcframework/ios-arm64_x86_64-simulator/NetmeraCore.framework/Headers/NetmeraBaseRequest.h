@@ -33,6 +33,7 @@ typedef NS_ENUM(NSUInteger, NetmeraRequestPath) {
   NetmeraRequestPathDisableAdId,
   NetmeraRequestPathFetchCategoryOptIn,
   NetmeraRequestPathSetCategoryPreference,
+  NetmeraRequestPathRemoteConfig,
 };
 
 NSString *NetmeraRequestPathStringForType(NetmeraRequestPath type);

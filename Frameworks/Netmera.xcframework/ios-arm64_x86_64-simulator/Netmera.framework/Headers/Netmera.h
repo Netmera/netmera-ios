@@ -154,7 +154,7 @@ NS_ASSUME_NONNULL_BEGIN
 
  @param types Notification types which can be used while notifying user via push notifications
  */
-+ (void)requestPushNotificationAuthorizationForTypes:(UIUserNotificationType)types;
++ (void)requestPushNotificationAuthorizationForTypes:(UNAuthorizationOptions)types;
 
 + (void)setAppGroupName:(NSString*)appGroupName;
 
@@ -385,5 +385,13 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)setAuthorizedAdvertisingIdentifier:(BOOL)authorized;
 
 NS_ASSUME_NONNULL_END
+
+@end
+
+#pragma mark - Push Notification
+
+@interface Netmera (RemoteConfig)
+
++ (nullable NSDictionary<NSString*, NSDictionary<NSString*, id>*> *)remoteConfig;
 
 @end

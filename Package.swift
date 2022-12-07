@@ -9,7 +9,7 @@ let package = Package(
   products: [
     // Products define the executables and libraries a package produces, and make them visible to other packages.
     .library(
-      name: "Netmera",
+      name: "NetmeraIOS",
       targets: ["NetmeraWrapper"]
     ),
     .library(
@@ -67,7 +67,11 @@ let package = Package(
       dependencies: [
         .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
         .target(name: "NetmeraAdId", condition: .when(platforms: [.iOS])),
-        .target(name: "Netmera", condition: .when(platforms: [.iOS]))
+        .target(name: "Netmera", condition: .when(platforms: [.iOS])),
+        .product(name: "AFNetworking", package: "AFNetworking"),
+        .product(name: "FMDB", package: "FMDB"),
+        .product(name: "UICKeyChainStore", package: "MMWormhole"),
+        .product(name: "MMWormhole", package: "MMWormhole"),
       ],
       linkerSettings: [
         .linkedLibrary("sqlite3"),

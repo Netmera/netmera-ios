@@ -16,5 +16,6 @@
 #import <NetmeraCore/NetmeraIdentifyUserResponse.h>
 #import <NetmeraCore/NetmeraInboxCountResponse.h>
 #import <NetmeraCore/NetmeraFetchUserCategoryResponse.h>
+#import <NetmeraCore/NetmeraRemoteConfigResponse.h>
 
 #endif /* NetmeraResponse_h */

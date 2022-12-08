@@ -52,7 +52,6 @@ Pod::Spec.new do |s|
   s.default_subspec = 'NetmeraWithAdId'
 
   s.subspec 'NetmeraWithAdId' do |ss|
-    ss.ios.deployment_target = '10.0'
     ss.dependency 'Netmera/Application'
     ss.dependency 'Netmera/AdIdSupport'
   end
@@ -63,7 +62,6 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'Application' do |ss|
-    ss.ios.deployment_target = '9.0'
     ss.vendored_frameworks = 'Frameworks/Netmera.xcframework'
     ss.dependency 'AFNetworking/NSURLSession'
     ss.dependency 'NetmeraCore', s.version.to_s
@@ -73,19 +71,16 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'AdIdSupport' do |ss|
-    ss.ios.deployment_target = '10.0'
     ss.vendored_frameworks = 'Frameworks/NetmeraAdId.xcframework'
   end
 
   s.subspec 'NotificationContentExtension' do |ss|
-    ss.ios.deployment_target = '10.0'
     ss.dependency 'NetmeraCore', s.version.to_s
     ss.dependency 'MMWormhole', '~> 2.0.0'
     ss.vendored_frameworks = 'Frameworks/NetmeraNotificationContentExtension.xcframework'
   end
 
   s.subspec 'NotificationServiceExtension' do |ss|
-    ss.ios.deployment_target = '10.0'
     ss.dependency 'NetmeraCore', s.version.to_s
     ss.vendored_frameworks = 'Frameworks/NetmeraNotificationServiceExtension.xcframework'
   end

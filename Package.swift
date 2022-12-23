@@ -71,6 +71,7 @@ let package = Package(
         .product(name: "AFNetworking", package: "AFNetworking"),
         .product(name: "FMDB", package: "FMDB"),
         .product(name: "MMWormhole", package: "MMWormhole"),
+        "UICKeyChainStore"
       ],
       linkerSettings: [
         .linkedLibrary("sqlite3"),

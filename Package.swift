@@ -70,7 +70,6 @@ let package = Package(
         .target(name: "Netmera", condition: .when(platforms: [.iOS])),
         .product(name: "AFNetworking", package: "AFNetworking"),
         .product(name: "FMDB", package: "FMDB"),
-        .product(name: "UICKeyChainStore", package: "MMWormhole"),
         .product(name: "MMWormhole", package: "MMWormhole"),
       ],
       linkerSettings: [

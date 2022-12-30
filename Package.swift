@@ -10,13 +10,16 @@ let package = Package(
     // Products define the executables and libraries a package produces, and make them visible to other packages.
     .library(
       name: "NetmeraIOS",
+       type: .dynamic,
       targets: ["NetmeraIOS"]
     ),
     .library(
       name: "NetmeraNotificationServiceExtension",
+       type: .dynamic,
       targets: ["NetmeraNotificationServiceExtensionWrapper"]),
     .library(
       name: "NetmeraNotificationContentExtension",
+       type: .dynamic,
       targets: ["NetmeraNotificationContentExtensionWrapper"]),
   ],
   dependencies: [

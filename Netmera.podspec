@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Netmera'
-  s.version          = '3.14.14'
+  s.version          = '3.14.15'
   s.summary          = 'iOS SDK for Netmera mobile app engagement platform'
 
   s.description      = <<-DESC
@@ -57,13 +57,12 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'NetmeraWithoutAdId' do |ss|
-    ss.ios.deployment_target = '10.0'
     ss.dependency 'Netmera/Application'
   end
 
   s.subspec 'Application' do |ss|
     ss.vendored_frameworks = 'Frameworks/Netmera.xcframework'
-    ss.dependency 'AFNetworking/NSURLSession'
+    ss.dependency 'AFNetworking/NSURLSession', '4.0.1'
     ss.dependency 'NetmeraCore', s.version.to_s
     ss.dependency 'MMWormhole', '~> 2.0.0'
     ss.dependency 'FMDB'

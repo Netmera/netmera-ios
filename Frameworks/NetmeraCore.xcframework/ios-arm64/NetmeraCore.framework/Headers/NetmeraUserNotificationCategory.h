@@ -12,6 +12,8 @@
 @interface NetmeraUserNotificationCategory : NetmeraBaseModel
 
 @property (nonatomic, strong) NSMutableArray<NetmeraUserNotificationAction *> *actions;
-@property (nonatomic, strong) UIMutableUserNotificationCategory *category;
+@property (nonatomic, readonly) UNNotificationCategory *category;
+
+@property (nonatomic, copy, readonly) NSString *identifier;
 
 @end

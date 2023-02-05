@@ -366,7 +366,7 @@
 		</data>
 		<key>Headers/NetmeraPushObject_Private.h</key>
 		<data>
-		thORDPaTHOcnSiJXbL1Nc9RLEOQ=
+		0bkwE8xAr+iQh2y6lAlpkhVzCL0=
 		</data>
 		<key>Headers/NetmeraPushOpenedEvent.h</key>
 		<data>
@@ -486,11 +486,11 @@
 		</data>
 		<key>Headers/NetmeraUserNotificationAction.h</key>
 		<data>
-		ZK/u9YoW3I0H5HUJj/kR2Suhx9A=
+		XXStgkz6YBc3kCBmUSsX2W1Otac=
 		</data>
 		<key>Headers/NetmeraUserNotificationCategory.h</key>
 		<data>
-		KGCJ3cZ9ZFDMW9I43a4ujDfa/SE=
+		pMAdLtW+HQpG2Ys60vx4L4QteWE=
 		</data>
 		<key>Headers/NetmeraWebViewAction.h</key>
 		<data>
@@ -1509,11 +1509,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			thORDPaTHOcnSiJXbL1Nc9RLEOQ=
+			0bkwE8xAr+iQh2y6lAlpkhVzCL0=
 			</data>
 			<key>hash2</key>
 			<data>
-			YCC5JPe8eaTyELY9fSN6zQSi8S7/lep7YIWvRnS5gsc=
+			tWDsrPAsW016nCKSd2of+098WXIAFefbSL/iFpoanwY=
 			</data>
 		</dict>
 		<key>Headers/NetmeraPushOpenedEvent.h</key>
@@ -1839,22 +1839,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZK/u9YoW3I0H5HUJj/kR2Suhx9A=
+			XXStgkz6YBc3kCBmUSsX2W1Otac=
 			</data>
 			<key>hash2</key>
 			<data>
-			7eRdOoXq8GJBaml9RxepdToSRm1xHhNaNRJbxHAHlCc=
+			BpwNx4QMG8e0xJS11yWPvg/Ivue2zNEaplrHt2ySJ9c=
 			</data>
 		</dict>
 		<key>Headers/NetmeraUserNotificationCategory.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KGCJ3cZ9ZFDMW9I43a4ujDfa/SE=
+			pMAdLtW+HQpG2Ys60vx4L4QteWE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pb3Qbg6PGYmoviwQU2mA8M4J3KAZGcdG2ObNijJVVdY=
+			tmHBK1NweayoneKpPlLrLYGM+cNzk3LGA/JUhaLo+x8=
 			</data>
 		</dict>
 		<key>Headers/NetmeraWebViewAction.h</key>

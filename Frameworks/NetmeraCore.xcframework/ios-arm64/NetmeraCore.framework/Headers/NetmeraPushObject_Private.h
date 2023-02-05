@@ -57,6 +57,6 @@
 
 @property (nonatomic, strong, readwrite) NetmeraPushObjectAction *action;
 
-@property (nonatomic, copy) void (^willPresentNotificationHandler)(UNNotificationPresentationOptions options) API_AVAILABLE(ios(10.0));;
+@property (nonatomic, copy) void (^willPresentNotificationHandler)(UNNotificationPresentationOptions options);;
 
 @end

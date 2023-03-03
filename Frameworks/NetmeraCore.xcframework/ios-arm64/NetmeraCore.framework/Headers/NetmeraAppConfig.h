@@ -36,7 +36,7 @@
 @property (nonatomic, strong) NSString *appKey;
 @property (nonatomic, assign) NetmeraEventPermission eventPermission;
 @property (nonatomic, assign) BOOL offlineEventPermission;
-//@property (nonatomic, strong) NSString *remoteConfigVersion;
+@property (nonatomic, strong) NSString *remoteConfigVersion;
 
 @end
 

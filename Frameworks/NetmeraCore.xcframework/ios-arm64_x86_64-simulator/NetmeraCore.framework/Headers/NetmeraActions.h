@@ -2,7 +2,6 @@
 //  NetmeraActions.h
 //  NetmeraCore
 //
-//  Created by Muhammed Kılınç on 24.07.2022.
 //
 
 #ifndef NetmeraActions_h

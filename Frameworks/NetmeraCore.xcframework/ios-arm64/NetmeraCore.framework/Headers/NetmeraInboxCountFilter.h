@@ -2,7 +2,6 @@
 //  NetmeraInboxCountFilter.h
 //  NetmeraCore
 //
-//  Created by Muhammed Kılınç on 13.02.2022.
 //
 
 #import <NetmeraCore/NetmeraBaseModel.h>

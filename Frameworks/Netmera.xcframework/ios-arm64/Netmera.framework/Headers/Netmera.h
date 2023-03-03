@@ -357,7 +357,17 @@ NS_ASSUME_NONNULL_BEGIN
 /** @brief Completely turn off sending all events and user data If this method is called,
  we will never send backend @c NetmeraUser updates and @c NetmeraEvent.
  */
-+ (void)turnOffSendingEventAndUserUpdate;
++ (void)stopDataTransfer;
+
+/** @brief Completely turn on sending all events and user data If this method is called,
+ we will activate sending backend @c NetmeraUser updates and @c NetmeraEvent.
+ */
++ (void)startDataTransfer;
+
+/** @brief Get whether data trasfer is allowed or not,
+ */
++ (BOOL)isDataTransferEnabled;
+
 @end
 
 #pragma mark - Crash Reporting

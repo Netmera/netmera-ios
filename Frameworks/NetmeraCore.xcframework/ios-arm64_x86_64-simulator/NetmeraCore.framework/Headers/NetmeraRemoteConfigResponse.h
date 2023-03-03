@@ -2,7 +2,6 @@
 //  NetmeraRemoteConfigResponse.h
 //  NetmeraCore
 //
-//  Created by Muhammed Kılınç on 16.11.2022.
 //
 
 #import <Foundation/Foundation.h>

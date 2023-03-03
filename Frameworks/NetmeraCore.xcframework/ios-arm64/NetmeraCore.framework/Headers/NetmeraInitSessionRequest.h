@@ -15,5 +15,6 @@
 @property (nonatomic, strong) NetmeraAppDeviceInfo *appDeviceInfo;
 @property (nonatomic, assign) NSInteger timeZoneOffset;
 @property (nonatomic, strong) NSDate *creationDate;
+@property (nonatomic, assign) BOOL isTurnedOffTracking;
 
 @end

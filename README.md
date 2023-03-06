@@ -3,10 +3,9 @@
 </p>
 
 ## Netmera iOS SDK
-[![Version](https://img.shields.io/cocoapods/v/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
-[![Platform](https://img.shields.io/cocoapods/p/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
-[![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
-[![License](https://img.shields.io/cocoapods/l/Netmera.svg?style=flat)](https://cocoapods.org/pods/Netmera)
+[![Platform](https://img.shields.io/badge/platform-iOS-blue.svg?style=flat)](https://cocoapods.org/pods/Netmera)
+[![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg?style=flat)](https://github.com/apple/swift-package-manager)
+[![License](https://img.shields.io/badge/license-apache%202.0-blue.svg?style=flat)](https://cocoapods.org/pods/Netmera)
 ---
 
 [Netmera](https://www.netmera.com) iOS SDK for Netmera mobile app engagement platform
@@ -109,7 +108,7 @@ Stop
 Start
 ```objc
 [Netmera startDataTransfer];
-
+```
 
 ### Change Log
 See Netmera's [iOS SDK Change Log](https://developer.netmera.com/en/IOS/sdk-versions).

@@ -9,15 +9,15 @@ let package = Package(
   products: [
     // Products define the executables and libraries a package produces, and make them visible to other packages.
     .library(
-      name: "Netmera",
-      targets: ["NetmeraTarget"]
+      name: "NetmeraIOS",
+      targets: ["NetmeraWrapper"]
     ),
     .library(
       name: "NetmeraNotificationServiceExtension",
-      targets: ["NetmeraNotificationServiceExtensionTarget"]),
+      targets: ["NetmeraNotificationServiceExtensionWrapper"]),
     .library(
       name: "NetmeraNotificationContentExtension",
-      targets: ["NetmeraNotificationContentExtensionTarget"]),
+      targets: ["NetmeraNotificationContentExtensionWrapper"]),
   ],
   dependencies: [
     // Dependencies declare other packages that this package depends on.
@@ -44,39 +44,33 @@ let package = Package(
     // Targets can depend on other targets in this package, and on products in packages this package depends on.
     .binaryTarget(
       name: "NetmeraCore",
-      path: "Frameworks/NetmeraCore/NetmeraCore.xcframework"
+      path: "Frameworks/NetmeraCore.xcframework"
     ),
     .binaryTarget(
       name: "NetmeraAdId",
-      path: "Frameworks/NetmeraAdId/NetmeraAdId.xcframework"
+      path: "Frameworks/NetmeraAdId.xcframework"
     ),
     .binaryTarget(
       name: "Netmera",
-      path: "Frameworks/Netmera/Netmera.xcframework"
+      path: "Frameworks/Netmera.xcframework"
     ),
     .binaryTarget(
       name: "NetmeraNotificationServiceExtension",
-      path: "Frameworks/NetmeraNotificationServiceExtension/NetmeraNotificationServiceExtension.xcframework"
+      path: "Frameworks/NetmeraNotificationServiceExtension.xcframework"
     ),
     .binaryTarget(
       name: "NetmeraNotificationContentExtension",
-      path: "Frameworks/NetmeraNotificationContentExtension/NetmeraNotificationContentExtension.xcframework"
+      path: "Frameworks/NetmeraNotificationContentExtension.xcframework"
     ),
-      .target(
-        name: "NetmeraTarget",
-        dependencies: [
-          .target(name: "NetmeraWrapper", condition: .when(platforms: [.iOS])),
-        ]
-      ),
     .target(
       name: "NetmeraWrapper",
       dependencies: [
-        .target(name: "Netmera", condition: .when(platforms: [.iOS])),
         .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
         .target(name: "NetmeraAdId", condition: .when(platforms: [.iOS])),
+        .target(name: "Netmera", condition: .when(platforms: [.iOS])),
         .product(name: "AFNetworking", package: "AFNetworking"),
-        .product(name: "UICKeyChainStore", package: "UICKeyChainStore"),
         .product(name: "FMDB", package: "FMDB"),
+        .product(name: "UICKeyChainStore", package: "MMWormhole"),
         .product(name: "MMWormhole", package: "MMWormhole"),
       ],
       linkerSettings: [
@@ -87,25 +81,12 @@ let package = Package(
         .linkedFramework("UserNotifications"),
       ]
     ),
-      .target(
-        name: "NetmeraNotificationContentExtensionTarget",
-        dependencies: [
-          .target(name: "NetmeraNotificationContentExtensionWrapper", condition: .when(platforms: [.iOS]))
-        ]
-      ),
     .target(name: "NetmeraNotificationContentExtensionWrapper",
             dependencies: [
               .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
               .target(name: "NetmeraNotificationContentExtension", condition: .when(platforms: [.iOS])),
               .product(name: "MMWormhole", package: "MMWormhole"),
             ]),
-
-      .target(
-        name: "NetmeraNotificationServiceExtensionTarget",
-        dependencies: [
-          .target(name: "NetmeraNotificationServiceExtensionWrapper", condition: .when(platforms: [.iOS]))
-        ]
-      ),
     .target(name: "NetmeraNotificationServiceExtensionWrapper",
             dependencies: [
               .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),

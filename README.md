@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.netmera.com/wp-content/uploads/2019/10/netmera_logo-1.png"/>
+  <img src="https://netmera.com/wp-content/uploads/2022/12/netmera_logo-1-1-1.png"/>
 </p>
 
 ## Netmera iOS SDK
@@ -61,6 +61,9 @@ Enter the package URL for this repository https://github.com/Netmera/netmera-ios
 See Netmera's [iOS SDK API](https://developer.netmera.com/en/IOS/Quick-Start)
 
 #### Usage
+
+##### Start
+
 in Swift
 
 ```swift
@@ -95,6 +98,17 @@ in Objective-c
     [Netmera setBaseURL:@"{BASE_URL}"]; // Optional
     [Netmera setAppGroupName:@"app.group.name"]; // Optional if you want use notification content extension
 ```
+
+##### Start/Stop Data tracking
+It will stop/start all events and user update request.
+
+Stop
+```objc
+[Netmera stopDataTransfer];
+```
+Start
+```objc
+[Netmera startDataTransfer];
 
 
 ### Change Log

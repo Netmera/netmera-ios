@@ -98,16 +98,35 @@ in Objective-c
     [Netmera setAppGroupName:@"app.group.name"]; // Optional if you want use notification content extension
 ```
 
-##### Start/Stop Data tracking
+#### Start/Stop Data tracking
 It will stop/start all events and user update request.
 
 Stop
 ```objc
-[Netmera stopDataTransfer];
+  [Netmera stopDataTransfer];
 ```
 Start
 ```objc
-[Netmera startDataTransfer];
+  [Netmera startDataTransfer];
+```
+
+#### User Category Preferences
+Fetch category preferences of the user. It will return category preference list. Each category preference data includes id, name and enable status.
+```swift
+    Netmera.getUserCategoryPreferenceList { categories, error in
+      if let categories = categories {
+        print(categories)
+      } else if let error = error {
+        print(error)
+      }
+    }
+```
+
+Manage preference of category. To switch preference status of category with given id. 
+```swift
+    Netmera.setUserCategoryPreferenceWithCategoryId("{categoryId}", categoryEnabled: {true/false}) { error in
+        ...
+    }
 ```
 
 ### Change Log

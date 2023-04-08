@@ -28,8 +28,8 @@
 @property (nonatomic, copy) NSString *pushId;
 @property (nonatomic, copy) NSString *pushInstanceId;
 @property (nonatomic, copy) NSString *flowId;
-@property (nonatomic, assign) int abTestId;
-@property (nonatomic, assign) int abTestOptionId;
+@property (nonatomic, copy) NSNumber *abTestId;
+@property (nonatomic, copy) NSNumber *abTestOptionId;
 
 - (void)removePropertiesSameWithIdentifiers:(NetmeraIdentifiers *)identifiers;
 - (BOOL)isEmpty;

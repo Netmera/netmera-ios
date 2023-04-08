@@ -13,10 +13,10 @@ let package = Package(
       targets: ["NetmeraWrapper"]
     ),
     .library(
-      name: "NetmeraNotificationServiceExtension",
+      name: "NetmeraNotificationServiceExtensionSDK",
       targets: ["NetmeraNotificationServiceExtensionWrapper"]),
     .library(
-      name: "NetmeraNotificationContentExtension",
+      name: "NetmeraNotificationContentExtensionSDK",
       targets: ["NetmeraNotificationContentExtensionWrapper"]),
   ],
   dependencies: [

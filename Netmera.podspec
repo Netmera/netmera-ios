@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Netmera'
-  s.version          = '3.15.4'
+  s.version          = '3.15.4-WithoutDependency'
   s.summary          = 'iOS SDK for Netmera mobile app engagement platform'
 
   s.description      = <<-DESC
@@ -62,8 +62,8 @@ Pod::Spec.new do |s|
 
   s.subspec 'Application' do |ss|
     ss.vendored_frameworks = 'Frameworks/Netmera.xcframework'
-    ss.dependency 'AFNetworking/NSURLSession', '>= 3.1.0'
     ss.dependency 'NetmeraCore', s.version.to_s
+    ss.dependency 'AFNetworking/NSURLSession', '>= 3.1.0'
     ss.dependency 'MMWormhole', '~> 2.0.0'
     ss.dependency 'FMDB'
     ss.dependency 'UICKeyChainStore', '~>2.0'
@@ -76,8 +76,8 @@ Pod::Spec.new do |s|
 
   s.subspec 'NotificationContentExtension' do |ss|
     ss.dependency 'NetmeraCore', s.version.to_s
-    ss.dependency 'MMWormhole', '~> 2.0.0'
     ss.vendored_frameworks = 'Frameworks/NetmeraNotificationContentExtension.xcframework'
+    ss.dependency 'MMWormhole', '~> 2.0.0'
   end
 
   s.subspec 'NotificationServiceExtension' do |ss|

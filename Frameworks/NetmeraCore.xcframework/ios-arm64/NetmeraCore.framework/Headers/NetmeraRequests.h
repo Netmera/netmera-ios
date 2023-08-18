@@ -11,7 +11,6 @@
 #import <NetmeraCore/NetmeraRegisterPushRequest.h>
 #import <NetmeraCore/NetmeraEnablePushRequest.h>
 #import <NetmeraCore/NetmeraDisablePushRequest.h>
-#import <NetmeraCore/NetmeraIdentifyUserRequest.h>
 #import <NetmeraCore/NetmeraUpdateDeviceRequest.h>
 #import <NetmeraCore/NetmeraAppConfigRequest.h>
 #import <NetmeraCore/NetmeraAddTestDeviceRequest.h>
@@ -29,5 +28,6 @@
 #import <NetmeraCore/NetmeraFetchInboxCountRequest.h>
 #import <NetmeraCore/NetmeraFetchUserCategoryRequest.h>
 #import <NetmeraCore/NetmeraRemoteConfigRequest.h>
+#import <NetmeraCore/NetmeraEmailSubscribeRequest.h>
 
 #endif /* NetmeraRequests_h */

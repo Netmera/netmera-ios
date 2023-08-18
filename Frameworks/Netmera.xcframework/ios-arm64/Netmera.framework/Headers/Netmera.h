@@ -394,8 +394,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)setAuthorizedAdvertisingIdentifier:(BOOL)authorized;
 
-NS_ASSUME_NONNULL_END
-
 @end
 
 #pragma mark - Push Notification
@@ -405,3 +403,18 @@ NS_ASSUME_NONNULL_END
 + (nullable NSDictionary<NSString*, NSDictionary<NSString*, id>*> *)remoteConfig;
 
 @end
+
+
+@interface Netmera (EmailSubscription)
+
+/**
+ @brief Set authorization for email subscription
+ */
+
++ (BOOL)isAllowedEmailSubscription;
+
++ (void)setAllowedEmailSubscription:(BOOL)allowed;
+
+@end
+
+NS_ASSUME_NONNULL_END

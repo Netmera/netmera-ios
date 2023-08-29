@@ -32,13 +32,9 @@
 		<data>
 		o1zHWtA2gVMDP6sXjm/7kYPwuws=
 		</data>
-		<key>Headers/SwizzlingForwarder.h</key>
-		<data>
-		lr4xNtCDM/zyF/lWiOyJvXjOk0k=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		/v5FBzYT0JAwqUvcV+2YLGmh1A4=
+		cCL3DmSN8xMwMZw0OuPBqFethmg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -122,17 +118,6 @@
 			<key>hash2</key>
 			<data>
 			Y+ww0DKsp2HmIQIq5be3/ojNNRPmBSCZErv4NM38d8Y=
-			</data>
-		</dict>
-		<key>Headers/SwizzlingForwarder.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lr4xNtCDM/zyF/lWiOyJvXjOk0k=
-			</data>
-			<key>hash2</key>
-			<data>
-			x69gPzgyJKxAhwf3qOuCLySjd478Mi05f10zsbQJVPE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

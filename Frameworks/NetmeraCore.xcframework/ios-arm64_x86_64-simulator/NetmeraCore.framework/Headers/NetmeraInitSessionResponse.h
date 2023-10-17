@@ -11,4 +11,6 @@
 
 @interface NetmeraInitSessionResponse : NetmeraAppConfigResponse
 
+@property (nonatomic, assign) NSNumber *slotId;
+
 @end

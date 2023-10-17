@@ -30,8 +30,8 @@
 @property (nonatomic, copy) NSString *flowId;
 @property (nonatomic, copy) NSNumber *abTestId;
 @property (nonatomic, copy) NSNumber *abTestOptionId;
+@property (nonatomic, copy) NSNumber *slotId;
 
 - (void)removePropertiesSameWithIdentifiers:(NetmeraIdentifiers *)identifiers;
-- (BOOL)isEmpty;
 
 @end

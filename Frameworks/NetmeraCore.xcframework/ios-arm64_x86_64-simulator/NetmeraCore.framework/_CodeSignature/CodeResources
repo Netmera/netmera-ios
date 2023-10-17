@@ -198,11 +198,11 @@
 		</data>
 		<key>Headers/NetmeraIdentifiers.h</key>
 		<data>
-		HkWhdJi126UvzqfWrikGqGIlBzk=
+		d8vtBLzMuA0Pj/BR1Ag+hGu32L0=
 		</data>
 		<key>Headers/NetmeraIdentifyUserResponse.h</key>
 		<data>
-		LH21JE7vBxjZuChFB1Yc42MTN7g=
+		RTcd9SqHoDCttfixALgXIyyezfU=
 		</data>
 		<key>Headers/NetmeraInAppMessageAction.h</key>
 		<data>
@@ -258,7 +258,7 @@
 		</data>
 		<key>Headers/NetmeraInitSessionResponse.h</key>
 		<data>
-		rzPdPAL+p9Qk1LwWM+5uXurB1Xc=
+		fxml/xLRwdi2JICFPYhaRxCkk7s=
 		</data>
 		<key>Headers/NetmeraInternalEvents.h</key>
 		<data>
@@ -354,7 +354,7 @@
 		</data>
 		<key>Headers/NetmeraPushObject.h</key>
 		<data>
-		9TccUB0pmi7C3FlFiP3OJRYmZXo=
+		kxg9uvBTdO2pdhILqT0kx8d2aBo=
 		</data>
 		<key>Headers/NetmeraPushObjectAction.h</key>
 		<data>
@@ -506,11 +506,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KIESLdqIfthmrQdPDc1Jl7rWKD0=
+		LjvCL1wWy95e51M7Gd7XT+3oqlU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		5BkQP+Cx3iCBVZ2LsI5TgfNrDqo=
+		w/6hTSzoLEEyjYSf9s6C66+mKuc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1047,22 +1047,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HkWhdJi126UvzqfWrikGqGIlBzk=
+			d8vtBLzMuA0Pj/BR1Ag+hGu32L0=
 			</data>
 			<key>hash2</key>
 			<data>
-			FQg+p7Jq7R1qNalLbTyIyXM9Z5AGSuU0hrEmBkdOP/k=
+			Niak95wVa/snQnNM8173/9awXmz5qUlpSbnVvNkem7o=
 			</data>
 		</dict>
 		<key>Headers/NetmeraIdentifyUserResponse.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LH21JE7vBxjZuChFB1Yc42MTN7g=
+			RTcd9SqHoDCttfixALgXIyyezfU=
 			</data>
 			<key>hash2</key>
 			<data>
-			uxBcS3cJCnp1BoTD/XhIlR+vvrm+ty83pR81IoB7fus=
+			+5+FCbCekFOmvCMyUh/ufxHQg9Ek+xg+KWLUptdSgLA=
 			</data>
 		</dict>
 		<key>Headers/NetmeraInAppMessageAction.h</key>
@@ -1212,11 +1212,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rzPdPAL+p9Qk1LwWM+5uXurB1Xc=
+			fxml/xLRwdi2JICFPYhaRxCkk7s=
 			</data>
 			<key>hash2</key>
 			<data>
-			+AJgE/z/RYQTWeItc0du8OjuYstuT3Sc7tPcbF7oXf8=
+			rHP5LpKlvk8ou9PRg37Vz8myom0rA75ErQMAMtPQulk=
 			</data>
 		</dict>
 		<key>Headers/NetmeraInternalEvents.h</key>
@@ -1476,11 +1476,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9TccUB0pmi7C3FlFiP3OJRYmZXo=
+			kxg9uvBTdO2pdhILqT0kx8d2aBo=
 			</data>
 			<key>hash2</key>
 			<data>
-			bcnTOt9HeSLn2utH1/1X89HYCk+F03MTS3aBP/vp2Zk=
+			tP7lUbo06eb94uxYiIJ+KPoqYu6Ik1W4/FQSwicYSak=
 			</data>
 		</dict>
 		<key>Headers/NetmeraPushObjectAction.h</key>
@@ -1894,11 +1894,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5BkQP+Cx3iCBVZ2LsI5TgfNrDqo=
+			w/6hTSzoLEEyjYSf9s6C66+mKuc=
 			</data>
 			<key>hash2</key>
 			<data>
-			BRml4gnj8fqkhaGcl97hsyfY7L128k4bZy70yi0h9iM=
+			adML6ZWqff93t2vdLZwwZ17Y/0CKa5xWg4JGuY4QqQE=
 			</data>
 		</dict>
 	</dict>

@@ -11,5 +11,6 @@
 @interface NetmeraIdentifyUserResponse : NetmeraBaseResponseModel
 
 @property (nonatomic, copy) NSString *userId;
+@property (nonatomic, assign) NSNumber *slotId;
 
 @end

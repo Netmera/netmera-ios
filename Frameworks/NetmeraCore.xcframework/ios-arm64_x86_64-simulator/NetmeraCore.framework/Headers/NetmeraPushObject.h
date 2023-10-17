@@ -29,6 +29,7 @@ typedef NS_ENUM(NSUInteger, NetmeraPushStyleType) {
     NetmeraPushStyleTypeGeneral = 1,
     NetmeraPushStyleTypeCarousel = 2,
     NetmeraPushStyleTypeSlider = 3,
+    NetmeraPushStyleTypeCustom = 4,
 };
 
 typedef NS_OPTIONS(NSUInteger, NetmeraInboxStatus) {
@@ -37,6 +38,13 @@ typedef NS_OPTIONS(NSUInteger, NetmeraInboxStatus) {
   NetmeraInboxStatusDeleted = 1 << 2,
   NetmeraInboxStatusAll = NetmeraInboxStatusRead | NetmeraInboxStatusUnread | NetmeraInboxStatusDeleted,
 };
+
+@interface NetmeraPushStyle : NetmeraBaseModel
+
+@property (nonatomic, strong) NSString *fontFamily;
+
+@end
+
 
 @interface NetmeraPushObject : NetmeraBaseModel
 
@@ -63,5 +71,7 @@ typedef NS_OPTIONS(NSUInteger, NetmeraInboxStatus) {
 
 @property (nonatomic, strong, readonly) NetmeraPushObjectAction *action;
 @property (nonatomic, strong, readonly) NSArray<NetmeraUserNotificationAction *> *interactiveActions;
+@property (nonatomic, strong, readonly) NetmeraPushStyle *pushStyle;
+@property (nonatomic, assign, readonly) BOOL isThumbnail;
 
 @end

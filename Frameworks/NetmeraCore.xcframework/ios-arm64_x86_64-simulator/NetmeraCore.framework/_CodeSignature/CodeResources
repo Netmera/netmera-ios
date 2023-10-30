@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/NetmeraBaseRequest.h</key>
 		<data>
-		HbbjGNwCECNEWm3fQrFw/aMEl08=
+		HSIyZuVwaz+IYDv4fmBMh10g74k=
 		</data>
 		<key>Headers/NetmeraBaseResponseModel.h</key>
 		<data>
@@ -110,7 +110,15 @@
 		</data>
 		<key>Headers/NetmeraCore.h</key>
 		<data>
-		CnRG/azVtgD53x7TFbjkHfqxpUA=
+		0UdxoFTux62pMj7zaQh36zo8SW8=
+		</data>
+		<key>Headers/NetmeraCouponFilter.h</key>
+		<data>
+		YSxvXHAH0jvbMRJncDgo2wNK6c4=
+		</data>
+		<key>Headers/NetmeraCouponObject.h</key>
+		<data>
+		1ZDE/DCqrP6/uYrYObKBYVmCl5U=
 		</data>
 		<key>Headers/NetmeraCrashEvent.h</key>
 		<data>
@@ -167,6 +175,14 @@
 		<key>Headers/NetmeraEventRequest.h</key>
 		<data>
 		MxXbyKWBZQT0EeiQrobomyxcDEQ=
+		</data>
+		<key>Headers/NetmeraFetchCouponRequest.h</key>
+		<data>
+		0GaLY21Qe208tg8BQvJ4JmpBzpI=
+		</data>
+		<key>Headers/NetmeraFetchCouponResponse.h</key>
+		<data>
+		MPLrgt7DbzVCODkE2a96SeDI1Ow=
 		</data>
 		<key>Headers/NetmeraFetchInboxCategoryRequest.h</key>
 		<data>
@@ -402,11 +418,11 @@
 		</data>
 		<key>Headers/NetmeraRequests.h</key>
 		<data>
-		F8/nDQiuzpbe1migBJ8EwoLmmfY=
+		NcQEfSA1yPwaqQwsF5nyKLffeGU=
 		</data>
 		<key>Headers/NetmeraResponse.h</key>
 		<data>
-		NB8hOU58je1Rvtvk0402FVwcRKA=
+		GlM4aARLtH8YVszaO8wUZi7wORg=
 		</data>
 		<key>Headers/NetmeraReviewAction.h</key>
 		<data>
@@ -662,11 +678,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HbbjGNwCECNEWm3fQrFw/aMEl08=
+			HSIyZuVwaz+IYDv4fmBMh10g74k=
 			</data>
 			<key>hash2</key>
 			<data>
-			X4zdqWnoMw3sVc+RwFrvL92VTaEXaxXs4p8XgU6KeCM=
+			a/XslJg0ppnd4xu38HvzII0I6Bvk2VQe1TJCYnrGeRQ=
 			</data>
 		</dict>
 		<key>Headers/NetmeraBaseResponseModel.h</key>
@@ -805,11 +821,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CnRG/azVtgD53x7TFbjkHfqxpUA=
+			0UdxoFTux62pMj7zaQh36zo8SW8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wUQg76HfEE/Yqrh1lx9d3P0clZzIbzKS7svYRwBfJiQ=
+			Z0NtIzMp5Z3eJvyeTkBG3ZunDkwjDvGKpJttIs7/M8I=
+			</data>
+		</dict>
+		<key>Headers/NetmeraCouponFilter.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YSxvXHAH0jvbMRJncDgo2wNK6c4=
+			</data>
+			<key>hash2</key>
+			<data>
+			m1GZ32KD87dKZfDyWSS6D5r+utFw+asVLmeqKeUPr18=
+			</data>
+		</dict>
+		<key>Headers/NetmeraCouponObject.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1ZDE/DCqrP6/uYrYObKBYVmCl5U=
+			</data>
+			<key>hash2</key>
+			<data>
+			0lCOmIBREwLePnJ3RBjUOrNv57+diSAzaa1ZVBfc1nY=
 			</data>
 		</dict>
 		<key>Headers/NetmeraCrashEvent.h</key>
@@ -964,6 +1002,28 @@
 			<key>hash2</key>
 			<data>
 			i/A6xkucuiqRvgZx1cZ+umNq6f/YcUyqGMFFYNPsOOE=
+			</data>
+		</dict>
+		<key>Headers/NetmeraFetchCouponRequest.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0GaLY21Qe208tg8BQvJ4JmpBzpI=
+			</data>
+			<key>hash2</key>
+			<data>
+			fv4dSnK3DIpD5ztZWhx5Dp7dxeEVfrfLjacrLiQJF3M=
+			</data>
+		</dict>
+		<key>Headers/NetmeraFetchCouponResponse.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MPLrgt7DbzVCODkE2a96SeDI1Ow=
+			</data>
+			<key>hash2</key>
+			<data>
+			DNIXIXAXBxsN4O2WDlA1SWc41hAer7ugYvepQQBMPpQ=
 			</data>
 		</dict>
 		<key>Headers/NetmeraFetchInboxCategoryRequest.h</key>
@@ -1608,22 +1668,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F8/nDQiuzpbe1migBJ8EwoLmmfY=
+			NcQEfSA1yPwaqQwsF5nyKLffeGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			q0KBwCJBReO7UWGNmPRfhPk/HYbxQ9atSLXjVC2e9G4=
+			ZitENkt/6+DucJ3QHsCaZQAwG+g4ZrFrHuFTdqsF6As=
 			</data>
 		</dict>
 		<key>Headers/NetmeraResponse.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NB8hOU58je1Rvtvk0402FVwcRKA=
+			GlM4aARLtH8YVszaO8wUZi7wORg=
 			</data>
 			<key>hash2</key>
 			<data>
-			9fEb+kltdAYCdKYzumaJkP8GqzfB1fB1ryiRKw9+zH4=
+			xxmWRV7fpSpGVocxtB3lOaSzIoK46+YXNeRQKmeTbew=
 			</data>
 		</dict>
 		<key>Headers/NetmeraReviewAction.h</key>

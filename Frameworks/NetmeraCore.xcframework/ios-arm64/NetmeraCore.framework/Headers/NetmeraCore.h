@@ -59,3 +59,5 @@ FOUNDATION_EXPORT const unsigned char NetmeraCoreVersionString[];
 #import <NetmeraCore/NetmeraUIActionType.h>
 #import <NetmeraCore/NetmeraInboxCountFilter.h>
 #import <NetmeraCore/NetmeraUserCategoryPreference.h>
+#import <NetmeraCore/NetmeraCouponObject.h>
+#import <NetmeraCore/NetmeraCouponFilter.h>

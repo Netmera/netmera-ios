@@ -418,3 +418,12 @@ NS_ASSUME_NONNULL_BEGIN
 @end
 
 NS_ASSUME_NONNULL_END
+
+
+#pragma mark - User Coupon
+@interface Netmera (Coupon)
+
++ (void)fetchCouponUsingFilter:(NetmeraCouponFilter *_Nullable)filter
+                    completion:(void (^_Nullable)(NSArray<NetmeraCouponObject *> * _Nullable coupons, NSError * _Nullable error))completionBlock;
+
+@end

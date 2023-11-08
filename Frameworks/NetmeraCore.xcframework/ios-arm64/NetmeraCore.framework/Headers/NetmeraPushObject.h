@@ -42,6 +42,7 @@ typedef NS_OPTIONS(NSUInteger, NetmeraInboxStatus) {
 @interface NetmeraPushStyle : NetmeraBaseModel
 
 @property (nonatomic, strong) NSString *fontFamily;
+@property (nonatomic, copy, readonly) NSString *pushIcon;
 
 @end
 

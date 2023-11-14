@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/NetmeraAppConfig.h</key>
 		<data>
-		kzQqdNsohjCnsk0OWnpQo4tqbBM=
+		tHN3hcYptXRmRekBeMspmTRGYss=
 		</data>
 		<key>Headers/NetmeraAppConfigRequest.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/NetmeraCommonEvents.h</key>
 		<data>
-		rQnKJHT6f8zS2iAJK+VHV8VYZhM=
+		HLu9I9/8KnQTvq1/d6TwHwU5rKc=
 		</data>
 		<key>Headers/NetmeraContent.h</key>
 		<data>
@@ -428,14 +428,6 @@
 		<data>
 		RpvJWTVbvczdepjPL2QnaWX4Ggs=
 		</data>
-		<key>Headers/NetmeraScreenCloseEvent.h</key>
-		<data>
-		WpUX5RauqCPlywQN10uOgneDD8Y=
-		</data>
-		<key>Headers/NetmeraScreenOpenEvent.h</key>
-		<data>
-		WOULCvsualdrEJgvWHUZDBGiurk=
-		</data>
 		<key>Headers/NetmeraScreenViewEvent.h</key>
 		<data>
 		+WbdSoqXT6Triv5XSxiTJAdBGcs=
@@ -468,17 +460,29 @@
 		<data>
 		SmzWuRvtBCkZ/9IXGIohLvhTBTQ=
 		</data>
+		<key>Headers/NetmeraShowViewEvent.h</key>
+		<data>
+		v2R4L137zOI2qlqK9rcekAwGIYY=
+		</data>
+		<key>Headers/NetmeraShowViewTestEvent.h</key>
+		<data>
+		6DtnETcMeZY7g5a3K/dwcxnl8/E=
+		</data>
 		<key>Headers/NetmeraTimeInAppEvent.h</key>
 		<data>
 		oXaQgr3sH6aqDpBKIwc/4FvKV3Y=
 		</data>
+		<key>Headers/NetmeraTrackableActionInfo.h</key>
+		<data>
+		nc40ra2HL6TaetcbWc/HxiVOQ3Y=
+		</data>
+		<key>Headers/NetmeraTrackableScreenInfo.h</key>
+		<data>
+		xSdnzXUSqaEfZf8jhw2SUcLdAh4=
+		</data>
 		<key>Headers/NetmeraUIAction.h</key>
 		<data>
 		H3uHZdehdEY4NmvigPm9omjbmZs=
-		</data>
-		<key>Headers/NetmeraUIActionEvent.h</key>
-		<data>
-		ClFoMZtREq7tWbcTci+ivi230uw=
 		</data>
 		<key>Headers/NetmeraUIActionType.h</key>
 		<data>
@@ -507,6 +511,14 @@
 		<key>Headers/NetmeraUserNotificationCategory.h</key>
 		<data>
 		pMAdLtW+HQpG2Ys60vx4L4QteWE=
+		</data>
+		<key>Headers/NetmeraViewActionEvent.h</key>
+		<data>
+		m/g0hi87kL36O+kOAzF+s6zV1+o=
+		</data>
+		<key>Headers/NetmeraViewActionTestEvent.h</key>
+		<data>
+		iyxYf8LLitbG/G/a1srodce0poM=
 		</data>
 		<key>Headers/NetmeraWebViewAction.h</key>
 		<data>
@@ -579,11 +591,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kzQqdNsohjCnsk0OWnpQo4tqbBM=
+			tHN3hcYptXRmRekBeMspmTRGYss=
 			</data>
 			<key>hash2</key>
 			<data>
-			2H8WfeHm41qekzooKaTGOe9pVja80NjnaTjQiZTXteY=
+			Zl8NJ9cNUBI2YXHdm4SHMWBa7v55MZqyFRw1k0CICCc=
 			</data>
 		</dict>
 		<key>Headers/NetmeraAppConfigRequest.h</key>
@@ -766,11 +778,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rQnKJHT6f8zS2iAJK+VHV8VYZhM=
+			HLu9I9/8KnQTvq1/d6TwHwU5rKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			1UzvJCpMdGaQ/NHwDnM+rdV5uZzMrhWVQG7vPfXZmHw=
+			wtQGu2RSaj+LaKuj7YkTc0QnQWai2uAwhTTSIIHh7mE=
 			</data>
 		</dict>
 		<key>Headers/NetmeraContent.h</key>
@@ -1697,28 +1709,6 @@
 			QF44CfqKyNxfbZ/GGMXxcm7U3ulUaS96XwOdJY+cYxM=
 			</data>
 		</dict>
-		<key>Headers/NetmeraScreenCloseEvent.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WpUX5RauqCPlywQN10uOgneDD8Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			mBMEcMi9hrYN0dZ5XsoomidLAQE1+ojqI25cCcfuD0A=
-			</data>
-		</dict>
-		<key>Headers/NetmeraScreenOpenEvent.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			WOULCvsualdrEJgvWHUZDBGiurk=
-			</data>
-			<key>hash2</key>
-			<data>
-			uDFfgyFdzH/IgcoqSgPWYYmwGKkQm4TEGFwBD/z40/Q=
-			</data>
-		</dict>
 		<key>Headers/NetmeraScreenViewEvent.h</key>
 		<dict>
 			<key>hash</key>
@@ -1807,6 +1797,28 @@
 			X6fgrASd/g/GoXLovcbsWk9xZgJvHHiGG8YVnhHUyMA=
 			</data>
 		</dict>
+		<key>Headers/NetmeraShowViewEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v2R4L137zOI2qlqK9rcekAwGIYY=
+			</data>
+			<key>hash2</key>
+			<data>
+			XHcTu09nK+mq8gnvfH/IoQz4x2WUU1ls0dOg143PLVg=
+			</data>
+		</dict>
+		<key>Headers/NetmeraShowViewTestEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6DtnETcMeZY7g5a3K/dwcxnl8/E=
+			</data>
+			<key>hash2</key>
+			<data>
+			MzUpcDX5XKWSpMGWGWSynJxVOyExY5NgWRxFIpuwxXg=
+			</data>
+		</dict>
 		<key>Headers/NetmeraTimeInAppEvent.h</key>
 		<dict>
 			<key>hash</key>
@@ -1818,6 +1830,28 @@
 			1sgFY4LK0BkeW3OOG8ZmvAzy5NsY+KzxEyU02WRAt2s=
 			</data>
 		</dict>
+		<key>Headers/NetmeraTrackableActionInfo.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nc40ra2HL6TaetcbWc/HxiVOQ3Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			PM4fgQf24/k3hl8S+CcFhAbwXo1Imuw1lSbu5LJzEKg=
+			</data>
+		</dict>
+		<key>Headers/NetmeraTrackableScreenInfo.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xSdnzXUSqaEfZf8jhw2SUcLdAh4=
+			</data>
+			<key>hash2</key>
+			<data>
+			qKfLse6Y+ES6pTipVlybVa++5dmOrntBHyeyUjmq2jE=
+			</data>
+		</dict>
 		<key>Headers/NetmeraUIAction.h</key>
 		<dict>
 			<key>hash</key>
@@ -1827,17 +1861,6 @@
 			<key>hash2</key>
 			<data>
 			s/hQ4CXf4SQKZ8TzZNA8ZPe0Fr54bywbFJFVkeJYUkU=
-			</data>
-		</dict>
-		<key>Headers/NetmeraUIActionEvent.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ClFoMZtREq7tWbcTci+ivi230uw=
-			</data>
-			<key>hash2</key>
-			<data>
-			TNGvcdzJnK5/fVY/ZauEjzjB12FnyjNHv0t+vZomqcg=
 			</data>
 		</dict>
 		<key>Headers/NetmeraUIActionType.h</key>
@@ -1915,6 +1938,28 @@
 			<key>hash2</key>
 			<data>
 			tmHBK1NweayoneKpPlLrLYGM+cNzk3LGA/JUhaLo+x8=
+			</data>
+		</dict>
+		<key>Headers/NetmeraViewActionEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m/g0hi87kL36O+kOAzF+s6zV1+o=
+			</data>
+			<key>hash2</key>
+			<data>
+			oV2e4oPbM/wBC8hb2SUB1Hh4ipV7KIndUMqDrAXbIcc=
+			</data>
+		</dict>
+		<key>Headers/NetmeraViewActionTestEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iyxYf8LLitbG/G/a1srodce0poM=
+			</data>
+			<key>hash2</key>
+			<data>
+			/5KT6gj5d//MQMObbUX4LsQW/V58Y3RvFS80Y3wTDps=
 			</data>
 		</dict>
 		<key>Headers/NetmeraWebViewAction.h</key>

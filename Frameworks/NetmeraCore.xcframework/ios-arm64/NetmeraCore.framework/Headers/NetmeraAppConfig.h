@@ -11,6 +11,9 @@
 #import <NetmeraCore/NetmeraEventPermission.h>
 
 @class NetmeraUserNotificationCategory;
+@class NetmeraTrackableScreenInfo;
+@class NetmeraTrackableActionInfo;
+
 @interface NetmeraAppConfig : NetmeraBaseModel
 
 @property (nonatomic, strong) NSNumber *version;
@@ -29,7 +32,8 @@
 @property (nonatomic, assign) BOOL shouldSendScreenEvent;
 @property (nonatomic, assign) BOOL shouldSendInputFlow;
 @property (nonatomic, assign) BOOL shouldSendInAppPurchaseEvent;
-@property (nonatomic, strong) NSDictionary<NSString *, NSArray<NSDictionary *>*> *includeUIActions;
+@property (nonatomic, strong) NSArray<NetmeraTrackableScreenInfo *> *trackableScreens;
+@property (nonatomic, strong) NSArray<NetmeraTrackableActionInfo *> *trackableActions;
 @property (nonatomic, assign) BOOL shouldTrackException;
 @property (nonatomic, assign) BOOL isTestUser;
 @property (nonatomic, assign) NSTimeInterval eventPostTimeInterval;

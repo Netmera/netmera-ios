@@ -36,6 +36,10 @@
 		<data>
 		lr4xNtCDM/zyF/lWiOyJvXjOk0k=
 		</data>
+		<key>Headers/UIView+Tracking.h</key>
+		<data>
+		wDdAd3UafnPA/jHRCf0Mymrq6zw=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		DMiLFstvfwKEod1l6l+n4ZscgEc=
@@ -133,6 +137,17 @@
 			<key>hash2</key>
 			<data>
 			x69gPzgyJKxAhwf3qOuCLySjd478Mi05f10zsbQJVPE=
+			</data>
+		</dict>
+		<key>Headers/UIView+Tracking.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wDdAd3UafnPA/jHRCf0Mymrq6zw=
+			</data>
+			<key>hash2</key>
+			<data>
+			oBf/30eumnpi7Hlf8frYErIPoKMmQZ1PlVka8fKjIV4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

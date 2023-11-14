@@ -14,6 +14,7 @@
 #import <NetmeraCore/NetmeraShareEvent.h>
 #import <NetmeraCore/NetmeraCategoryViewEvent.h>
 #import <NetmeraCore/NetmeraScreenViewEvent.h>
-#import <NetmeraCore/NetmeraScreenOpenEvent.h>
-#import <NetmeraCore/NetmeraScreenCloseEvent.h>
-#import <NetmeraCore/NetmeraUIActionEvent.h>
+#import <NetmeraCore/NetmeraViewActionEvent.h>
+#import <NetmeraCore/NetmeraViewActionTestEvent.h>
+#import <NetmeraCore/NetmeraShowViewEvent.h>
+#import <NetmeraCore/NetmeraShowViewTestEvent.h>

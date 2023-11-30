@@ -474,11 +474,11 @@
 		</data>
 		<key>Headers/NetmeraTrackableActionInfo.h</key>
 		<data>
-		nc40ra2HL6TaetcbWc/HxiVOQ3Y=
+		e3z75RCDMDUaAZFTw4mbBbPceBw=
 		</data>
 		<key>Headers/NetmeraTrackableScreenInfo.h</key>
 		<data>
-		xSdnzXUSqaEfZf8jhw2SUcLdAh4=
+		TfNMq0yTb1lODsJZb47QjTVykcc=
 		</data>
 		<key>Headers/NetmeraUIAction.h</key>
 		<data>
@@ -534,7 +534,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lcgEtbTME+phgZ3aed3LvXK/05c=
+		k7wEZe66Pg1iy+HmxHv1dTDbEic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1834,22 +1834,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nc40ra2HL6TaetcbWc/HxiVOQ3Y=
+			e3z75RCDMDUaAZFTw4mbBbPceBw=
 			</data>
 			<key>hash2</key>
 			<data>
-			PM4fgQf24/k3hl8S+CcFhAbwXo1Imuw1lSbu5LJzEKg=
+			T7uRcVZ9i/5HVZm8KdzWRUNvIga/HOYEONcBudc0boE=
 			</data>
 		</dict>
 		<key>Headers/NetmeraTrackableScreenInfo.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xSdnzXUSqaEfZf8jhw2SUcLdAh4=
+			TfNMq0yTb1lODsJZb47QjTVykcc=
 			</data>
 			<key>hash2</key>
 			<data>
-			qKfLse6Y+ES6pTipVlybVa++5dmOrntBHyeyUjmq2jE=
+			6HHER5vebcxTzzjrnWpSxRW36f2ZKirvyuEGYJffjPM=
 			</data>
 		</dict>
 		<key>Headers/NetmeraUIAction.h</key>

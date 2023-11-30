@@ -305,6 +305,9 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)updateUser:(__kindof NetmeraUser *)user;
 
++ (void)updateUser:(__kindof NetmeraUser *)user
+        completion:(void (^_Nullable)(BOOL isSuccess, NSError * _Nullable error))completionBlock;
+
 + (NSString *)getCurrentExternalId;
 
 + (void)setUserCategoryPreferenceWithCategoryId:(int)categoryId categoryEnabled:(BOOL)categoryEnabled

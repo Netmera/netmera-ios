@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/muhammedkilinc/Library/Developer/Xcode/DerivedData/NetmeraAdId-ajajrghstnvidcclvcydkyelcath/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraAdId/InstallationBuildProductsLocation/Library/Frameworks/NetmeraAdId.framework/NetmeraAdId'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x2E423, size: 0x8, addend: 0x0, symName: _NetmeraAdIdVersionString, symObjAddr: 0x0, symBinAddr: 0x3CE8, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x2E458, size: 0x8, addend: 0x0, symName: _NetmeraAdIdVersionNumber, symObjAddr: 0x30, symBinAddr: 0x3D18, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x2E495, size: 0x8, addend: 0x0, symName: '+[NetmeraAppTrackingTransparancy isUserAuthorizedAdId]', symObjAddr: 0x0, symBinAddr: 0x33F4, symSize: 0x44 }
+  - { offsetInCU: 0x43, offset: 0x2E4B1, size: 0x8, addend: 0x0, symName: '+[NetmeraAppTrackingTransparancy isUserAuthorizedAdId]', symObjAddr: 0x0, symBinAddr: 0x33F4, symSize: 0x44 }
+  - { offsetInCU: 0x76, offset: 0x2E4E4, size: 0x8, addend: 0x0, symName: '+[NetmeraAppTrackingTransparancy requestAdvertisingAuthorizationIfNeeded:]', symObjAddr: 0x44, symBinAddr: 0x3438, symSize: 0xB0 }
+  - { offsetInCU: 0xC9, offset: 0x2E537, size: 0x8, addend: 0x0, symName: '___74+[NetmeraAppTrackingTransparancy requestAdvertisingAuthorizationIfNeeded:]_block_invoke', symObjAddr: 0xF4, symBinAddr: 0x34E8, symSize: 0x68 }
+  - { offsetInCU: 0x1A9, offset: 0x2E617, size: 0x8, addend: 0x0, symName: '___74+[NetmeraAppTrackingTransparancy requestAdvertisingAuthorizationIfNeeded:]_block_invoke_2', symObjAddr: 0x15C, symBinAddr: 0x3550, symSize: 0xC }
+  - { offsetInCU: 0x1F0, offset: 0x2E65E, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x168, symBinAddr: 0x355C, symSize: 0x10 }
+  - { offsetInCU: 0x219, offset: 0x2E687, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x178, symBinAddr: 0x356C, symSize: 0x8 }
+...

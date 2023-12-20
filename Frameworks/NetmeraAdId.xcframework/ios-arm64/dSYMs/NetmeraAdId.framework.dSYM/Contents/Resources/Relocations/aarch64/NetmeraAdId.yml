@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/muhammedkilinc/Library/Developer/Xcode/DerivedData/NetmeraAdId-ajajrghstnvidcclvcydkyelcath/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraAdId/InstallationBuildProductsLocation/Library/Frameworks/NetmeraAdId.framework/NetmeraAdId'
+binary-path:     '/Users/muhammedkilinc/projects/netmera-sdk-ios/NetmeraAdId/DerivedData/NetmeraAdId/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraAdId/InstallationBuildProductsLocation/Library/Frameworks/NetmeraAdId.framework/NetmeraAdId'
 relocations:
   - { offsetInCU: 0x34, offset: 0x2DD16, size: 0x8, addend: 0x0, symName: _NetmeraAdIdVersionString, symObjAddr: 0x0, symBinAddr: 0x4838, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x2DD4B, size: 0x8, addend: 0x0, symName: _NetmeraAdIdVersionNumber, symObjAddr: 0x30, symBinAddr: 0x4868, symSize: 0x0 }

@@ -13,7 +13,6 @@
 @property (nonatomic, copy) NSString *OSVersion;
 @property (nonatomic, copy) NSString *appVersion;
 @property (nonatomic, copy) NSString *carrierName;
-@property (nonatomic, copy) NSNumber *operatorCode;
 @property (nonatomic, copy) NSString *locale;
 @property (nonatomic, copy) NSString *manufacturer;
 @property (nonatomic, copy) NSString *deviceModel;

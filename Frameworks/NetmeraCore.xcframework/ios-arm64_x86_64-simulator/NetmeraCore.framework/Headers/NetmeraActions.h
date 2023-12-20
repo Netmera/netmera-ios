@@ -15,5 +15,6 @@
 #import <NetmeraCore/NetmeraShareAction.h>
 #import <NetmeraCore/NetmeraReviewAction.h>
 #import <NetmeraCore/NetmeraInAppMessageAction.h>
+#import <NetmeraCore/NetmeraWidgetAction.h>
 
 #endif /* NetmeraActions_h */

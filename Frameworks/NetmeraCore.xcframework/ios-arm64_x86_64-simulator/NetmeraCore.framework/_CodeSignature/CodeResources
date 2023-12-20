@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/NetmeraActions.h</key>
 		<data>
-		eIryU9jlc6ekSFPnLHK+e+dyE6Q=
+		/qFFIo+89q3eb3OLFSYSMRgaRAs=
 		</data>
 		<key>Headers/NetmeraAddTestDeviceRequest.h</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Headers/NetmeraAppDeviceInfo.h</key>
 		<data>
-		DjDqnJ1trbHqSmKD4flVculDQxg=
+		6EMr0i7kNf3ZRB+9NguLQOoESgs=
 		</data>
 		<key>Headers/NetmeraAppDeviceInfoUtil.h</key>
 		<data>
-		yhwpIqccknFwW0uYLs8+sN14imc=
+		013gpjLbAdBfDRzsoIeCGHX7SAk=
 		</data>
 		<key>Headers/NetmeraBannerClickEvent.h</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Headers/NetmeraDeepLinkAction.h</key>
 		<data>
-		VK6aDC3wZzV2M1M3GaXZ5AX240I=
+		XyFuz19Wv5JII69ug7Ny7VfDzOg=
 		</data>
 		<key>Headers/NetmeraDeviceInfoRequest.h</key>
 		<data>
@@ -528,6 +528,10 @@
 		<data>
 		kN9P8dNNB81vbgQ54hFcZwNOwAY=
 		</data>
+		<key>Headers/NetmeraWidgetAction.h</key>
+		<data>
+		xjna9nUZWAesCymLmESPrisOPQQ=
+		</data>
 		<key>Headers/NetmeraWishListEvent.h</key>
 		<data>
 		2LNayO1xSha+g97GNOXODpwZQK0=
@@ -558,11 +562,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eIryU9jlc6ekSFPnLHK+e+dyE6Q=
+			/qFFIo+89q3eb3OLFSYSMRgaRAs=
 			</data>
 			<key>hash2</key>
 			<data>
-			HBa3O6ADUEwz0c43JeX3LaSxhO6mm06YsHInizXEr4I=
+			bBo8pjqxdqG6JGCKK83Rt3e9ujPBEbO77nThr5dmRxI=
 			</data>
 		</dict>
 		<key>Headers/NetmeraAddTestDeviceRequest.h</key>
@@ -624,22 +628,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DjDqnJ1trbHqSmKD4flVculDQxg=
+			6EMr0i7kNf3ZRB+9NguLQOoESgs=
 			</data>
 			<key>hash2</key>
 			<data>
-			hwiFX0zYJZfKPymB1fI/kvjmZMoxNmshpdLxHBJJqJg=
+			38JI3qLNe+SGvNHUUU7GtgAd3BvHQYZCnLS5zF8OchQ=
 			</data>
 		</dict>
 		<key>Headers/NetmeraAppDeviceInfoUtil.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yhwpIqccknFwW0uYLs8+sN14imc=
+			013gpjLbAdBfDRzsoIeCGHX7SAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			fFdwz/Q8805EiNxsx4WiFweFfZdI1RnkY9cSRDLlMvY=
+			S63hmT5SXqynIhHWgfaDm/7POqQhCoQRPHfrJW8Fu7w=
 			</data>
 		</dict>
 		<key>Headers/NetmeraBannerClickEvent.h</key>
@@ -877,11 +881,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VK6aDC3wZzV2M1M3GaXZ5AX240I=
+			XyFuz19Wv5JII69ug7Ny7VfDzOg=
 			</data>
 			<key>hash2</key>
 			<data>
-			fZDm54uakzo+ON/obLo/mhY7KL4DbPiyRxdwDvM73j8=
+			Z9D83TgZcDjmFRj+ZQM4YZbdMfQ9rWmq5cp0UJWBs/8=
 			</data>
 		</dict>
 		<key>Headers/NetmeraDeviceInfoRequest.h</key>
@@ -1982,6 +1986,17 @@
 			<key>hash2</key>
 			<data>
 			SgLwPKZMex7td4mCiUu6gr3veE4sBIWkPf8y/Csqi8k=
+			</data>
+		</dict>
+		<key>Headers/NetmeraWidgetAction.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xjna9nUZWAesCymLmESPrisOPQQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			S9yatGkYBE9LlU9RsRP29V2oecILoNrdqsVfFkz3KoU=
 			</data>
 		</dict>
 		<key>Headers/NetmeraWishListEvent.h</key>

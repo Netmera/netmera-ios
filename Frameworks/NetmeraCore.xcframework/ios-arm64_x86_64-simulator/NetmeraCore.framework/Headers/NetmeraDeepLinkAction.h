@@ -11,5 +11,6 @@
 @interface NetmeraDeepLinkAction : NetmeraAction
 
 @property (nonatomic, strong) NSURL *URL;
+@property (nonatomic, assign) BOOL appManage;
 
 @end

@@ -16,7 +16,6 @@
 + (NSString *)operatingSystemName;
 + (NSString *)applicationVersion;
 + (NSString *)carrierName;
-+ (NSString *)operatorCode;
 + (NSString *)locale;
 + (NSString *)manufacturer;
 + (NSString *)deviceModel;

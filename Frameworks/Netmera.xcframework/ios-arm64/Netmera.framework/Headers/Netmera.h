@@ -430,3 +430,10 @@ NS_ASSUME_NONNULL_END
                     completion:(void (^_Nullable)(NSArray<NetmeraCouponObject *> * _Nullable coupons, NSError * _Nullable error))completionBlock;
 
 @end
+
+#pragma mark - Deeplink Callback
+@interface Netmera (Deeplink)
+
++ (void)setDeeplinkCallback:(NetmeraDeeplinkCallback _Nullable) callback;
+
+@end

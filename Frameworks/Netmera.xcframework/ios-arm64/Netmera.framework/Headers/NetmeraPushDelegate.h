@@ -6,7 +6,11 @@
 //
 //
 
+
 @class NetmeraPushObject;
+
+typedef void (^NetmeraDeeplinkCallback)(NSURL * _Nullable url, NetmeraPushObject * _Nullable pushObject);
+
 @protocol NetmeraPushDelegate <NSObject>
 
 @optional

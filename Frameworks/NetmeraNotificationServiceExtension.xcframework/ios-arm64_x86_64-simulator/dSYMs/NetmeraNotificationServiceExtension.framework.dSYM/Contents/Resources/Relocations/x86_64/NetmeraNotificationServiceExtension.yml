@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/muhammedkilinc/projects/netmera-sdk-ios/NotificationServiceExtension/DerivedData/NetmeraNotificationServiceExtension/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraNotificationServiceExtension/InstallationBuildProductsLocation/Library/Frameworks/NetmeraNotificationServiceExtension.framework/NetmeraNotificationServiceExtension'
+binary-path:     '/Users/muhammedkilinc/Library/Developer/Xcode/DerivedData/NetmeraNotificationServiceExtension-clkmbkdvgvobvldijuzhhufbnngo/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraNotificationServiceExtension/InstallationBuildProductsLocation/Library/Frameworks/NetmeraNotificationServiceExtension.framework/NetmeraNotificationServiceExtension'
 relocations:
   - { offsetInCU: 0x34, offset: 0x623C9, size: 0x8, addend: 0x0, symName: _NetmeraNotificationServiceExtensionVersionString, symObjAddr: 0x0, symBinAddr: 0x32F0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x623FE, size: 0x8, addend: 0x0, symName: _NetmeraNotificationServiceExtensionVersionNumber, symObjAddr: 0x60, symBinAddr: 0x3350, symSize: 0x0 }

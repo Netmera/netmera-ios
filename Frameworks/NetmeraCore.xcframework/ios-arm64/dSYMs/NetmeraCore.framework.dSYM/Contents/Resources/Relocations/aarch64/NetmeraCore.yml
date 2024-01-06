@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/muhammedkilinc/projects/netmera-sdk-ios/NetmeraCore/DerivedData/NetmeraCore/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraCore/InstallationBuildProductsLocation/Library/Frameworks/NetmeraCore.framework/NetmeraCore'
+binary-path:     '/Users/muhammedkilinc/Library/Developer/Xcode/DerivedData/NetmeraCore-fplhbztrkonwfnfowamvttauwpjf/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraCore/InstallationBuildProductsLocation/Library/Frameworks/NetmeraCore.framework/NetmeraCore'
 relocations:
   - { offsetInCU: 0x34, offset: 0x563FD, size: 0x8, addend: 0x0, symName: _NetmeraCoreVersionString, symObjAddr: 0x0, symBinAddr: 0x1BB30, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0x56432, size: 0x8, addend: 0x0, symName: _NetmeraCoreVersionNumber, symObjAddr: 0x30, symBinAddr: 0x1BB60, symSize: 0x0 }
@@ -34,14 +34,14 @@ relocations:
   - { offsetInCU: 0x35A, offset: 0x56EED, size: 0x8, addend: 0x0, symName: '-[NetmeraLocationUpdateEvent .cxx_destruct]', symObjAddr: 0x20C, symBinAddr: 0x45A0, symSize: 0x14 }
   - { offsetInCU: 0x27, offset: 0x56F73, size: 0x8, addend: 0x0, symName: '+[NetmeraIdentifierUtil advertisingId]', symObjAddr: 0x0, symBinAddr: 0x45B4, symSize: 0x8C }
   - { offsetInCU: 0x35, offset: 0x56F81, size: 0x8, addend: 0x0, symName: '+[NetmeraIdentifierUtil generateShortIdentifierDecimalNumber]', symObjAddr: 0xDC, symBinAddr: 0x4690, symSize: 0x11C }
-  - { offsetInCU: 0x5F, offset: 0x56FAB, size: 0x8, addend: 0x0, symName: _generateShortIdentifierDecimalNumber.referenceDateInSecs, symObjAddr: 0x2C80, symBinAddr: 0x401C0, symSize: 0x0 }
-  - { offsetInCU: 0x75, offset: 0x56FC1, size: 0x8, addend: 0x0, symName: _generateShortIdentifierDecimalNumber.referenceMachTime, symObjAddr: 0x2C88, symBinAddr: 0x401C8, symSize: 0x0 }
-  - { offsetInCU: 0x8B, offset: 0x56FD7, size: 0x8, addend: 0x0, symName: _generateShortIdentifierDecimalNumber.timebaseInfo, symObjAddr: 0x2C90, symBinAddr: 0x401D0, symSize: 0x0 }
-  - { offsetInCU: 0xA1, offset: 0x56FED, size: 0x8, addend: 0x0, symName: _generateShortIdentifierDecimalNumber.onceToken, symObjAddr: 0x2C98, symBinAddr: 0x401D8, symSize: 0x0 }
+  - { offsetInCU: 0x5F, offset: 0x56FAB, size: 0x8, addend: 0x0, symName: _generateShortIdentifierDecimalNumber.referenceDateInSecs, symObjAddr: 0x2D38, symBinAddr: 0x401C0, symSize: 0x0 }
+  - { offsetInCU: 0x75, offset: 0x56FC1, size: 0x8, addend: 0x0, symName: _generateShortIdentifierDecimalNumber.referenceMachTime, symObjAddr: 0x2D40, symBinAddr: 0x401C8, symSize: 0x0 }
+  - { offsetInCU: 0x8B, offset: 0x56FD7, size: 0x8, addend: 0x0, symName: _generateShortIdentifierDecimalNumber.timebaseInfo, symObjAddr: 0x2D48, symBinAddr: 0x401D0, symSize: 0x0 }
+  - { offsetInCU: 0xA1, offset: 0x56FED, size: 0x8, addend: 0x0, symName: _generateShortIdentifierDecimalNumber.onceToken, symObjAddr: 0x2D50, symBinAddr: 0x401D8, symSize: 0x0 }
   - { offsetInCU: 0x176, offset: 0x570C2, size: 0x8, addend: 0x0, symName: '+[NetmeraIdentifierUtil base62String:]', symObjAddr: 0x260, symBinAddr: 0x4814, symSize: 0x240 }
-  - { offsetInCU: 0x1AC, offset: 0x570F8, size: 0x8, addend: 0x0, symName: '_base62String:.base', symObjAddr: 0x2CA0, symBinAddr: 0x401E0, symSize: 0x0 }
-  - { offsetInCU: 0x1C2, offset: 0x5710E, size: 0x8, addend: 0x0, symName: '_base62String:.zero', symObjAddr: 0x2CA8, symBinAddr: 0x401E8, symSize: 0x0 }
-  - { offsetInCU: 0x1D8, offset: 0x57124, size: 0x8, addend: 0x0, symName: '_base62String:.rounding', symObjAddr: 0x2CB0, symBinAddr: 0x401F0, symSize: 0x0 }
+  - { offsetInCU: 0x1AC, offset: 0x570F8, size: 0x8, addend: 0x0, symName: '_base62String:.base', symObjAddr: 0x2D58, symBinAddr: 0x401E0, symSize: 0x0 }
+  - { offsetInCU: 0x1C2, offset: 0x5710E, size: 0x8, addend: 0x0, symName: '_base62String:.zero', symObjAddr: 0x2D60, symBinAddr: 0x401E8, symSize: 0x0 }
+  - { offsetInCU: 0x1D8, offset: 0x57124, size: 0x8, addend: 0x0, symName: '_base62String:.rounding', symObjAddr: 0x2D68, symBinAddr: 0x401F0, symSize: 0x0 }
   - { offsetInCU: 0x25B, offset: 0x571A7, size: 0x8, addend: 0x0, symName: '+[NetmeraIdentifierUtil advertisingId]', symObjAddr: 0x0, symBinAddr: 0x45B4, symSize: 0x8C }
   - { offsetInCU: 0x2F2, offset: 0x5723E, size: 0x8, addend: 0x0, symName: '+[NetmeraIdentifierUtil generateShortIdentifier]', symObjAddr: 0x8C, symBinAddr: 0x4640, symSize: 0x50 }
   - { offsetInCU: 0x39E, offset: 0x572EA, size: 0x8, addend: 0x0, symName: '___61+[NetmeraIdentifierUtil generateShortIdentifierDecimalNumber]_block_invoke', symObjAddr: 0x1F8, symBinAddr: 0x47AC, symSize: 0x68 }
@@ -381,11 +381,11 @@ relocations:
   - { offsetInCU: 0x574, offset: 0x60B19, size: 0x8, addend: 0x0, symName: '-[NetmeraEvent .cxx_destruct]', symObjAddr: 0x29C, symBinAddr: 0xAD18, symSize: 0x68 }
   - { offsetInCU: 0x27, offset: 0x60BAC, size: 0x8, addend: 0x0, symName: _NetmeraRequestPathStringForType, symObjAddr: 0x0, symBinAddr: 0xAD80, symSize: 0x8C }
   - { offsetInCU: 0x35, offset: 0x60BBA, size: 0x8, addend: 0x0, symName: _NetmeraRequestPathStringForType, symObjAddr: 0x0, symBinAddr: 0xAD80, symSize: 0x8C }
-  - { offsetInCU: 0x5B, offset: 0x60BE0, size: 0x8, addend: 0x0, symName: _NetmeraRequestPathStringForType.pathStringDict, symObjAddr: 0x5FF0, symBinAddr: 0x401F8, symSize: 0x0 }
-  - { offsetInCU: 0x71, offset: 0x60BF6, size: 0x8, addend: 0x0, symName: _NetmeraRequestPathStringForType.onceToken, symObjAddr: 0x5FF8, symBinAddr: 0x40200, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x60BE0, size: 0x8, addend: 0x0, symName: _NetmeraRequestPathStringForType.pathStringDict, symObjAddr: 0x60F8, symBinAddr: 0x401F8, symSize: 0x0 }
+  - { offsetInCU: 0x71, offset: 0x60BF6, size: 0x8, addend: 0x0, symName: _NetmeraRequestPathStringForType.onceToken, symObjAddr: 0x6100, symBinAddr: 0x40200, symSize: 0x0 }
   - { offsetInCU: 0xC3, offset: 0x60C48, size: 0x8, addend: 0x0, symName: _NetmeraHTTPMethodStringForType, symObjAddr: 0x51C, symBinAddr: 0xB29C, symSize: 0x8C }
-  - { offsetInCU: 0xE9, offset: 0x60C6E, size: 0x8, addend: 0x0, symName: _NetmeraHTTPMethodStringForType.methodStringDict, symObjAddr: 0x6000, symBinAddr: 0x40208, symSize: 0x0 }
-  - { offsetInCU: 0xFF, offset: 0x60C84, size: 0x8, addend: 0x0, symName: _NetmeraHTTPMethodStringForType.onceToken, symObjAddr: 0x6008, symBinAddr: 0x40210, symSize: 0x0 }
+  - { offsetInCU: 0xE9, offset: 0x60C6E, size: 0x8, addend: 0x0, symName: _NetmeraHTTPMethodStringForType.methodStringDict, symObjAddr: 0x6108, symBinAddr: 0x40208, symSize: 0x0 }
+  - { offsetInCU: 0xFF, offset: 0x60C84, size: 0x8, addend: 0x0, symName: _NetmeraHTTPMethodStringForType.onceToken, symObjAddr: 0x6110, symBinAddr: 0x40210, symSize: 0x0 }
   - { offsetInCU: 0x4AA, offset: 0x6102F, size: 0x8, addend: 0x0, symName: ___NetmeraRequestPathStringForType_block_invoke, symObjAddr: 0x8C, symBinAddr: 0xAE0C, symSize: 0x490 }
   - { offsetInCU: 0x4D1, offset: 0x61056, size: 0x8, addend: 0x0, symName: ___NetmeraHTTPMethodStringForType_block_invoke, symObjAddr: 0x5A8, symBinAddr: 0xB328, symSize: 0x14C }
   - { offsetInCU: 0x4F8, offset: 0x6107D, size: 0x8, addend: 0x0, symName: '-[NetmeraBaseRequest initWithDictionary:]', symObjAddr: 0x6F4, symBinAddr: 0xB474, symSize: 0x50 }

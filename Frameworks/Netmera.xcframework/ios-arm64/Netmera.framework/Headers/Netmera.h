@@ -100,6 +100,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)setFrameworkVersion:(NSString*)frameworkVersion;
 
++ (void) kill;
+
 @end
 
 #pragma mark - Push Notification

@@ -544,6 +544,10 @@
 		<data>
 		w/6hTSzoLEEyjYSf9s6C66+mKuc=
 		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		r2Wc63Ej9LF5XpFTEUNQfJphx3A=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -2019,6 +2023,17 @@
 			<key>hash2</key>
 			<data>
 			adML6ZWqff93t2vdLZwwZ17Y/0CKa5xWg4JGuY4QqQE=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r2Wc63Ej9LF5XpFTEUNQfJphx3A=
+			</data>
+			<key>hash2</key>
+			<data>
+			R/x/irIeuRVGZezdpwrDC4SjrNqH0vwwzRL29apwyAo=
 			</data>
 		</dict>
 	</dict>

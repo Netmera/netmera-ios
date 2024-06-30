@@ -110,7 +110,7 @@
 		</data>
 		<key>Headers/NetmeraCore.h</key>
 		<data>
-		0UdxoFTux62pMj7zaQh36zo8SW8=
+		fIyP2cePohZjNP+F/yC/H3YXPa8=
 		</data>
 		<key>Headers/NetmeraCouponFilter.h</key>
 		<data>
@@ -510,7 +510,7 @@
 		</data>
 		<key>Headers/NetmeraUserNotificationCategory.h</key>
 		<data>
-		pMAdLtW+HQpG2Ys60vx4L4QteWE=
+		6Nx6Fmab64G4PDBE/7sMkTAl528=
 		</data>
 		<key>Headers/NetmeraViewActionEvent.h</key>
 		<data>
@@ -538,7 +538,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CVpqznBa869CqZu5JotpUNvCoF4=
+		WUChv4AycIltYYvWEavBsUWJbxU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -841,11 +841,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0UdxoFTux62pMj7zaQh36zo8SW8=
+			fIyP2cePohZjNP+F/yC/H3YXPa8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z0NtIzMp5Z3eJvyeTkBG3ZunDkwjDvGKpJttIs7/M8I=
+			JS2A4Df8m8z/VfeyDsNgp8ovqjL21O/0p09NR8v02Wo=
 			</data>
 		</dict>
 		<key>Headers/NetmeraCouponFilter.h</key>
@@ -1941,11 +1941,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pMAdLtW+HQpG2Ys60vx4L4QteWE=
+			6Nx6Fmab64G4PDBE/7sMkTAl528=
 			</data>
 			<key>hash2</key>
 			<data>
-			tmHBK1NweayoneKpPlLrLYGM+cNzk3LGA/JUhaLo+x8=
+			QFkvxsHAwbitUkdutgiF957MYAzT9Z3tySKlq1hEG54=
 			</data>
 		</dict>
 		<key>Headers/NetmeraViewActionEvent.h</key>

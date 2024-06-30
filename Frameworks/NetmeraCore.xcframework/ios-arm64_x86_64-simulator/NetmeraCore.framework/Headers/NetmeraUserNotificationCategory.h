@@ -14,6 +14,6 @@
 @property (nonatomic, strong) NSMutableArray<NetmeraUserNotificationAction *> *actions;
 @property (nonatomic, readonly) UNNotificationCategory *category;
 
-@property (nonatomic, copy, readonly) NSString *identifier;
+@property (nonatomic, strong) NSString *identifier;
 
 @end

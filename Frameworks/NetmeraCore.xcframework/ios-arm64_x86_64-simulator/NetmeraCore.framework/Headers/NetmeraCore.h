@@ -42,6 +42,7 @@ FOUNDATION_EXPORT const unsigned char NetmeraCoreVersionString[];
 #import <NetmeraCore/NetmeraPushObjectAlert.h>
 #import <NetmeraCore/NetmeraUserNotificationCategory.h>
 #import <NetmeraCore/NetmeraPushCarouselObject.h>
+#import <NetmeraCore/NotificationHelper.h>
 
 #import <NetmeraCore/NetmeraInboxCategoryObject.h>
 #import <NetmeraCore/NetmeraInboxFilter.h>

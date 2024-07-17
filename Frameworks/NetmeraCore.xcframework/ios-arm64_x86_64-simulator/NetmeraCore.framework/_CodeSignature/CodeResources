@@ -536,6 +536,10 @@
 		<data>
 		2LNayO1xSha+g97GNOXODpwZQK0=
 		</data>
+		<key>Headers/NotificationHelper.h</key>
+		<data>
+		Iqt8F9oEzv9VpsfKuLYS0uHfcwo=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		WUChv4AycIltYYvWEavBsUWJbxU=
@@ -2012,6 +2016,17 @@
 			<key>hash2</key>
 			<data>
 			3fJ7Xi6wmOnJUzKzAgie1yWxUw4msD/hy+u8siEdcsE=
+			</data>
+		</dict>
+		<key>Headers/NotificationHelper.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Iqt8F9oEzv9VpsfKuLYS0uHfcwo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Uwdf60DDAlO46XvKwQ7Hk0YhVTWEtxL6Q9OlgCwnuZs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -17,7 +17,6 @@ extern NSString * const kNetmeraLogEventNotification;
 extern NSString * const kNetmeraLogEventTemplate;
 extern NSString * const kNetmeraLogEventToken;
 extern NSString * const kNetmeraLogEventPopup;
-extern NSString * const kNetmeraLogEventNetwork;
 
 @interface NetmeraLogEvent : NetmeraEvent
 

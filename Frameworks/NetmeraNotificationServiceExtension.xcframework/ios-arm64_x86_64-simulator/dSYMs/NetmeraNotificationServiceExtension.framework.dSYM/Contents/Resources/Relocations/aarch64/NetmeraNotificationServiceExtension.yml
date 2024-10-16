@@ -2,39 +2,39 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/muhammedkilinc/Library/Developer/Xcode/DerivedData/NetmeraNotificationServiceExtension-clkmbkdvgvobvldijuzhhufbnngo/Build/Intermediates.noindex/ArchiveIntermediates/NetmeraNotificationServiceExtension/InstallationBuildProductsLocation/Library/Frameworks/NetmeraNotificationServiceExtension.framework/NetmeraNotificationServiceExtension'
 relocations:
-  - { offsetInCU: 0x34, offset: 0x617D7, size: 0x8, addend: 0x0, symName: _NetmeraNotificationServiceExtensionVersionString, symObjAddr: 0x0, symBinAddr: 0x70E0, symSize: 0x0 }
-  - { offsetInCU: 0x69, offset: 0x6180C, size: 0x8, addend: 0x0, symName: _NetmeraNotificationServiceExtensionVersionNumber, symObjAddr: 0x60, symBinAddr: 0x7140, symSize: 0x0 }
-  - { offsetInCU: 0x27, offset: 0x61849, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension cacheURL]', symObjAddr: 0x0, symBinAddr: 0x4554, symSize: 0x74 }
-  - { offsetInCU: 0x16B, offset: 0x6198D, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension cacheURL]', symObjAddr: 0x0, symBinAddr: 0x4554, symSize: 0x74 }
-  - { offsetInCU: 0x19E, offset: 0x619C0, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension didReceiveNotificationRequest:withContentHandler:]', symObjAddr: 0x74, symBinAddr: 0x45C8, symSize: 0x31C }
-  - { offsetInCU: 0x230, offset: 0x61A52, size: 0x8, addend: 0x0, symName: '___88-[NetmeraNotificationServiceExtension didReceiveNotificationRequest:withContentHandler:]_block_invoke', symObjAddr: 0x390, symBinAddr: 0x48E4, symSize: 0x10 }
-  - { offsetInCU: 0x29B, offset: 0x61ABD, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x3A0, symBinAddr: 0x48F4, symSize: 0x3C }
-  - { offsetInCU: 0x2C4, offset: 0x61AE6, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x3DC, symBinAddr: 0x4930, symSize: 0x30 }
-  - { offsetInCU: 0x2E3, offset: 0x61B05, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension updateNotificationContent:object:]', symObjAddr: 0x40C, symBinAddr: 0x4960, symSize: 0x26C }
-  - { offsetInCU: 0x36F, offset: 0x61B91, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x678, symBinAddr: 0x4BCC, symSize: 0x10 }
-  - { offsetInCU: 0x394, offset: 0x61BB6, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x688, symBinAddr: 0x4BDC, symSize: 0x8 }
-  - { offsetInCU: 0x3B3, offset: 0x61BD5, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke', symObjAddr: 0x690, symBinAddr: 0x4BE4, symSize: 0x138 }
-  - { offsetInCU: 0x43A, offset: 0x61C5C, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke_2', symObjAddr: 0x7C8, symBinAddr: 0x4D1C, symSize: 0xC }
-  - { offsetInCU: 0x498, offset: 0x61CBA, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x7D4, symBinAddr: 0x4D28, symSize: 0x10 }
-  - { offsetInCU: 0x4C1, offset: 0x61CE3, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x7E4, symBinAddr: 0x4D38, symSize: 0x8 }
-  - { offsetInCU: 0x4E0, offset: 0x61D02, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke.7', symObjAddr: 0x7EC, symBinAddr: 0x4D40, symSize: 0x18 }
-  - { offsetInCU: 0x543, offset: 0x61D65, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40r, symObjAddr: 0x804, symBinAddr: 0x4D58, symSize: 0x3C }
-  - { offsetInCU: 0x56C, offset: 0x61D8E, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x840, symBinAddr: 0x4D94, symSize: 0x2C }
-  - { offsetInCU: 0x58B, offset: 0x61DAD, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b56r, symObjAddr: 0x86C, symBinAddr: 0x4DC0, symSize: 0x4C }
-  - { offsetInCU: 0x5B4, offset: 0x61DD6, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56r, symObjAddr: 0x8B8, symBinAddr: 0x4E0C, symSize: 0x3C }
-  - { offsetInCU: 0x5D3, offset: 0x61DF5, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke.9', symObjAddr: 0x8F4, symBinAddr: 0x4E48, symSize: 0xC }
-  - { offsetInCU: 0x631, offset: 0x61E53, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke_2.10', symObjAddr: 0x900, symBinAddr: 0x4E54, symSize: 0x18 }
-  - { offsetInCU: 0x694, offset: 0x61EB6, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension setNotificationIntentForNotificationContent:withContentHandler:completionHandler:]', symObjAddr: 0x918, symBinAddr: 0x4E6C, symSize: 0x500 }
-  - { offsetInCU: 0x849, offset: 0x6206B, size: 0x8, addend: 0x0, symName: '___120-[NetmeraNotificationServiceExtension setNotificationIntentForNotificationContent:withContentHandler:completionHandler:]_block_invoke', symObjAddr: 0xE18, symBinAddr: 0x536C, symSize: 0x244 }
-  - { offsetInCU: 0x975, offset: 0x62197, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48b56r, symObjAddr: 0x105C, symBinAddr: 0x55B0, symSize: 0x54 }
-  - { offsetInCU: 0x99E, offset: 0x621C0, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension downloadAndSetMediaImageForNotificationContent:withCompletionHandler:]', symObjAddr: 0x10B0, symBinAddr: 0x5604, symSize: 0x210 }
-  - { offsetInCU: 0xA40, offset: 0x62262, size: 0x8, addend: 0x0, symName: '___108-[NetmeraNotificationServiceExtension downloadAndSetMediaImageForNotificationContent:withCompletionHandler:]_block_invoke', symObjAddr: 0x12C0, symBinAddr: 0x5814, symSize: 0x754 }
-  - { offsetInCU: 0xD2C, offset: 0x6254E, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension serviceExtensionTimeWillExpire]', symObjAddr: 0x1A14, symBinAddr: 0x5F68, symSize: 0xF8 }
-  - { offsetInCU: 0xDA9, offset: 0x625CB, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension contentHandler]', symObjAddr: 0x1B0C, symBinAddr: 0x6060, symSize: 0x10 }
-  - { offsetInCU: 0xDE0, offset: 0x62602, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension setContentHandler:]', symObjAddr: 0x1B1C, symBinAddr: 0x6070, symSize: 0xC }
-  - { offsetInCU: 0xE1F, offset: 0x62641, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension bestAttemptContent]', symObjAddr: 0x1B28, symBinAddr: 0x607C, symSize: 0x10 }
-  - { offsetInCU: 0xE56, offset: 0x62678, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension setBestAttemptContent:]', symObjAddr: 0x1B38, symBinAddr: 0x608C, symSize: 0x14 }
-  - { offsetInCU: 0xE97, offset: 0x626B9, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension notificationCenter]', symObjAddr: 0x1B4C, symBinAddr: 0x60A0, symSize: 0x20 }
-  - { offsetInCU: 0xECE, offset: 0x626F0, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension setNotificationCenter:]', symObjAddr: 0x1B6C, symBinAddr: 0x60C0, symSize: 0x14 }
-  - { offsetInCU: 0xF0F, offset: 0x62731, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension .cxx_destruct]', symObjAddr: 0x1B80, symBinAddr: 0x60D4, symSize: 0x50 }
+  - { offset: 0x66626, size: 0x8, addend: 0x0, symName: _NetmeraNotificationServiceExtensionVersionString, symObjAddr: 0x0, symBinAddr: 0x70C8, symSize: 0x0 }
+  - { offset: 0x6665B, size: 0x8, addend: 0x0, symName: _NetmeraNotificationServiceExtensionVersionNumber, symObjAddr: 0x60, symBinAddr: 0x7128, symSize: 0x0 }
+  - { offset: 0x66698, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension cacheURL]', symObjAddr: 0x0, symBinAddr: 0x4544, symSize: 0x74 }
+  - { offset: 0x6679D, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension cacheURL]', symObjAddr: 0x0, symBinAddr: 0x4544, symSize: 0x74 }
+  - { offset: 0x667D0, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension didReceiveNotificationRequest:withContentHandler:]', symObjAddr: 0x74, symBinAddr: 0x45B8, symSize: 0x31C }
+  - { offset: 0x66862, size: 0x8, addend: 0x0, symName: '___88-[NetmeraNotificationServiceExtension didReceiveNotificationRequest:withContentHandler:]_block_invoke', symObjAddr: 0x390, symBinAddr: 0x48D4, symSize: 0x10 }
+  - { offset: 0x668CD, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x3A0, symBinAddr: 0x48E4, symSize: 0x3C }
+  - { offset: 0x668F6, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x3DC, symBinAddr: 0x4920, symSize: 0x30 }
+  - { offset: 0x66915, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension updateNotificationContent:object:]', symObjAddr: 0x40C, symBinAddr: 0x4950, symSize: 0x26C }
+  - { offset: 0x669A1, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x678, symBinAddr: 0x4BBC, symSize: 0x10 }
+  - { offset: 0x669C6, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x688, symBinAddr: 0x4BCC, symSize: 0x8 }
+  - { offset: 0x669E5, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke', symObjAddr: 0x690, symBinAddr: 0x4BD4, symSize: 0x138 }
+  - { offset: 0x66A6C, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke_2', symObjAddr: 0x7C8, symBinAddr: 0x4D0C, symSize: 0xC }
+  - { offset: 0x66ACA, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x7D4, symBinAddr: 0x4D18, symSize: 0x10 }
+  - { offset: 0x66AF3, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x7E4, symBinAddr: 0x4D28, symSize: 0x8 }
+  - { offset: 0x66B12, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke.7', symObjAddr: 0x7EC, symBinAddr: 0x4D30, symSize: 0x18 }
+  - { offset: 0x66B75, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40r, symObjAddr: 0x804, symBinAddr: 0x4D48, symSize: 0x3C }
+  - { offset: 0x66B9E, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x840, symBinAddr: 0x4D84, symSize: 0x2C }
+  - { offset: 0x66BBD, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b56r, symObjAddr: 0x86C, symBinAddr: 0x4DB0, symSize: 0x4C }
+  - { offset: 0x66BE6, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56r, symObjAddr: 0x8B8, symBinAddr: 0x4DFC, symSize: 0x3C }
+  - { offset: 0x66C05, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke.9', symObjAddr: 0x8F4, symBinAddr: 0x4E38, symSize: 0xC }
+  - { offset: 0x66C63, size: 0x8, addend: 0x0, symName: '___72-[NetmeraNotificationServiceExtension updateNotificationContent:object:]_block_invoke_2.10', symObjAddr: 0x900, symBinAddr: 0x4E44, symSize: 0x18 }
+  - { offset: 0x66CC6, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension setNotificationIntentForNotificationContent:withContentHandler:completionHandler:]', symObjAddr: 0x918, symBinAddr: 0x4E5C, symSize: 0x4F8 }
+  - { offset: 0x66E7B, size: 0x8, addend: 0x0, symName: '___120-[NetmeraNotificationServiceExtension setNotificationIntentForNotificationContent:withContentHandler:completionHandler:]_block_invoke', symObjAddr: 0xE10, symBinAddr: 0x5354, symSize: 0x244 }
+  - { offset: 0x66FD3, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48b56r, symObjAddr: 0x1054, symBinAddr: 0x5598, symSize: 0x54 }
+  - { offset: 0x66FFC, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension downloadAndSetMediaImageForNotificationContent:withCompletionHandler:]', symObjAddr: 0x10A8, symBinAddr: 0x55EC, symSize: 0x210 }
+  - { offset: 0x670AC, size: 0x8, addend: 0x0, symName: '___108-[NetmeraNotificationServiceExtension downloadAndSetMediaImageForNotificationContent:withCompletionHandler:]_block_invoke', symObjAddr: 0x12B8, symBinAddr: 0x57FC, symSize: 0x754 }
+  - { offset: 0x67408, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension serviceExtensionTimeWillExpire]', symObjAddr: 0x1A0C, symBinAddr: 0x5F50, symSize: 0xF8 }
+  - { offset: 0x67493, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension contentHandler]', symObjAddr: 0x1B04, symBinAddr: 0x6048, symSize: 0x10 }
+  - { offset: 0x674CA, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension setContentHandler:]', symObjAddr: 0x1B14, symBinAddr: 0x6058, symSize: 0xC }
+  - { offset: 0x67509, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension bestAttemptContent]', symObjAddr: 0x1B20, symBinAddr: 0x6064, symSize: 0x10 }
+  - { offset: 0x67540, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension setBestAttemptContent:]', symObjAddr: 0x1B30, symBinAddr: 0x6074, symSize: 0x14 }
+  - { offset: 0x67581, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension notificationCenter]', symObjAddr: 0x1B44, symBinAddr: 0x6088, symSize: 0x20 }
+  - { offset: 0x675B8, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension setNotificationCenter:]', symObjAddr: 0x1B64, symBinAddr: 0x60A8, symSize: 0x14 }
+  - { offset: 0x675F9, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationServiceExtension .cxx_destruct]', symObjAddr: 0x1B78, symBinAddr: 0x60BC, symSize: 0x50 }
 ...

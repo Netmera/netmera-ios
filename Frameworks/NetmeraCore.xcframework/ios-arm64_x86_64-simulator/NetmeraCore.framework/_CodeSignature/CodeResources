@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/NetmeraCommonEvents.h</key>
 		<data>
-		HLu9I9/8KnQTvq1/d6TwHwU5rKc=
+		QUA0wrisSIFPlfR2oSGqPUum7yM=
 		</data>
 		<key>Headers/NetmeraContent.h</key>
 		<data>
@@ -295,6 +295,18 @@
 		<key>Headers/NetmeraLinkClickEvent.h</key>
 		<data>
 		hfb6znQAiAcX+Z47Ca5vNQeoOq0=
+		</data>
+		<key>Headers/NetmeraLiveActivityCloseEvent.h</key>
+		<data>
+		n4sW4zzidjBGVpzPerwFy6wbBjU=
+		</data>
+		<key>Headers/NetmeraLiveActivityStartTokenEvent.h</key>
+		<data>
+		llNNWEa7LNoKTkBoqCsOy4zYdJ8=
+		</data>
+		<key>Headers/NetmeraLiveActivityUpdateTokenEvent.h</key>
+		<data>
+		zomDNL4vEp2SvexeRCKbqRvVens=
 		</data>
 		<key>Headers/NetmeraLocationAuthorizationEvent.h</key>
 		<data>
@@ -790,11 +802,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HLu9I9/8KnQTvq1/d6TwHwU5rKc=
+			QUA0wrisSIFPlfR2oSGqPUum7yM=
 			</data>
 			<key>hash2</key>
 			<data>
-			wtQGu2RSaj+LaKuj7YkTc0QnQWai2uAwhTTSIIHh7mE=
+			gzKXNm3CK2jXD8yBpCGEdxDHXZL7vov4v7M26mpHEws=
 			</data>
 		</dict>
 		<key>Headers/NetmeraContent.h</key>
@@ -1356,6 +1368,39 @@
 			<key>hash2</key>
 			<data>
 			hMB6MJKzik+fif/QSgWbqTUcvSYWVZ/goXNXcH3gJbA=
+			</data>
+		</dict>
+		<key>Headers/NetmeraLiveActivityCloseEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n4sW4zzidjBGVpzPerwFy6wbBjU=
+			</data>
+			<key>hash2</key>
+			<data>
+			nAIAeuM5rTr54X5v6HzbyLqZxFWPyjmqqyNX1Jvhx18=
+			</data>
+		</dict>
+		<key>Headers/NetmeraLiveActivityStartTokenEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			llNNWEa7LNoKTkBoqCsOy4zYdJ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ELTWVPr73A31aUi/+S3ouwX6tnteBfoQ5PE5vvsXRrA=
+			</data>
+		</dict>
+		<key>Headers/NetmeraLiveActivityUpdateTokenEvent.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zomDNL4vEp2SvexeRCKbqRvVens=
+			</data>
+			<key>hash2</key>
+			<data>
+			QLrkYc0hRSX7ycGRfyA9NKZ4DeTDlajaPGtUTMbFCMs=
 			</data>
 		</dict>
 		<key>Headers/NetmeraLocationAuthorizationEvent.h</key>

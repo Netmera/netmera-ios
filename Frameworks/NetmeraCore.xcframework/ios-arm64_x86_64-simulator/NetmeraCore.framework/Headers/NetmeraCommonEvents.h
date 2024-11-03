@@ -18,3 +18,6 @@
 #import <NetmeraCore/NetmeraViewActionTestEvent.h>
 #import <NetmeraCore/NetmeraShowViewEvent.h>
 #import <NetmeraCore/NetmeraShowViewTestEvent.h>
+#import <NetmeraCore/NetmeraLiveActivityStartTokenEvent.h>
+#import <NetmeraCore/NetmeraLiveActivityUpdateTokenEvent.h>
+#import <NetmeraCore/NetmeraLiveActivityCloseEvent.h>

@@ -27,6 +27,7 @@
 
 #import <Netmera/NetmeraEncryptionProtocol.h>
 #import <Netmera/NetmeraScreenTrackable.h>
+#import <Netmera/NetmeraPushReceivingStatus.h>
 
 #if !defined(__has_include)
 #error "Netmera.h won't import anything if your compiler doesn't support __has_include. Import the NetmeraAdId.h individually."
@@ -167,6 +168,8 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)setEnabledPopupPresentation:(BOOL)enabled;
 
 + (void)setEnabledInAppMessagePresentation:(BOOL)enabled;
+
++ (NetmeraPushPermissionType)checkNotificationPermission;
 
 @end
 

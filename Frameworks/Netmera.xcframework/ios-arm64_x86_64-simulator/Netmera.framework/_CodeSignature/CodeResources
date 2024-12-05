@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Netmera.h</key>
 		<data>
-		q/GXGkq7g1v38BXNUKcpNbDqHgw=
+		opvz9XyhEm1hCJUDEzCmDpzbJ1U=
 		</data>
 		<key>Headers/NetmeraEncryptionProtocol.h</key>
 		<data>
@@ -23,6 +23,10 @@
 		<key>Headers/NetmeraPushDelegate.h</key>
 		<data>
 		mO9YvOvYZdiu14iE7/D8tURIVfA=
+		</data>
+		<key>Headers/NetmeraPushPermissionType.h</key>
+		<data>
+		m966ZLB3LZC9OjCuNLWdakdb2iY=
 		</data>
 		<key>Headers/NetmeraScreenTrackable.h</key>
 		<data>
@@ -55,11 +59,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q/GXGkq7g1v38BXNUKcpNbDqHgw=
+			opvz9XyhEm1hCJUDEzCmDpzbJ1U=
 			</data>
 			<key>hash2</key>
 			<data>
-			U6KY6xiqsfDvtUlXKLfzUvfX633FdrkxC0lZDcrR1Ls=
+			DhMEAwebiA043kzrDsq3A2iBGDqmpma6mrqlG38F+Po=
 			</data>
 		</dict>
 		<key>Headers/NetmeraEncryptionProtocol.h</key>
@@ -104,6 +108,17 @@
 			<key>hash2</key>
 			<data>
 			Yv7Cko1sNzLeUhNTeWx+/ZX5vUO7lVVCGAwIEXT+vXg=
+			</data>
+		</dict>
+		<key>Headers/NetmeraPushPermissionType.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m966ZLB3LZC9OjCuNLWdakdb2iY=
+			</data>
+			<key>hash2</key>
+			<data>
+			WPmZDTlMJvSvvabRjgBoohrUFO4J5a0XsuYLhz7aqJo=
 			</data>
 		</dict>
 		<key>Headers/NetmeraScreenTrackable.h</key>

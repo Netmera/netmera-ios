@@ -27,7 +27,7 @@
 
 #import <Netmera/NetmeraEncryptionProtocol.h>
 #import <Netmera/NetmeraScreenTrackable.h>
-#import <Netmera/NetmeraPushReceivingStatus.h>
+#import <Netmera/NetmeraPushPermissionType.h>
 
 #if !defined(__has_include)
 #error "Netmera.h won't import anything if your compiler doesn't support __has_include. Import the NetmeraAdId.h individually."

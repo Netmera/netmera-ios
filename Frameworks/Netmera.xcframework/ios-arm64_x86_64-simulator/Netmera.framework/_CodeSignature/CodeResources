@@ -52,6 +52,10 @@
 		<data>
 		AsoWaqt6hDKUfFkMGs/jZzREiBA=
 		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		zeCMgSi6fKJ6RhOOkVg7a3k8L6M=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -174,6 +178,17 @@
 			<key>hash2</key>
 			<data>
 			BkG1i4u+acmDEwpIQ/iOEHhQMEkAbfcBRitrHAb/0VM=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zeCMgSi6fKJ6RhOOkVg7a3k8L6M=
+			</data>
+			<key>hash2</key>
+			<data>
+			BC3C2n+h/obVVKWSHNP3NX7IuEwLeFODAP1b41GdPwQ=
 			</data>
 		</dict>
 	</dict>

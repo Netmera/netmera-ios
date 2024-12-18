@@ -2,8 +2,8 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/muhammedkilinc/Library/Developer/Xcode/DerivedData/Netmera-dbovgnpumbzijxdhtuntshekghmw/Build/Intermediates.noindex/ArchiveIntermediates/Netmera/InstallationBuildProductsLocation/Library/Frameworks/Netmera.framework/Netmera'
 relocations:
-  - { offset: 0x64CAD, size: 0x8, addend: 0x0, symName: _NetmeraVersionString, symObjAddr: 0x0, symBinAddr: 0x3CB00, symSize: 0x0 }
-  - { offset: 0x64CE2, size: 0x8, addend: 0x0, symName: _NetmeraVersionNumber, symObjAddr: 0x28, symBinAddr: 0x3CB28, symSize: 0x0 }
+  - { offset: 0x64CAD, size: 0x8, addend: 0x0, symName: _NetmeraVersionString, symObjAddr: 0x0, symBinAddr: 0x3CB60, symSize: 0x0 }
+  - { offset: 0x64CE2, size: 0x8, addend: 0x0, symName: _NetmeraVersionNumber, symObjAddr: 0x28, symBinAddr: 0x3CB88, symSize: 0x0 }
   - { offset: 0x64D1F, size: 0x8, addend: 0x0, symName: '+[NetmeraExceptionManager sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x74 }
   - { offset: 0x64D39, size: 0x8, addend: 0x0, symName: _kNetmeraExceptionUserInfoBacktraceKey, symObjAddr: 0x1ED8, symBinAddr: 0x503F8, symSize: 0x0 }
   - { offset: 0x64D59, size: 0x8, addend: 0x0, symName: _kNetmeraKeySignalCode, symObjAddr: 0x1EE0, symBinAddr: 0x50400, symSize: 0x0 }
@@ -11,17 +11,17 @@ relocations:
   - { offset: 0x64D85, size: 0x8, addend: 0x0, symName: _kNetmeraKeyImageBuildUUID, symObjAddr: 0x1EF0, symBinAddr: 0x50410, symSize: 0x0 }
   - { offset: 0x64D9B, size: 0x8, addend: 0x0, symName: _kNetmeraKeyManufacturer, symObjAddr: 0x1EF8, symBinAddr: 0x50418, symSize: 0x0 }
   - { offset: 0x64DA5, size: 0x8, addend: 0x0, symName: '+[NetmeraExceptionManager sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x8000, symSize: 0x74 }
-  - { offset: 0x64DCF, size: 0x8, addend: 0x0, symName: _sharedInstance.s_sharedInstance, symObjAddr: 0x9D48, symBinAddr: 0x65A38, symSize: 0x0 }
-  - { offset: 0x64DE5, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x9D50, symBinAddr: 0x65A40, symSize: 0x0 }
-  - { offset: 0x64F02, size: 0x8, addend: 0x0, symName: _UncaughtExceptionCount, symObjAddr: 0x9D58, symBinAddr: 0x65A48, symSize: 0x0 }
-  - { offset: 0x64F1D, size: 0x8, addend: 0x0, symName: _previousABRTSignalHandler, symObjAddr: 0x9D60, symBinAddr: 0x65A50, symSize: 0x0 }
-  - { offset: 0x64F5A, size: 0x8, addend: 0x0, symName: _previousBUSSignalHandler, symObjAddr: 0x9D68, symBinAddr: 0x65A58, symSize: 0x0 }
-  - { offset: 0x64F70, size: 0x8, addend: 0x0, symName: _previousFPESignalHandler, symObjAddr: 0x9D70, symBinAddr: 0x65A60, symSize: 0x0 }
-  - { offset: 0x64F86, size: 0x8, addend: 0x0, symName: _previousILLSignalHandler, symObjAddr: 0x9D78, symBinAddr: 0x65A68, symSize: 0x0 }
-  - { offset: 0x64F9C, size: 0x8, addend: 0x0, symName: _previousPIPESignalHandler, symObjAddr: 0x9D80, symBinAddr: 0x65A70, symSize: 0x0 }
-  - { offset: 0x64FB2, size: 0x8, addend: 0x0, symName: _previousSEGVSignalHandler, symObjAddr: 0x9D88, symBinAddr: 0x65A78, symSize: 0x0 }
-  - { offset: 0x64FC8, size: 0x8, addend: 0x0, symName: _previousSYSSignalHandler, symObjAddr: 0x9D90, symBinAddr: 0x65A80, symSize: 0x0 }
-  - { offset: 0x64FDE, size: 0x8, addend: 0x0, symName: _previousTRAPSignalHandler, symObjAddr: 0x9D98, symBinAddr: 0x65A88, symSize: 0x0 }
+  - { offset: 0x64DCF, size: 0x8, addend: 0x0, symName: _sharedInstance.s_sharedInstance, symObjAddr: 0x9D48, symBinAddr: 0x65A58, symSize: 0x0 }
+  - { offset: 0x64DE5, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x9D50, symBinAddr: 0x65A60, symSize: 0x0 }
+  - { offset: 0x64F02, size: 0x8, addend: 0x0, symName: _UncaughtExceptionCount, symObjAddr: 0x9D58, symBinAddr: 0x65A68, symSize: 0x0 }
+  - { offset: 0x64F1D, size: 0x8, addend: 0x0, symName: _previousABRTSignalHandler, symObjAddr: 0x9D60, symBinAddr: 0x65A70, symSize: 0x0 }
+  - { offset: 0x64F5A, size: 0x8, addend: 0x0, symName: _previousBUSSignalHandler, symObjAddr: 0x9D68, symBinAddr: 0x65A78, symSize: 0x0 }
+  - { offset: 0x64F70, size: 0x8, addend: 0x0, symName: _previousFPESignalHandler, symObjAddr: 0x9D70, symBinAddr: 0x65A80, symSize: 0x0 }
+  - { offset: 0x64F86, size: 0x8, addend: 0x0, symName: _previousILLSignalHandler, symObjAddr: 0x9D78, symBinAddr: 0x65A88, symSize: 0x0 }
+  - { offset: 0x64F9C, size: 0x8, addend: 0x0, symName: _previousPIPESignalHandler, symObjAddr: 0x9D80, symBinAddr: 0x65A90, symSize: 0x0 }
+  - { offset: 0x64FB2, size: 0x8, addend: 0x0, symName: _previousSEGVSignalHandler, symObjAddr: 0x9D88, symBinAddr: 0x65A98, symSize: 0x0 }
+  - { offset: 0x64FC8, size: 0x8, addend: 0x0, symName: _previousSYSSignalHandler, symObjAddr: 0x9D90, symBinAddr: 0x65AA0, symSize: 0x0 }
+  - { offset: 0x64FDE, size: 0x8, addend: 0x0, symName: _previousTRAPSignalHandler, symObjAddr: 0x9D98, symBinAddr: 0x65AA8, symSize: 0x0 }
   - { offset: 0x65042, size: 0x8, addend: 0x0, symName: '___41+[NetmeraExceptionManager sharedInstance]_block_invoke', symObjAddr: 0x74, symBinAddr: 0x8074, symSize: 0x28 }
   - { offset: 0x65081, size: 0x8, addend: 0x0, symName: '-[NetmeraExceptionManager init]', symObjAddr: 0x9C, symBinAddr: 0x809C, symSize: 0x6C }
   - { offset: 0x650B8, size: 0x8, addend: 0x0, symName: '-[NetmeraExceptionManager dealloc]', symObjAddr: 0x108, symBinAddr: 0x8108, symSize: 0x44 }
@@ -52,9 +52,9 @@ relocations:
   - { offset: 0x661E0, size: 0x8, addend: 0x0, symName: '-[NetmeraExceptionManager .cxx_destruct]', symObjAddr: 0x1750, symBinAddr: 0x9750, symSize: 0x3C }
   - { offset: 0x663EC, size: 0x8, addend: 0x0, symName: '-[UITableView(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x978C, symSize: 0x44 }
   - { offset: 0x663FA, size: 0x8, addend: 0x0, symName: '+[UITableView(Tracking) swizzle]', symObjAddr: 0x44, symBinAddr: 0x97D0, symSize: 0x6C }
-  - { offset: 0x66420, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3DA8, symBinAddr: 0x65A90, symSize: 0x0 }
+  - { offset: 0x66420, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3DA8, symBinAddr: 0x65AB0, symSize: 0x0 }
   - { offset: 0x66478, size: 0x8, addend: 0x0, symName: '+[UITableView(Tracking) unSwizzle]', symObjAddr: 0x1B8, symBinAddr: 0x9944, symSize: 0x6C }
-  - { offset: 0x6649E, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3DB0, symBinAddr: 0x65A98, symSize: 0x0 }
+  - { offset: 0x6649E, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3DB0, symBinAddr: 0x65AB8, symSize: 0x0 }
   - { offset: 0x66544, size: 0x8, addend: 0x0, symName: '-[UITableView(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x978C, symSize: 0x44 }
   - { offset: 0x665D0, size: 0x8, addend: 0x0, symName: '___32+[UITableView(Tracking) swizzle]_block_invoke', symObjAddr: 0xB0, symBinAddr: 0x983C, symSize: 0x108 }
   - { offset: 0x66680, size: 0x8, addend: 0x0, symName: '___34+[UITableView(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x224, symBinAddr: 0x99B0, symSize: 0x54 }
@@ -206,8 +206,8 @@ relocations:
   - { offset: 0x697A2, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationSettings carPlaySetting]', symObjAddr: 0x3F4, symBinAddr: 0xE418, symSize: 0x10 }
   - { offset: 0x697D9, size: 0x8, addend: 0x0, symName: '-[NetmeraNotificationSettings setCarPlaySetting:]', symObjAddr: 0x404, symBinAddr: 0xE428, symSize: 0x10 }
   - { offset: 0x698CC, size: 0x8, addend: 0x0, symName: '-[NetmeraPushManager initWithApplication:requestSender:stateManager:actionPerformer:UIPresenter:]', symObjAddr: 0x0, symBinAddr: 0xE438, symSize: 0x1C0 }
-  - { offset: 0x69959, size: 0x8, addend: 0x0, symName: _kNetmeraTryShowPopupCount, symObjAddr: 0x15990, symBinAddr: 0x65B78, symSize: 0x0 }
-  - { offset: 0x69977, size: 0x8, addend: 0x0, symName: _kNetmeraTryShowInAppCount, symObjAddr: 0x15994, symBinAddr: 0x65B7C, symSize: 0x0 }
+  - { offset: 0x69959, size: 0x8, addend: 0x0, symName: _kNetmeraTryShowPopupCount, symObjAddr: 0x15990, symBinAddr: 0x65B98, symSize: 0x0 }
+  - { offset: 0x69977, size: 0x8, addend: 0x0, symName: _kNetmeraTryShowInAppCount, symObjAddr: 0x15994, symBinAddr: 0x65B9C, symSize: 0x0 }
   - { offset: 0x69EC8, size: 0x8, addend: 0x0, symName: '-[NetmeraPushManager initWithApplication:requestSender:stateManager:actionPerformer:UIPresenter:]', symObjAddr: 0x0, symBinAddr: 0xE438, symSize: 0x1C0 }
   - { offset: 0x69F4F, size: 0x8, addend: 0x0, symName: '-[NetmeraPushManager setAppGroupName:]', symObjAddr: 0x1C0, symBinAddr: 0xE5F8, symSize: 0x84 }
   - { offset: 0x69F92, size: 0x8, addend: 0x0, symName: '-[NetmeraPushManager performLaunchOperations]', symObjAddr: 0x244, symBinAddr: 0xE67C, symSize: 0x30 }
@@ -296,9 +296,9 @@ relocations:
   - { offset: 0x6BD3B, size: 0x8, addend: 0x0, symName: '-[NetmeraPushManager .cxx_destruct]', symObjAddr: 0x3638, symBinAddr: 0x11A70, symSize: 0x74 }
   - { offset: 0x6C088, size: 0x8, addend: 0x0, symName: '-[UIPickerView(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x11AE4, symSize: 0x44 }
   - { offset: 0x6C096, size: 0x8, addend: 0x0, symName: '+[UIPickerView(Tracking) swizzle]', symObjAddr: 0x44, symBinAddr: 0x11B28, symSize: 0x28 }
-  - { offset: 0x6C0BC, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3BB8, symBinAddr: 0x65AA0, symSize: 0x0 }
+  - { offset: 0x6C0BC, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3BB8, symBinAddr: 0x65AC0, symSize: 0x0 }
   - { offset: 0x6C0FD, size: 0x8, addend: 0x0, symName: '+[UIPickerView(Tracking) unSwizzle]', symObjAddr: 0x178, symBinAddr: 0x11C5C, symSize: 0x28 }
-  - { offset: 0x6C123, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3BC0, symBinAddr: 0x65AA8, symSize: 0x0 }
+  - { offset: 0x6C123, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3BC0, symBinAddr: 0x65AC8, symSize: 0x0 }
   - { offset: 0x6C1B2, size: 0x8, addend: 0x0, symName: '-[UIPickerView(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x11AE4, symSize: 0x44 }
   - { offset: 0x6C23E, size: 0x8, addend: 0x0, symName: '___33+[UIPickerView(Tracking) swizzle]_block_invoke', symObjAddr: 0x6C, symBinAddr: 0x11B50, symSize: 0x10C }
   - { offset: 0x6C2D6, size: 0x8, addend: 0x0, symName: '___35+[UIPickerView(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x1A0, symBinAddr: 0x11C84, symSize: 0x58 }
@@ -411,9 +411,9 @@ relocations:
   - { offset: 0x6FB82, size: 0x8, addend: 0x0, symName: '-[UIPickerView(ActionTracking) getActionWithSelector:row:component:]', symObjAddr: 0x0, symBinAddr: 0x1652C, symSize: 0x13C }
   - { offset: 0x6FB97, size: 0x8, addend: 0x0, symName: '-[UIPickerView(ActionTracking) getActionWithSelector:row:component:]', symObjAddr: 0x0, symBinAddr: 0x1652C, symSize: 0x13C }
   - { offset: 0x6FCAF, size: 0x8, addend: 0x0, symName: '-[Netmera UIApplication]', symObjAddr: 0x0, symBinAddr: 0x16668, symSize: 0xC }
-  - { offset: 0x6FCCE, size: 0x8, addend: 0x0, symName: ___instance, symObjAddr: 0x15BF0, symBinAddr: 0x65AB0, symSize: 0x0 }
+  - { offset: 0x6FCCE, size: 0x8, addend: 0x0, symName: ___instance, symObjAddr: 0x15BF0, symBinAddr: 0x65AD0, symSize: 0x0 }
   - { offset: 0x703FF, size: 0x8, addend: 0x0, symName: '+[Netmera start]', symObjAddr: 0x4A8, symBinAddr: 0x16B10, symSize: 0x6C }
-  - { offset: 0x70425, size: 0x8, addend: 0x0, symName: _start.onceToken, symObjAddr: 0x15BF8, symBinAddr: 0x65AB8, symSize: 0x0 }
+  - { offset: 0x70425, size: 0x8, addend: 0x0, symName: _start.onceToken, symObjAddr: 0x15BF8, symBinAddr: 0x65AD8, symSize: 0x0 }
   - { offset: 0x704D1, size: 0x8, addend: 0x0, symName: '-[Netmera UIApplication]', symObjAddr: 0x0, symBinAddr: 0x16668, symSize: 0xC }
   - { offset: 0x70504, size: 0x8, addend: 0x0, symName: '-[Netmera initWithCreatingInternalObjects]', symObjAddr: 0xC, symBinAddr: 0x16674, symSize: 0x44C }
   - { offset: 0x7056A, size: 0x8, addend: 0x0, symName: '-[Netmera dealloc]', symObjAddr: 0x458, symBinAddr: 0x16AC0, symSize: 0x34 }
@@ -549,9 +549,9 @@ relocations:
   - { offset: 0x73959, size: 0x8, addend: 0x0, symName: '-[NetmeraUIControlAction .cxx_destruct]', symObjAddr: 0xD0, symBinAddr: 0x19DE4, symSize: 0x30 }
   - { offset: 0x739DE, size: 0x8, addend: 0x0, symName: '-[UITextField(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x19E14, symSize: 0x44 }
   - { offset: 0x739EC, size: 0x8, addend: 0x0, symName: '+[UITextField(Tracking) swizzle]', symObjAddr: 0x44, symBinAddr: 0x19E58, symSize: 0x6C }
-  - { offset: 0x73A12, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3BB8, symBinAddr: 0x65AC0, symSize: 0x0 }
+  - { offset: 0x73A12, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3BB8, symBinAddr: 0x65AE0, symSize: 0x0 }
   - { offset: 0x73A6A, size: 0x8, addend: 0x0, symName: '+[UITextField(Tracking) unSwizzle]', symObjAddr: 0x1B8, symBinAddr: 0x19FCC, symSize: 0x6C }
-  - { offset: 0x73A90, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3BC0, symBinAddr: 0x65AC8, symSize: 0x0 }
+  - { offset: 0x73A90, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3BC0, symBinAddr: 0x65AE8, symSize: 0x0 }
   - { offset: 0x73B36, size: 0x8, addend: 0x0, symName: '-[UITextField(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x19E14, symSize: 0x44 }
   - { offset: 0x73BC2, size: 0x8, addend: 0x0, symName: '___32+[UITextField(Tracking) swizzle]_block_invoke', symObjAddr: 0xB0, symBinAddr: 0x19EC4, symSize: 0x108 }
   - { offset: 0x73C72, size: 0x8, addend: 0x0, symName: '___34+[UITextField(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x224, symBinAddr: 0x1A038, symSize: 0x54 }
@@ -562,7 +562,7 @@ relocations:
   - { offset: 0x74215, size: 0x8, addend: 0x0, symName: '-[UIPageControl(AutoTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x1A56C, symSize: 0xB8 }
   - { offset: 0x7422A, size: 0x8, addend: 0x0, symName: '-[UIPageControl(AutoTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x1A56C, symSize: 0xB8 }
   - { offset: 0x74322, size: 0x8, addend: 0x0, symName: '-[NetmeraProxyAppDelegate hookAppDelegateMethods]', symObjAddr: 0x0, symBinAddr: 0x1A624, symSize: 0x160 }
-  - { offset: 0x7434A, size: 0x8, addend: 0x0, symName: _kNetmeraAppDelegateExtensionProxyAppDelegateKey, symObjAddr: 0x1B30, symBinAddr: 0x656C8, symSize: 0x0 }
+  - { offset: 0x7434A, size: 0x8, addend: 0x0, symName: _kNetmeraAppDelegateExtensionProxyAppDelegateKey, symObjAddr: 0x1B30, symBinAddr: 0x656E8, symSize: 0x0 }
   - { offset: 0x7436A, size: 0x8, addend: 0x0, symName: _kNetmeraURLSchemeHostKey, symObjAddr: 0x2F70, symBinAddr: 0x509E8, symSize: 0x0 }
   - { offset: 0x7438A, size: 0x8, addend: 0x0, symName: _kNetmeraURLSchemeFlowIdKey, symObjAddr: 0x2F78, symBinAddr: 0x509F0, symSize: 0x0 }
   - { offset: 0x743A0, size: 0x8, addend: 0x0, symName: _kNetmeraURLSchemeCampaignIdKey, symObjAddr: 0x2F80, symBinAddr: 0x509F8, symSize: 0x0 }
@@ -714,17 +714,17 @@ relocations:
   - { offset: 0x78D97, size: 0x8, addend: 0x0, symName: '-[NetmeraLocationManager .cxx_destruct]', symObjAddr: 0x20BC, symBinAddr: 0x2046C, symSize: 0x40 }
   - { offset: 0x78F0A, size: 0x8, addend: 0x0, symName: '-[SKPaymentQueue(Tracking) NetmeraFinishTransaction:]', symObjAddr: 0x0, symBinAddr: 0x204AC, symSize: 0xEC }
   - { offset: 0x78F18, size: 0x8, addend: 0x0, symName: '+[SKPaymentQueue(Tracking) swizzle]', symObjAddr: 0xEC, symBinAddr: 0x20598, symSize: 0x28 }
-  - { offset: 0x78F3E, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x2480, symBinAddr: 0x65AD0, symSize: 0x0 }
+  - { offset: 0x78F3E, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x2480, symBinAddr: 0x65AF0, symSize: 0x0 }
   - { offset: 0x78F7F, size: 0x8, addend: 0x0, symName: '+[SKPaymentQueue(Tracking) unSwizzle]', symObjAddr: 0x220, symBinAddr: 0x206CC, symSize: 0x28 }
-  - { offset: 0x78FA5, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x2488, symBinAddr: 0x65AD8, symSize: 0x0 }
+  - { offset: 0x78FA5, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x2488, symBinAddr: 0x65AF8, symSize: 0x0 }
   - { offset: 0x78FDF, size: 0x8, addend: 0x0, symName: '-[SKPaymentQueue(Tracking) NetmeraFinishTransaction:]', symObjAddr: 0x0, symBinAddr: 0x204AC, symSize: 0xEC }
   - { offset: 0x79071, size: 0x8, addend: 0x0, symName: '___35+[SKPaymentQueue(Tracking) swizzle]_block_invoke', symObjAddr: 0x114, symBinAddr: 0x205C0, symSize: 0x10C }
   - { offset: 0x79109, size: 0x8, addend: 0x0, symName: '___37+[SKPaymentQueue(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x248, symBinAddr: 0x206F4, symSize: 0x58 }
   - { offset: 0x7926D, size: 0x8, addend: 0x0, symName: '-[UITextView(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x2074C, symSize: 0x44 }
   - { offset: 0x7927B, size: 0x8, addend: 0x0, symName: '+[UITextView(Tracking) swizzle]', symObjAddr: 0x44, symBinAddr: 0x20790, symSize: 0x6C }
-  - { offset: 0x792A1, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3BC0, symBinAddr: 0x65AE0, symSize: 0x0 }
+  - { offset: 0x792A1, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3BC0, symBinAddr: 0x65B00, symSize: 0x0 }
   - { offset: 0x792F9, size: 0x8, addend: 0x0, symName: '+[UITextView(Tracking) unSwizzle]', symObjAddr: 0x1B8, symBinAddr: 0x20904, symSize: 0x6C }
-  - { offset: 0x7931F, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3BC8, symBinAddr: 0x65AE8, symSize: 0x0 }
+  - { offset: 0x7931F, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3BC8, symBinAddr: 0x65B08, symSize: 0x0 }
   - { offset: 0x793C5, size: 0x8, addend: 0x0, symName: '-[UITextView(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x2074C, symSize: 0x44 }
   - { offset: 0x79451, size: 0x8, addend: 0x0, symName: '___31+[UITextView(Tracking) swizzle]_block_invoke', symObjAddr: 0xB0, symBinAddr: 0x207FC, symSize: 0x108 }
   - { offset: 0x79501, size: 0x8, addend: 0x0, symName: '___33+[UITextView(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x224, symBinAddr: 0x20970, symSize: 0x54 }
@@ -786,8 +786,8 @@ relocations:
   - { offset: 0x7B456, size: 0x8, addend: 0x0, symName: '-[NetmeraKeychainStore setStore:]', symObjAddr: 0x440, symBinAddr: 0x22D84, symSize: 0xC }
   - { offset: 0x7B497, size: 0x8, addend: 0x0, symName: '-[NetmeraKeychainStore .cxx_destruct]', symObjAddr: 0x44C, symBinAddr: 0x22D90, symSize: 0xC }
   - { offset: 0x7B5A6, size: 0x8, addend: 0x0, symName: '-[NetmeraInAppMessageVC initWithObject:]', symObjAddr: 0x0, symBinAddr: 0x22D9C, symSize: 0xB8 }
-  - { offset: 0x7B5C0, size: 0x8, addend: 0x0, symName: _kNetmeraInAppMessagePadding, symObjAddr: 0x1F48, symBinAddr: 0x3CBA0, symSize: 0x0 }
-  - { offset: 0x7B5E2, size: 0x8, addend: 0x0, symName: _kNetmeraInAppMessageBottomPadding, symObjAddr: 0x1F50, symBinAddr: 0x3CBA8, symSize: 0x0 }
+  - { offset: 0x7B5C0, size: 0x8, addend: 0x0, symName: _kNetmeraInAppMessagePadding, symObjAddr: 0x1F48, symBinAddr: 0x3CC00, symSize: 0x0 }
+  - { offset: 0x7B5E2, size: 0x8, addend: 0x0, symName: _kNetmeraInAppMessageBottomPadding, symObjAddr: 0x1F50, symBinAddr: 0x3CC08, symSize: 0x0 }
   - { offset: 0x7B996, size: 0x8, addend: 0x0, symName: '-[NetmeraInAppMessageVC initWithObject:]', symObjAddr: 0x0, symBinAddr: 0x22D9C, symSize: 0xB8 }
   - { offset: 0x7B9DD, size: 0x8, addend: 0x0, symName: '-[NetmeraInAppMessageVC viewDidLoad]', symObjAddr: 0xB8, symBinAddr: 0x22E54, symSize: 0x84 }
   - { offset: 0x7BA10, size: 0x8, addend: 0x0, symName: '-[NetmeraInAppMessageVC configureView]', symObjAddr: 0x13C, symBinAddr: 0x22ED8, symSize: 0x64 }
@@ -928,12 +928,12 @@ relocations:
   - { offset: 0x7E417, size: 0x8, addend: 0x0, symName: '-[NetmeraIAPManager .cxx_destruct]', symObjAddr: 0x764, symBinAddr: 0x25F90, symSize: 0x28 }
   - { offset: 0x7E5BA, size: 0x8, addend: 0x0, symName: '-[UIViewController(Tracking) logWithIsAppear:]', symObjAddr: 0x0, symBinAddr: 0x25FB8, symSize: 0x104 }
   - { offset: 0x7E5C8, size: 0x8, addend: 0x0, symName: '+[UIViewController(Tracking) swizzle]', symObjAddr: 0x198, symBinAddr: 0x26150, symSize: 0x28 }
-  - { offset: 0x7E5EE, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x6460, symBinAddr: 0x65AF0, symSize: 0x0 }
+  - { offset: 0x7E5EE, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x6460, symBinAddr: 0x65B10, symSize: 0x0 }
   - { offset: 0x7E62F, size: 0x8, addend: 0x0, symName: '+[UIViewController(Tracking) unSwizzle]', symObjAddr: 0x3B0, symBinAddr: 0x26368, symSize: 0x28 }
-  - { offset: 0x7E655, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x6468, symBinAddr: 0x65AF8, symSize: 0x0 }
+  - { offset: 0x7E655, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x6468, symBinAddr: 0x65B18, symSize: 0x0 }
   - { offset: 0x7E68F, size: 0x8, addend: 0x0, symName: '-[UIViewController(Tracking) shouldTrackClass:]', symObjAddr: 0x46C, symBinAddr: 0x26424, symSize: 0x134 }
-  - { offset: 0x7E6B9, size: 0x8, addend: 0x0, symName: '_shouldTrackClass:.blacklistedClasses', symObjAddr: 0x6470, symBinAddr: 0x65B00, symSize: 0x0 }
-  - { offset: 0x7E6CF, size: 0x8, addend: 0x0, symName: '_shouldTrackClass:.onceToken', symObjAddr: 0x6478, symBinAddr: 0x65B08, symSize: 0x0 }
+  - { offset: 0x7E6B9, size: 0x8, addend: 0x0, symName: '_shouldTrackClass:.blacklistedClasses', symObjAddr: 0x6470, symBinAddr: 0x65B20, symSize: 0x0 }
+  - { offset: 0x7E6CF, size: 0x8, addend: 0x0, symName: '_shouldTrackClass:.onceToken', symObjAddr: 0x6478, symBinAddr: 0x65B28, symSize: 0x0 }
   - { offset: 0x7E73D, size: 0x8, addend: 0x0, symName: '-[UIViewController(Tracking) logWithIsAppear:]', symObjAddr: 0x0, symBinAddr: 0x25FB8, symSize: 0x104 }
   - { offset: 0x7E780, size: 0x8, addend: 0x0, symName: '-[UIViewController(Tracking) NetmeraViewDidAppear:]', symObjAddr: 0x104, symBinAddr: 0x260BC, symSize: 0x4C }
   - { offset: 0x7E7C3, size: 0x8, addend: 0x0, symName: '-[UIViewController(Tracking) NetmeraViewDidDisappear:]', symObjAddr: 0x150, symBinAddr: 0x26108, symSize: 0x48 }
@@ -1007,12 +1007,12 @@ relocations:
   - { offset: 0x80937, size: 0x8, addend: 0x0, symName: '-[SwizzlingForwarder .cxx_destruct]', symObjAddr: 0x230, symBinAddr: 0x2826C, symSize: 0xC }
   - { offset: 0x809D6, size: 0x8, addend: 0x0, symName: '-[UIApplication(Tracking) NetmeraSendAction:to:from:forEvent:]', symObjAddr: 0x0, symBinAddr: 0x28278, symSize: 0x3B4 }
   - { offset: 0x809F2, size: 0x8, addend: 0x0, symName: '+[UIApplication(Tracking) swizzle]', symObjAddr: 0x3B4, symBinAddr: 0x2862C, symSize: 0x28 }
-  - { offset: 0x80A18, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3ED8, symBinAddr: 0x65B10, symSize: 0x0 }
+  - { offset: 0x80A18, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3ED8, symBinAddr: 0x65B30, symSize: 0x0 }
   - { offset: 0x80A59, size: 0x8, addend: 0x0, symName: '+[UIApplication(Tracking) unSwizzle]', symObjAddr: 0x4E8, symBinAddr: 0x28760, symSize: 0x28 }
-  - { offset: 0x80A7F, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3EE0, symBinAddr: 0x65B18, symSize: 0x0 }
+  - { offset: 0x80A7F, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3EE0, symBinAddr: 0x65B38, symSize: 0x0 }
   - { offset: 0x80AB9, size: 0x8, addend: 0x0, symName: '-[UIApplication(Tracking) shouldTrackActionName:]', symObjAddr: 0x568, symBinAddr: 0x287E0, symSize: 0x6C }
-  - { offset: 0x80AE3, size: 0x8, addend: 0x0, symName: '_shouldTrackActionName:.blacklistedActions', symObjAddr: 0x3EE8, symBinAddr: 0x65B20, symSize: 0x0 }
-  - { offset: 0x80AF9, size: 0x8, addend: 0x0, symName: '_shouldTrackActionName:.onceToken', symObjAddr: 0x3EF0, symBinAddr: 0x65B28, symSize: 0x0 }
+  - { offset: 0x80AE3, size: 0x8, addend: 0x0, symName: '_shouldTrackActionName:.blacklistedActions', symObjAddr: 0x3EE8, symBinAddr: 0x65B40, symSize: 0x0 }
+  - { offset: 0x80AF9, size: 0x8, addend: 0x0, symName: '_shouldTrackActionName:.onceToken', symObjAddr: 0x3EF0, symBinAddr: 0x65B48, symSize: 0x0 }
   - { offset: 0x80B48, size: 0x8, addend: 0x0, symName: '-[UIApplication(Tracking) NetmeraSendAction:to:from:forEvent:]', symObjAddr: 0x0, symBinAddr: 0x28278, symSize: 0x3B4 }
   - { offset: 0x80D6A, size: 0x8, addend: 0x0, symName: '___34+[UIApplication(Tracking) swizzle]_block_invoke', symObjAddr: 0x3DC, symBinAddr: 0x28654, symSize: 0x10C }
   - { offset: 0x80DED, size: 0x8, addend: 0x0, symName: '___36+[UIApplication(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x510, symBinAddr: 0x28788, symSize: 0x58 }
@@ -1021,7 +1021,7 @@ relocations:
   - { offset: 0x810AB, size: 0x8, addend: 0x0, symName: '-[UISegmentedControl(ActionTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x28A60, symSize: 0x108 }
   - { offset: 0x811B3, size: 0x8, addend: 0x0, symName: '-[NetmeraLabel drawTextInRect:]', symObjAddr: 0x0, symBinAddr: 0x28B68, symSize: 0x140 }
   - { offset: 0x811F6, size: 0x8, addend: 0x0, symName: '-[NetmeraPushVC handlePan:]', symObjAddr: 0x117C, symBinAddr: 0x29CE4, symSize: 0x26C }
-  - { offset: 0x8121C, size: 0x8, addend: 0x0, symName: '_handlePan:.lastHeight', symObjAddr: 0x2FD8, symBinAddr: 0x65910, symSize: 0x0 }
+  - { offset: 0x8121C, size: 0x8, addend: 0x0, symName: '_handlePan:.lastHeight', symObjAddr: 0x2FD8, symBinAddr: 0x65930, symSize: 0x0 }
   - { offset: 0x81483, size: 0x8, addend: 0x0, symName: '-[NetmeraLabel drawTextInRect:]', symObjAddr: 0x0, symBinAddr: 0x28B68, symSize: 0x140 }
   - { offset: 0x814F6, size: 0x8, addend: 0x0, symName: '-[NetmeraPushVC initWithPushObject:]', symObjAddr: 0x140, symBinAddr: 0x28CA8, symSize: 0x144 }
   - { offset: 0x8153D, size: 0x8, addend: 0x0, symName: '-[NetmeraPushVC dealloc]', symObjAddr: 0x284, symBinAddr: 0x28DEC, symSize: 0x88 }
@@ -1082,9 +1082,9 @@ relocations:
   - { offset: 0x82940, size: 0x8, addend: 0x0, symName: '-[NetmeraInbox .cxx_destruct]', symObjAddr: 0xDE4, symBinAddr: 0x2AFD4, symSize: 0x4C }
   - { offset: 0x82C21, size: 0x8, addend: 0x0, symName: '-[UICollectionView(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x2B020, symSize: 0x44 }
   - { offset: 0x82C2F, size: 0x8, addend: 0x0, symName: '+[UICollectionView(Tracking) swizzle]', symObjAddr: 0x44, symBinAddr: 0x2B064, symSize: 0x6C }
-  - { offset: 0x82C55, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3E68, symBinAddr: 0x65B30, symSize: 0x0 }
+  - { offset: 0x82C55, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3E68, symBinAddr: 0x65B50, symSize: 0x0 }
   - { offset: 0x82CAD, size: 0x8, addend: 0x0, symName: '+[UICollectionView(Tracking) unSwizzle]', symObjAddr: 0x1B8, symBinAddr: 0x2B1D8, symSize: 0x6C }
-  - { offset: 0x82CD3, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3E70, symBinAddr: 0x65B38, symSize: 0x0 }
+  - { offset: 0x82CD3, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3E70, symBinAddr: 0x65B58, symSize: 0x0 }
   - { offset: 0x82D79, size: 0x8, addend: 0x0, symName: '-[UICollectionView(Tracking) netmera_setDelegate:]', symObjAddr: 0x0, symBinAddr: 0x2B020, symSize: 0x44 }
   - { offset: 0x82E05, size: 0x8, addend: 0x0, symName: '___37+[UICollectionView(Tracking) swizzle]_block_invoke', symObjAddr: 0xB0, symBinAddr: 0x2B0D0, symSize: 0x108 }
   - { offset: 0x82EB5, size: 0x8, addend: 0x0, symName: '___39+[UICollectionView(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x224, symBinAddr: 0x2B244, symSize: 0x54 }
@@ -1240,103 +1240,103 @@ relocations:
   - { offset: 0x86E4B, size: 0x8, addend: 0x0, symName: '-[NetmeraBatteryStateManager .cxx_destruct]', symObjAddr: 0x454, symBinAddr: 0x2F5BC, symSize: 0x28 }
   - { offset: 0x86F0E, size: 0x8, addend: 0x0, symName: '-[UIDatePicker(AutoTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x2F5E4, symSize: 0xCC }
   - { offset: 0x86F1C, size: 0x8, addend: 0x0, symName: '-[UIDatePicker(AutoTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x2F5E4, symSize: 0xCC }
-  - { offset: 0x87014, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter init]', symObjAddr: 0x0, symBinAddr: 0x2F6B0, symSize: 0x27C }
-  - { offset: 0x8707B, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter init]', symObjAddr: 0x0, symBinAddr: 0x2F6B0, symSize: 0x27C }
-  - { offset: 0x8714D, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter sendRequestWithSpec:onResponse:]', symObjAddr: 0x27C, symBinAddr: 0x2F92C, symSize: 0x460 }
-  - { offset: 0x8721F, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x6DC, symBinAddr: 0x2FD8C, symSize: 0x10 }
-  - { offset: 0x87244, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x6EC, symBinAddr: 0x2FD9C, symSize: 0x8 }
-  - { offset: 0x87263, size: 0x8, addend: 0x0, symName: '___61-[NetmeraAFNetworkingAdapter sendRequestWithSpec:onResponse:]_block_invoke', symObjAddr: 0x6F4, symBinAddr: 0x2FDA4, symSize: 0x1D8 }
-  - { offset: 0x87355, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48r, symObjAddr: 0x8CC, symBinAddr: 0x2FF7C, symSize: 0x44 }
-  - { offset: 0x8737E, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48r, symObjAddr: 0x910, symBinAddr: 0x2FFC0, symSize: 0x34 }
-  - { offset: 0x8739D, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter addTaskToQueue:]', symObjAddr: 0x944, symBinAddr: 0x2FFF4, symSize: 0x8C }
-  - { offset: 0x873E0, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter removeTaskFromQueue:]', symObjAddr: 0x9D0, symBinAddr: 0x30080, symSize: 0xD0 }
-  - { offset: 0x87442, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter startProcessingRequests]', symObjAddr: 0xAA0, symBinAddr: 0x30150, symSize: 0x4C }
-  - { offset: 0x87475, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter stopProcessingRequests]', symObjAddr: 0xAEC, symBinAddr: 0x3019C, symSize: 0x4C }
-  - { offset: 0x874A8, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter isProcessingRequests]', symObjAddr: 0xB38, symBinAddr: 0x301E8, symSize: 0x5C }
-  - { offset: 0x874DF, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter cancelAllRequests]', symObjAddr: 0xB94, symBinAddr: 0x30244, symSize: 0xB0 }
-  - { offset: 0x87531, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter requestManager]', symObjAddr: 0xC44, symBinAddr: 0x302F4, symSize: 0x8 }
-  - { offset: 0x87568, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter setRequestManager:]', symObjAddr: 0xC4C, symBinAddr: 0x302FC, symSize: 0xC }
-  - { offset: 0x875A9, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter taskQueue]', symObjAddr: 0xC58, symBinAddr: 0x30308, symSize: 0xC }
-  - { offset: 0x875E0, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter setTaskQueue:]', symObjAddr: 0xC64, symBinAddr: 0x30314, symSize: 0x8 }
-  - { offset: 0x8761F, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter .cxx_destruct]', symObjAddr: 0xC6C, symBinAddr: 0x3031C, symSize: 0x30 }
-  - { offset: 0x878B9, size: 0x8, addend: 0x0, symName: _NSStringFromProperty, symObjAddr: 0x0, symBinAddr: 0x3034C, symSize: 0x1E8 }
-  - { offset: 0x878C8, size: 0x8, addend: 0x0, symName: _NSStringFromProperty, symObjAddr: 0x0, symBinAddr: 0x3034C, symSize: 0x1E8 }
-  - { offset: 0x87AEF, size: 0x8, addend: 0x0, symName: '-[NSObject(Netmera) logPropertys]', symObjAddr: 0x1E8, symBinAddr: 0x30534, symSize: 0xA0 }
-  - { offset: 0x87C0A, size: 0x8, addend: 0x0, symName: '-[NSObject(Netmera) logIvars]', symObjAddr: 0x288, symBinAddr: 0x305D4, symSize: 0xA0 }
-  - { offset: 0x87CF5, size: 0x8, addend: 0x0, symName: '+[NSObject(Netmera) getObjectInstanceVariable:variable:]', symObjAddr: 0x328, symBinAddr: 0x30674, symSize: 0xD8 }
-  - { offset: 0x87DD4, size: 0x8, addend: 0x0, symName: '-[NSObject(Netmera) controllerVariable]', symObjAddr: 0x400, symBinAddr: 0x3074C, symSize: 0x170 }
-  - { offset: 0x87F18, size: 0x8, addend: 0x0, symName: '-[NSObject(Netmera) autoDescribe:classType:]', symObjAddr: 0x570, symBinAddr: 0x308BC, symSize: 0x210 }
-  - { offset: 0x8817E, size: 0x8, addend: 0x0, symName: '-[UIBarItem(ActionTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x30ACC, symSize: 0x94 }
-  - { offset: 0x8818C, size: 0x8, addend: 0x0, symName: '-[UIBarItem(ActionTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x30ACC, symSize: 0x94 }
-  - { offset: 0x88284, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager initWithEventSender:stateManager:]', symObjAddr: 0x0, symBinAddr: 0x30B60, symSize: 0xA0 }
-  - { offset: 0x8829E, size: 0x8, addend: 0x0, symName: _NetmeraUIActionKey, symObjAddr: 0x1128, symBinAddr: 0x50EB8, symSize: 0x0 }
-  - { offset: 0x882BE, size: 0x8, addend: 0x0, symName: _NetmeraSendActionNotification, symObjAddr: 0x1130, symBinAddr: 0x50EC0, symSize: 0x0 }
-  - { offset: 0x882D4, size: 0x8, addend: 0x0, symName: _NetmeraSendScreenOpenNotification, symObjAddr: 0x1138, symBinAddr: 0x50EC8, symSize: 0x0 }
-  - { offset: 0x882EA, size: 0x8, addend: 0x0, symName: _NetmeraSendScreenCloseNotification, symObjAddr: 0x1140, symBinAddr: 0x50ED0, symSize: 0x0 }
-  - { offset: 0x88608, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager initWithEventSender:stateManager:]', symObjAddr: 0x0, symBinAddr: 0x30B60, symSize: 0xA0 }
-  - { offset: 0x8865F, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager performOperationsForConfigUpdate:]', symObjAddr: 0xA0, symBinAddr: 0x30C00, symSize: 0xC }
-  - { offset: 0x886A3, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager performLaunchOperations]', symObjAddr: 0xAC, symBinAddr: 0x30C0C, symSize: 0x58 }
-  - { offset: 0x886D6, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setUpScreenTrackingFromConfigData]', symObjAddr: 0x104, symBinAddr: 0x30C64, symSize: 0x3E0 }
-  - { offset: 0x887D1, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager startTrackingScreen]', symObjAddr: 0x4E4, symBinAddr: 0x31044, symSize: 0xBC }
-  - { offset: 0x88804, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager stopTrackingScreen]', symObjAddr: 0x5A0, symBinAddr: 0x31100, symSize: 0xA0 }
-  - { offset: 0x88837, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager startTrackingActions]', symObjAddr: 0x640, symBinAddr: 0x311A0, symSize: 0x98 }
-  - { offset: 0x8886A, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager stopTrackingActions]', symObjAddr: 0x6D8, symBinAddr: 0x31238, symSize: 0x8C }
-  - { offset: 0x8889D, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager registerApplicationLifecycleNotifications]', symObjAddr: 0x764, symBinAddr: 0x312C4, symSize: 0x118 }
-  - { offset: 0x8890E, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager dealloc]', symObjAddr: 0x87C, symBinAddr: 0x313DC, symSize: 0x54 }
-  - { offset: 0x88941, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager unregisterNotifications]', symObjAddr: 0x8D0, symBinAddr: 0x31430, symSize: 0x40 }
-  - { offset: 0x88974, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager screenOpenNotification:]', symObjAddr: 0x910, symBinAddr: 0x31470, symSize: 0xD4 }
-  - { offset: 0x889E6, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager creteInfoWithController:]', symObjAddr: 0x9E4, symBinAddr: 0x31544, symSize: 0x50 }
-  - { offset: 0x88A49, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager screenCloseNotification:]', symObjAddr: 0xA34, symBinAddr: 0x31594, symSize: 0x4 }
-  - { offset: 0x88A84, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager willEnterForegroundNotification:]', symObjAddr: 0xA38, symBinAddr: 0x31598, symSize: 0x4 }
-  - { offset: 0x88ABF, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager didEnterBackgroundNotification:]', symObjAddr: 0xA3C, symBinAddr: 0x3159C, symSize: 0x4 }
-  - { offset: 0x88AFA, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager sendOpenEventWithViewInfo:]', symObjAddr: 0xA40, symBinAddr: 0x315A0, symSize: 0x100 }
-  - { offset: 0x88B9A, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager sendCloseEventWithViewInfo:]', symObjAddr: 0xB40, symBinAddr: 0x316A0, symSize: 0x4 }
-  - { offset: 0x88BD5, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager handleUIActionNotification:]', symObjAddr: 0xB44, symBinAddr: 0x316A4, symSize: 0xB0 }
-  - { offset: 0x88C28, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager sendUIActionEventWithName:value:type:]', symObjAddr: 0xBF4, symBinAddr: 0x31754, symSize: 0xEC }
-  - { offset: 0x88CE4, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager encryptor]', symObjAddr: 0xCE0, symBinAddr: 0x31840, symSize: 0x8 }
-  - { offset: 0x88D1B, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setEncryptor:]', symObjAddr: 0xCE8, symBinAddr: 0x31848, symSize: 0xC }
-  - { offset: 0x88D5C, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager eventSender]', symObjAddr: 0xCF4, symBinAddr: 0x31854, symSize: 0x18 }
-  - { offset: 0x88D93, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setEventSender:]', symObjAddr: 0xD0C, symBinAddr: 0x3186C, symSize: 0xC }
-  - { offset: 0x88DD4, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager stateManager]', symObjAddr: 0xD18, symBinAddr: 0x31878, symSize: 0x18 }
-  - { offset: 0x88E0B, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setStateManager:]', symObjAddr: 0xD30, symBinAddr: 0x31890, symSize: 0xC }
-  - { offset: 0x88E4C, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager shouldSendScreenEvent]', symObjAddr: 0xD3C, symBinAddr: 0x3189C, symSize: 0x8 }
-  - { offset: 0x88E83, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setShouldSendScreenEvent:]', symObjAddr: 0xD44, symBinAddr: 0x318A4, symSize: 0x8 }
-  - { offset: 0x88EBE, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager shouldSendInputFlow]', symObjAddr: 0xD4C, symBinAddr: 0x318AC, symSize: 0x8 }
-  - { offset: 0x88EF5, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setShouldSendInputFlow:]', symObjAddr: 0xD54, symBinAddr: 0x318B4, symSize: 0x8 }
-  - { offset: 0x88F30, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager screenTracking]', symObjAddr: 0xD5C, symBinAddr: 0x318BC, symSize: 0x8 }
-  - { offset: 0x88F67, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setScreenTracking:]', symObjAddr: 0xD64, symBinAddr: 0x318C4, symSize: 0x8 }
-  - { offset: 0x88FA2, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager actionTracking]', symObjAddr: 0xD6C, symBinAddr: 0x318CC, symSize: 0x8 }
-  - { offset: 0x88FD9, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setActionTracking:]', symObjAddr: 0xD74, symBinAddr: 0x318D4, symSize: 0x8 }
-  - { offset: 0x89014, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager includeUIActions]', symObjAddr: 0xD7C, symBinAddr: 0x318DC, symSize: 0x8 }
-  - { offset: 0x8904B, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setIncludeUIActions:]', symObjAddr: 0xD84, symBinAddr: 0x318E4, symSize: 0xC }
-  - { offset: 0x8908C, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager includeViewAction]', symObjAddr: 0xD90, symBinAddr: 0x318F0, symSize: 0x8 }
-  - { offset: 0x890C3, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setIncludeViewAction:]', symObjAddr: 0xD98, symBinAddr: 0x318F8, symSize: 0xC }
-  - { offset: 0x89104, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager isTestUser]', symObjAddr: 0xDA4, symBinAddr: 0x31904, symSize: 0x8 }
-  - { offset: 0x8913B, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setIsTestUser:]', symObjAddr: 0xDAC, symBinAddr: 0x3190C, symSize: 0x8 }
-  - { offset: 0x89176, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager .cxx_destruct]', symObjAddr: 0xDB4, symBinAddr: 0x31914, symSize: 0x4C }
-  - { offset: 0x892D4, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) setTargetName:]', symObjAddr: 0x0, symBinAddr: 0x31960, symSize: 0x10 }
-  - { offset: 0x892E2, size: 0x8, addend: 0x0, symName: '+[UITapGestureRecognizer(Tracking) swizzle]', symObjAddr: 0x38, symBinAddr: 0x31998, symSize: 0x6C }
-  - { offset: 0x89308, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3C90, symBinAddr: 0x65B40, symSize: 0x0 }
-  - { offset: 0x89360, size: 0x8, addend: 0x0, symName: '+[UITapGestureRecognizer(Tracking) unSwizzle]', symObjAddr: 0x1F0, symBinAddr: 0x31B50, symSize: 0x6C }
-  - { offset: 0x89386, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3C98, symBinAddr: 0x65B48, symSize: 0x0 }
-  - { offset: 0x893E3, size: 0x8, addend: 0x0, symName: _kTargetKey, symObjAddr: 0x648, symBinAddr: 0x3CBD8, symSize: 0x0 }
-  - { offset: 0x89405, size: 0x8, addend: 0x0, symName: _kOriginActionKey, symObjAddr: 0x649, symBinAddr: 0x3CBD9, symSize: 0x0 }
-  - { offset: 0x8940F, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) setTargetName:]', symObjAddr: 0x0, symBinAddr: 0x31960, symSize: 0x10 }
-  - { offset: 0x894C2, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) targetName]', symObjAddr: 0x10, symBinAddr: 0x31970, symSize: 0xC }
-  - { offset: 0x89526, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) setOriginActionName:]', symObjAddr: 0x1C, symBinAddr: 0x3197C, symSize: 0x10 }
-  - { offset: 0x8958C, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) originActionName]', symObjAddr: 0x2C, symBinAddr: 0x3198C, symSize: 0xC }
-  - { offset: 0x89627, size: 0x8, addend: 0x0, symName: '___43+[UITapGestureRecognizer(Tracking) swizzle]_block_invoke', symObjAddr: 0xA4, symBinAddr: 0x31A04, symSize: 0x14C }
-  - { offset: 0x896D7, size: 0x8, addend: 0x0, symName: '___45+[UITapGestureRecognizer(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x25C, symBinAddr: 0x31BBC, symSize: 0x94 }
-  - { offset: 0x89716, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) netmera_initWithTarget:action:]', symObjAddr: 0x2F0, symBinAddr: 0x31C50, symSize: 0x68 }
-  - { offset: 0x8976D, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) netmera_addTarget:action:]', symObjAddr: 0x358, symBinAddr: 0x31CB8, symSize: 0xB8 }
-  - { offset: 0x8982E, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) netmera_trackTapGestureAction:]', symObjAddr: 0x410, symBinAddr: 0x31D70, symSize: 0x228 }
-  - { offset: 0x89A30, size: 0x8, addend: 0x0, symName: '+[UIColor(Netmera) colorFromHexCode:]', symObjAddr: 0x0, symBinAddr: 0x31F98, symSize: 0x290 }
-  - { offset: 0x89A3E, size: 0x8, addend: 0x0, symName: '+[UIColor(Netmera) colorFromHexCode:]', symObjAddr: 0x0, symBinAddr: 0x31F98, symSize: 0x290 }
-  - { offset: 0x89B52, size: 0x8, addend: 0x0, symName: '+[NetmeraSwizzle swizzleMethod:withMethod:error:class:]', symObjAddr: 0x0, symBinAddr: 0x32228, symSize: 0x204 }
-  - { offset: 0x89B73, size: 0x8, addend: 0x0, symName: '+[NetmeraSwizzle swizzleMethod:withMethod:error:class:]', symObjAddr: 0x0, symBinAddr: 0x32228, symSize: 0x204 }
-  - { offset: 0x89E6D, size: 0x8, addend: 0x0, symName: '+[NetmeraSwizzle injectSelector:originalSel:replacedClass:replacedSel:]', symObjAddr: 0x204, symBinAddr: 0x3242C, symSize: 0xD4 }
-  - { offset: 0x8A072, size: 0x8, addend: 0x0, symName: '+[NetmeraSwizzle(NetmeraExtension) hook_methodWithOriginalClass:originalSel:replacedClass:replacedSel:]', symObjAddr: 0x2D8, symBinAddr: 0x32500, symSize: 0x23C }
-  - { offset: 0x8A35E, size: 0x8, addend: 0x0, symName: '-[UIView(FindUIViewController) firstAvailableUIViewController]', symObjAddr: 0x0, symBinAddr: 0x3273C, symSize: 0x78 }
-  - { offset: 0x8A36C, size: 0x8, addend: 0x0, symName: '-[UIView(FindUIViewController) firstAvailableUIViewController]', symObjAddr: 0x0, symBinAddr: 0x3273C, symSize: 0x78 }
-  - { offset: 0x8A3B3, size: 0x8, addend: 0x0, symName: '-[UIView(FindUIViewController) netmeraPathWithSelector:]', symObjAddr: 0x78, symBinAddr: 0x327B4, symSize: 0x98 }
+  - { offset: 0x87014, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter init]', symObjAddr: 0x0, symBinAddr: 0x2F6B0, symSize: 0x2DC }
+  - { offset: 0x87089, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter init]', symObjAddr: 0x0, symBinAddr: 0x2F6B0, symSize: 0x2DC }
+  - { offset: 0x8717B, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter sendRequestWithSpec:onResponse:]', symObjAddr: 0x2DC, symBinAddr: 0x2F98C, symSize: 0x460 }
+  - { offset: 0x8724D, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x73C, symBinAddr: 0x2FDEC, symSize: 0x10 }
+  - { offset: 0x87272, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x74C, symBinAddr: 0x2FDFC, symSize: 0x8 }
+  - { offset: 0x87291, size: 0x8, addend: 0x0, symName: '___61-[NetmeraAFNetworkingAdapter sendRequestWithSpec:onResponse:]_block_invoke', symObjAddr: 0x754, symBinAddr: 0x2FE04, symSize: 0x1D8 }
+  - { offset: 0x87383, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48r, symObjAddr: 0x92C, symBinAddr: 0x2FFDC, symSize: 0x44 }
+  - { offset: 0x873AC, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48r, symObjAddr: 0x970, symBinAddr: 0x30020, symSize: 0x34 }
+  - { offset: 0x873CB, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter addTaskToQueue:]', symObjAddr: 0x9A4, symBinAddr: 0x30054, symSize: 0x8C }
+  - { offset: 0x8740E, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter removeTaskFromQueue:]', symObjAddr: 0xA30, symBinAddr: 0x300E0, symSize: 0xD0 }
+  - { offset: 0x87470, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter startProcessingRequests]', symObjAddr: 0xB00, symBinAddr: 0x301B0, symSize: 0x4C }
+  - { offset: 0x874A3, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter stopProcessingRequests]', symObjAddr: 0xB4C, symBinAddr: 0x301FC, symSize: 0x4C }
+  - { offset: 0x874D6, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter isProcessingRequests]', symObjAddr: 0xB98, symBinAddr: 0x30248, symSize: 0x5C }
+  - { offset: 0x8750D, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter cancelAllRequests]', symObjAddr: 0xBF4, symBinAddr: 0x302A4, symSize: 0xB0 }
+  - { offset: 0x8755F, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter requestManager]', symObjAddr: 0xCA4, symBinAddr: 0x30354, symSize: 0x8 }
+  - { offset: 0x87596, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter setRequestManager:]', symObjAddr: 0xCAC, symBinAddr: 0x3035C, symSize: 0xC }
+  - { offset: 0x875D7, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter taskQueue]', symObjAddr: 0xCB8, symBinAddr: 0x30368, symSize: 0xC }
+  - { offset: 0x8760E, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter setTaskQueue:]', symObjAddr: 0xCC4, symBinAddr: 0x30374, symSize: 0x8 }
+  - { offset: 0x8764D, size: 0x8, addend: 0x0, symName: '-[NetmeraAFNetworkingAdapter .cxx_destruct]', symObjAddr: 0xCCC, symBinAddr: 0x3037C, symSize: 0x30 }
+  - { offset: 0x878EE, size: 0x8, addend: 0x0, symName: _NSStringFromProperty, symObjAddr: 0x0, symBinAddr: 0x303AC, symSize: 0x1E8 }
+  - { offset: 0x878FD, size: 0x8, addend: 0x0, symName: _NSStringFromProperty, symObjAddr: 0x0, symBinAddr: 0x303AC, symSize: 0x1E8 }
+  - { offset: 0x87B24, size: 0x8, addend: 0x0, symName: '-[NSObject(Netmera) logPropertys]', symObjAddr: 0x1E8, symBinAddr: 0x30594, symSize: 0xA0 }
+  - { offset: 0x87C3F, size: 0x8, addend: 0x0, symName: '-[NSObject(Netmera) logIvars]', symObjAddr: 0x288, symBinAddr: 0x30634, symSize: 0xA0 }
+  - { offset: 0x87D2A, size: 0x8, addend: 0x0, symName: '+[NSObject(Netmera) getObjectInstanceVariable:variable:]', symObjAddr: 0x328, symBinAddr: 0x306D4, symSize: 0xD8 }
+  - { offset: 0x87E09, size: 0x8, addend: 0x0, symName: '-[NSObject(Netmera) controllerVariable]', symObjAddr: 0x400, symBinAddr: 0x307AC, symSize: 0x170 }
+  - { offset: 0x87F4D, size: 0x8, addend: 0x0, symName: '-[NSObject(Netmera) autoDescribe:classType:]', symObjAddr: 0x570, symBinAddr: 0x3091C, symSize: 0x210 }
+  - { offset: 0x881B3, size: 0x8, addend: 0x0, symName: '-[UIBarItem(ActionTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x30B2C, symSize: 0x94 }
+  - { offset: 0x881C1, size: 0x8, addend: 0x0, symName: '-[UIBarItem(ActionTracking) getActionWithSelector:]', symObjAddr: 0x0, symBinAddr: 0x30B2C, symSize: 0x94 }
+  - { offset: 0x882B9, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager initWithEventSender:stateManager:]', symObjAddr: 0x0, symBinAddr: 0x30BC0, symSize: 0xA0 }
+  - { offset: 0x882D3, size: 0x8, addend: 0x0, symName: _NetmeraUIActionKey, symObjAddr: 0x1128, symBinAddr: 0x50EB8, symSize: 0x0 }
+  - { offset: 0x882F3, size: 0x8, addend: 0x0, symName: _NetmeraSendActionNotification, symObjAddr: 0x1130, symBinAddr: 0x50EC0, symSize: 0x0 }
+  - { offset: 0x88309, size: 0x8, addend: 0x0, symName: _NetmeraSendScreenOpenNotification, symObjAddr: 0x1138, symBinAddr: 0x50EC8, symSize: 0x0 }
+  - { offset: 0x8831F, size: 0x8, addend: 0x0, symName: _NetmeraSendScreenCloseNotification, symObjAddr: 0x1140, symBinAddr: 0x50ED0, symSize: 0x0 }
+  - { offset: 0x8863D, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager initWithEventSender:stateManager:]', symObjAddr: 0x0, symBinAddr: 0x30BC0, symSize: 0xA0 }
+  - { offset: 0x88694, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager performOperationsForConfigUpdate:]', symObjAddr: 0xA0, symBinAddr: 0x30C60, symSize: 0xC }
+  - { offset: 0x886D8, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager performLaunchOperations]', symObjAddr: 0xAC, symBinAddr: 0x30C6C, symSize: 0x58 }
+  - { offset: 0x8870B, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setUpScreenTrackingFromConfigData]', symObjAddr: 0x104, symBinAddr: 0x30CC4, symSize: 0x3E0 }
+  - { offset: 0x88806, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager startTrackingScreen]', symObjAddr: 0x4E4, symBinAddr: 0x310A4, symSize: 0xBC }
+  - { offset: 0x88839, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager stopTrackingScreen]', symObjAddr: 0x5A0, symBinAddr: 0x31160, symSize: 0xA0 }
+  - { offset: 0x8886C, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager startTrackingActions]', symObjAddr: 0x640, symBinAddr: 0x31200, symSize: 0x98 }
+  - { offset: 0x8889F, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager stopTrackingActions]', symObjAddr: 0x6D8, symBinAddr: 0x31298, symSize: 0x8C }
+  - { offset: 0x888D2, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager registerApplicationLifecycleNotifications]', symObjAddr: 0x764, symBinAddr: 0x31324, symSize: 0x118 }
+  - { offset: 0x88943, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager dealloc]', symObjAddr: 0x87C, symBinAddr: 0x3143C, symSize: 0x54 }
+  - { offset: 0x88976, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager unregisterNotifications]', symObjAddr: 0x8D0, symBinAddr: 0x31490, symSize: 0x40 }
+  - { offset: 0x889A9, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager screenOpenNotification:]', symObjAddr: 0x910, symBinAddr: 0x314D0, symSize: 0xD4 }
+  - { offset: 0x88A1B, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager creteInfoWithController:]', symObjAddr: 0x9E4, symBinAddr: 0x315A4, symSize: 0x50 }
+  - { offset: 0x88A7E, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager screenCloseNotification:]', symObjAddr: 0xA34, symBinAddr: 0x315F4, symSize: 0x4 }
+  - { offset: 0x88AB9, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager willEnterForegroundNotification:]', symObjAddr: 0xA38, symBinAddr: 0x315F8, symSize: 0x4 }
+  - { offset: 0x88AF4, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager didEnterBackgroundNotification:]', symObjAddr: 0xA3C, symBinAddr: 0x315FC, symSize: 0x4 }
+  - { offset: 0x88B2F, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager sendOpenEventWithViewInfo:]', symObjAddr: 0xA40, symBinAddr: 0x31600, symSize: 0x100 }
+  - { offset: 0x88BCF, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager sendCloseEventWithViewInfo:]', symObjAddr: 0xB40, symBinAddr: 0x31700, symSize: 0x4 }
+  - { offset: 0x88C0A, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager handleUIActionNotification:]', symObjAddr: 0xB44, symBinAddr: 0x31704, symSize: 0xB0 }
+  - { offset: 0x88C5D, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager sendUIActionEventWithName:value:type:]', symObjAddr: 0xBF4, symBinAddr: 0x317B4, symSize: 0xEC }
+  - { offset: 0x88D19, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager encryptor]', symObjAddr: 0xCE0, symBinAddr: 0x318A0, symSize: 0x8 }
+  - { offset: 0x88D50, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setEncryptor:]', symObjAddr: 0xCE8, symBinAddr: 0x318A8, symSize: 0xC }
+  - { offset: 0x88D91, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager eventSender]', symObjAddr: 0xCF4, symBinAddr: 0x318B4, symSize: 0x18 }
+  - { offset: 0x88DC8, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setEventSender:]', symObjAddr: 0xD0C, symBinAddr: 0x318CC, symSize: 0xC }
+  - { offset: 0x88E09, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager stateManager]', symObjAddr: 0xD18, symBinAddr: 0x318D8, symSize: 0x18 }
+  - { offset: 0x88E40, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setStateManager:]', symObjAddr: 0xD30, symBinAddr: 0x318F0, symSize: 0xC }
+  - { offset: 0x88E81, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager shouldSendScreenEvent]', symObjAddr: 0xD3C, symBinAddr: 0x318FC, symSize: 0x8 }
+  - { offset: 0x88EB8, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setShouldSendScreenEvent:]', symObjAddr: 0xD44, symBinAddr: 0x31904, symSize: 0x8 }
+  - { offset: 0x88EF3, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager shouldSendInputFlow]', symObjAddr: 0xD4C, symBinAddr: 0x3190C, symSize: 0x8 }
+  - { offset: 0x88F2A, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setShouldSendInputFlow:]', symObjAddr: 0xD54, symBinAddr: 0x31914, symSize: 0x8 }
+  - { offset: 0x88F65, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager screenTracking]', symObjAddr: 0xD5C, symBinAddr: 0x3191C, symSize: 0x8 }
+  - { offset: 0x88F9C, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setScreenTracking:]', symObjAddr: 0xD64, symBinAddr: 0x31924, symSize: 0x8 }
+  - { offset: 0x88FD7, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager actionTracking]', symObjAddr: 0xD6C, symBinAddr: 0x3192C, symSize: 0x8 }
+  - { offset: 0x8900E, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setActionTracking:]', symObjAddr: 0xD74, symBinAddr: 0x31934, symSize: 0x8 }
+  - { offset: 0x89049, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager includeUIActions]', symObjAddr: 0xD7C, symBinAddr: 0x3193C, symSize: 0x8 }
+  - { offset: 0x89080, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setIncludeUIActions:]', symObjAddr: 0xD84, symBinAddr: 0x31944, symSize: 0xC }
+  - { offset: 0x890C1, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager includeViewAction]', symObjAddr: 0xD90, symBinAddr: 0x31950, symSize: 0x8 }
+  - { offset: 0x890F8, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setIncludeViewAction:]', symObjAddr: 0xD98, symBinAddr: 0x31958, symSize: 0xC }
+  - { offset: 0x89139, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager isTestUser]', symObjAddr: 0xDA4, symBinAddr: 0x31964, symSize: 0x8 }
+  - { offset: 0x89170, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager setIsTestUser:]', symObjAddr: 0xDAC, symBinAddr: 0x3196C, symSize: 0x8 }
+  - { offset: 0x891AB, size: 0x8, addend: 0x0, symName: '-[NetmeraScreenTrackingManager .cxx_destruct]', symObjAddr: 0xDB4, symBinAddr: 0x31974, symSize: 0x4C }
+  - { offset: 0x89309, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) setTargetName:]', symObjAddr: 0x0, symBinAddr: 0x319C0, symSize: 0x10 }
+  - { offset: 0x89317, size: 0x8, addend: 0x0, symName: '+[UITapGestureRecognizer(Tracking) swizzle]', symObjAddr: 0x38, symBinAddr: 0x319F8, symSize: 0x6C }
+  - { offset: 0x8933D, size: 0x8, addend: 0x0, symName: _swizzle.onceToken, symObjAddr: 0x3C90, symBinAddr: 0x65B60, symSize: 0x0 }
+  - { offset: 0x89395, size: 0x8, addend: 0x0, symName: '+[UITapGestureRecognizer(Tracking) unSwizzle]', symObjAddr: 0x1F0, symBinAddr: 0x31BB0, symSize: 0x6C }
+  - { offset: 0x893BB, size: 0x8, addend: 0x0, symName: _unSwizzle.onceToken, symObjAddr: 0x3C98, symBinAddr: 0x65B68, symSize: 0x0 }
+  - { offset: 0x89418, size: 0x8, addend: 0x0, symName: _kTargetKey, symObjAddr: 0x648, symBinAddr: 0x3CC38, symSize: 0x0 }
+  - { offset: 0x8943A, size: 0x8, addend: 0x0, symName: _kOriginActionKey, symObjAddr: 0x649, symBinAddr: 0x3CC39, symSize: 0x0 }
+  - { offset: 0x89444, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) setTargetName:]', symObjAddr: 0x0, symBinAddr: 0x319C0, symSize: 0x10 }
+  - { offset: 0x894F7, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) targetName]', symObjAddr: 0x10, symBinAddr: 0x319D0, symSize: 0xC }
+  - { offset: 0x8955B, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) setOriginActionName:]', symObjAddr: 0x1C, symBinAddr: 0x319DC, symSize: 0x10 }
+  - { offset: 0x895C1, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) originActionName]', symObjAddr: 0x2C, symBinAddr: 0x319EC, symSize: 0xC }
+  - { offset: 0x8965C, size: 0x8, addend: 0x0, symName: '___43+[UITapGestureRecognizer(Tracking) swizzle]_block_invoke', symObjAddr: 0xA4, symBinAddr: 0x31A64, symSize: 0x14C }
+  - { offset: 0x8970C, size: 0x8, addend: 0x0, symName: '___45+[UITapGestureRecognizer(Tracking) unSwizzle]_block_invoke', symObjAddr: 0x25C, symBinAddr: 0x31C1C, symSize: 0x94 }
+  - { offset: 0x8974B, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) netmera_initWithTarget:action:]', symObjAddr: 0x2F0, symBinAddr: 0x31CB0, symSize: 0x68 }
+  - { offset: 0x897A2, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) netmera_addTarget:action:]', symObjAddr: 0x358, symBinAddr: 0x31D18, symSize: 0xB8 }
+  - { offset: 0x89863, size: 0x8, addend: 0x0, symName: '-[UITapGestureRecognizer(Tracking) netmera_trackTapGestureAction:]', symObjAddr: 0x410, symBinAddr: 0x31DD0, symSize: 0x228 }
+  - { offset: 0x89A65, size: 0x8, addend: 0x0, symName: '+[UIColor(Netmera) colorFromHexCode:]', symObjAddr: 0x0, symBinAddr: 0x31FF8, symSize: 0x290 }
+  - { offset: 0x89A73, size: 0x8, addend: 0x0, symName: '+[UIColor(Netmera) colorFromHexCode:]', symObjAddr: 0x0, symBinAddr: 0x31FF8, symSize: 0x290 }
+  - { offset: 0x89B87, size: 0x8, addend: 0x0, symName: '+[NetmeraSwizzle swizzleMethod:withMethod:error:class:]', symObjAddr: 0x0, symBinAddr: 0x32288, symSize: 0x204 }
+  - { offset: 0x89BA8, size: 0x8, addend: 0x0, symName: '+[NetmeraSwizzle swizzleMethod:withMethod:error:class:]', symObjAddr: 0x0, symBinAddr: 0x32288, symSize: 0x204 }
+  - { offset: 0x89EA2, size: 0x8, addend: 0x0, symName: '+[NetmeraSwizzle injectSelector:originalSel:replacedClass:replacedSel:]', symObjAddr: 0x204, symBinAddr: 0x3248C, symSize: 0xD4 }
+  - { offset: 0x8A0A7, size: 0x8, addend: 0x0, symName: '+[NetmeraSwizzle(NetmeraExtension) hook_methodWithOriginalClass:originalSel:replacedClass:replacedSel:]', symObjAddr: 0x2D8, symBinAddr: 0x32560, symSize: 0x23C }
+  - { offset: 0x8A393, size: 0x8, addend: 0x0, symName: '-[UIView(FindUIViewController) firstAvailableUIViewController]', symObjAddr: 0x0, symBinAddr: 0x3279C, symSize: 0x78 }
+  - { offset: 0x8A3A1, size: 0x8, addend: 0x0, symName: '-[UIView(FindUIViewController) firstAvailableUIViewController]', symObjAddr: 0x0, symBinAddr: 0x3279C, symSize: 0x78 }
+  - { offset: 0x8A3E8, size: 0x8, addend: 0x0, symName: '-[UIView(FindUIViewController) netmeraPathWithSelector:]', symObjAddr: 0x78, symBinAddr: 0x32814, symSize: 0x98 }
 ...

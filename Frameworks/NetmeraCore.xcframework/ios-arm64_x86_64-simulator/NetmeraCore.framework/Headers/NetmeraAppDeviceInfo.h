@@ -16,6 +16,7 @@
 @property (nonatomic, copy) NSString *locale;
 @property (nonatomic, copy) NSString *manufacturer;
 @property (nonatomic, copy) NSString *deviceModel;
+@property (nonatomic, copy) NSString *region;
 
 
 @end

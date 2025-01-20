@@ -74,5 +74,6 @@ typedef NS_OPTIONS(NSUInteger, NetmeraInboxStatus) {
 @property (nonatomic, strong, readonly) NSArray<NetmeraUserNotificationAction *> *interactiveActions;
 @property (nonatomic, strong, readonly) NetmeraPushStyle *pushStyle;
 @property (nonatomic, assign, readonly) BOOL isThumbnail;
+@property (nonatomic, assign, readonly) BOOL instantShow;
 
 @end

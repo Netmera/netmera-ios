@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AFNetworking",
+        "repositoryURL": "https://github.com/AFNetworking/AFNetworking.git",
+        "state": {
+          "branch": null,
+          "revision": "ffae2391ab0c29dc88eb0a58d2f5b2c2c27cadbf",
+          "version": "4.0.1"
+        }
+      },
+      {
+        "package": "FMDB",
+        "repositoryURL": "https://github.com/ccgus/fmdb",
+        "state": {
+          "branch": null,
+          "revision": "1227a3fa2b9916bfd75fe380eb45cd210e69e251",
+          "version": "2.7.12"
+        }
+      },
+      {
+        "package": "MMWormhole",
+        "repositoryURL": "https://github.com/netmera-emmar/MMWormhole.git",
+        "state": {
+          "branch": null,
+          "revision": "8032f74e47e876bc991b3174f8e60d7546ba8615",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "UICKeyChainStore",
+        "repositoryURL": "https://github.com/kishikawakatsumi/UICKeyChainStore.git",
+        "state": {
+          "branch": null,
+          "revision": "8220ac38124613fb709508426f75fbac6921e261",
+          "version": "2.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

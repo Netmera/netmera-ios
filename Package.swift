@@ -21,6 +21,23 @@ let package = Package(
   ],
   dependencies: [
     // Dependencies declare other packages that this package depends on.
+    .package(
+      url: "https://github.com/AFNetworking/AFNetworking.git",
+      .upToNextMajor(from: "4.0.1")
+    ),
+    .package(
+      name: "FMDB",
+      url: "https://github.com/ccgus/fmdb",
+      .upToNextMajor(from: "2.7.7")
+    ),
+    .package(
+      url: "https://github.com/kishikawakatsumi/UICKeyChainStore.git",
+      .upToNextMajor(from: "2.2.1")
+    ),
+    .package(
+      url: "https://github.com/netmera-emmar/MMWormhole.git",
+      .upToNextMajor(from: "2.1.0")
+    )
   ],
   targets: [
     // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -45,21 +62,16 @@ let package = Package(
       name: "NetmeraNotificationContentExtension",
       path: "Frameworks/NetmeraNotificationContentExtension.xcframework"
     ),
-    // Third party dependencies
-    .binaryTarget(name: "AFNetworking", path: "Frameworks/AFNetworking.xcframework"),
-    .binaryTarget(name: "FMDB", path: "Frameworks/FMDB.xcframework"),
-    .binaryTarget(name: "MMWormhole", path: "Frameworks/MMWormhole.xcframework"),
-    .binaryTarget(name: "UICKeyChainStore", path: "Frameworks/UICKeyChainStore.xcframework"),
     .target(
       name: "NetmeraWrapper",
       dependencies: [
         .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
         .target(name: "NetmeraAdId", condition: .when(platforms: [.iOS])),
         .target(name: "Netmera", condition: .when(platforms: [.iOS])),
-        .target(name: "AFNetworking", condition: .when(platforms: [.iOS])),
-        .target(name: "FMDB", condition: .when(platforms: [.iOS])),
-        .target(name: "MMWormhole", condition: .when(platforms: [.iOS])),
-        .target(name: "UICKeyChainStore", condition: .when(platforms: [.iOS])),
+        .product(name: "AFNetworking", package: "AFNetworking"),
+        .product(name: "FMDB", package: "FMDB"),
+        .product(name: "UICKeyChainStore", package: "UICKeyChainStore"),
+        .product(name: "MMWormhole", package: "MMWormhole"),
       ],
       linkerSettings: [
         .linkedLibrary("sqlite3"),
@@ -73,7 +85,7 @@ let package = Package(
             dependencies: [
               .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
               .target(name: "NetmeraNotificationContentExtension", condition: .when(platforms: [.iOS])),
-              .target(name: "MMWormhole", condition: .when(platforms: [.iOS])),
+              .product(name: "MMWormhole", package: "MMWormhole"),
             ]),
     .target(name: "NetmeraNotificationServiceExtensionWrapper",
             dependencies: [

@@ -46,20 +46,12 @@ let package = Package(
       path: "Frameworks/NetmeraNotificationContentExtension.xcframework"
     ),
     // Third party dependencies
-    .binaryTarget(name: "AFNetworking", path: "Frameworks/AFNetworking.xcframework"),
-    .binaryTarget(name: "FMDB", path: "Frameworks/FMDB.xcframework"),
-    .binaryTarget(name: "MMWormhole", path: "Frameworks/MMWormhole.xcframework"),
-    .binaryTarget(name: "UICKeyChainStore", path: "Frameworks/UICKeyChainStore.xcframework"),
     .target(
       name: "NetmeraWrapper",
       dependencies: [
         .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
         .target(name: "NetmeraAdId", condition: .when(platforms: [.iOS])),
         .target(name: "Netmera", condition: .when(platforms: [.iOS])),
-        .target(name: "AFNetworking", condition: .when(platforms: [.iOS])),
-        .target(name: "FMDB", condition: .when(platforms: [.iOS])),
-        .target(name: "MMWormhole", condition: .when(platforms: [.iOS])),
-        .target(name: "UICKeyChainStore", condition: .when(platforms: [.iOS])),
       ],
       linkerSettings: [
         .linkedLibrary("sqlite3"),
@@ -73,7 +65,6 @@ let package = Package(
             dependencies: [
               .target(name: "NetmeraCore", condition: .when(platforms: [.iOS])),
               .target(name: "NetmeraNotificationContentExtension", condition: .when(platforms: [.iOS])),
-              .target(name: "MMWormhole", condition: .when(platforms: [.iOS])),
             ]),
     .target(name: "NetmeraNotificationServiceExtensionWrapper",
             dependencies: [

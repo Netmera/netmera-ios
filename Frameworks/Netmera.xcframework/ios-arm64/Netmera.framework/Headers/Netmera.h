@@ -338,9 +338,6 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)sendEvent:(__kindof NetmeraEvent *)event;
 
-
-+ (void)sendCrashReportEvent:(__kindof NetmeraEvent *)event;
-
 /**
  @brief //
 

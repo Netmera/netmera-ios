@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/NetmeraAppConfig.h</key>
 		<data>
-		tHN3hcYptXRmRekBeMspmTRGYss=
+		SwfMknKJA1foz5T3GtdEBdzfJPI=
 		</data>
 		<key>Headers/NetmeraAppConfigRequest.h</key>
 		<data>
@@ -119,10 +119,6 @@
 		<key>Headers/NetmeraCouponObject.h</key>
 		<data>
 		1ZDE/DCqrP6/uYrYObKBYVmCl5U=
-		</data>
-		<key>Headers/NetmeraCrashEvent.h</key>
-		<data>
-		hTKlhBZyMiKy/GoH6P3itmUVEes=
 		</data>
 		<key>Headers/NetmeraDeepLinkAction.h</key>
 		<data>
@@ -278,7 +274,7 @@
 		</data>
 		<key>Headers/NetmeraInternalEvents.h</key>
 		<data>
-		ImW6IEzpguvjEnSLxZH42LXPkaw=
+		rpDoJtnvWtnrL2c76nNZp9HTCzo=
 		</data>
 		<key>Headers/NetmeraJSONSerializer.h</key>
 		<data>
@@ -615,11 +611,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tHN3hcYptXRmRekBeMspmTRGYss=
+			SwfMknKJA1foz5T3GtdEBdzfJPI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Zl8NJ9cNUBI2YXHdm4SHMWBa7v55MZqyFRw1k0CICCc=
+			mYuPtX4eiBSp0lsOwvEbcU0QoymBjVWVDIWMdD1zLZg=
 			</data>
 		</dict>
 		<key>Headers/NetmeraAppConfigRequest.h</key>
@@ -884,17 +880,6 @@
 			<key>hash2</key>
 			<data>
 			0lCOmIBREwLePnJ3RBjUOrNv57+diSAzaa1ZVBfc1nY=
-			</data>
-		</dict>
-		<key>Headers/NetmeraCrashEvent.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hTKlhBZyMiKy/GoH6P3itmUVEes=
-			</data>
-			<key>hash2</key>
-			<data>
-			HiJbz4slJirJk8/D7WEMLxEXEvzhmf9DPemqGEm46vQ=
 			</data>
 		</dict>
 		<key>Headers/NetmeraDeepLinkAction.h</key>
@@ -1319,11 +1304,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ImW6IEzpguvjEnSLxZH42LXPkaw=
+			rpDoJtnvWtnrL2c76nNZp9HTCzo=
 			</data>
 			<key>hash2</key>
 			<data>
-			rI6qsp7qZmvYU4DW4N5TGhizBCfb0zUj5XwXX30qYu0=
+			aoLe5lDmEhlbCwQ64QyAUmOmkzpwKeBlauaIT1eCzY0=
 			</data>
 		</dict>
 		<key>Headers/NetmeraJSONSerializer.h</key>

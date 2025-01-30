@@ -16,7 +16,6 @@
 #import <NetmeraCore/NetmeraPushReceivedEvent.h>
 #import <NetmeraCore/NetmeraGeofenceEvent.h>
 #import <NetmeraCore/NetmeraPushDismissEvent.h>
-#import <NetmeraCore/NetmeraCrashEvent.h>
 #import <NetmeraCore/NetmeraPopupShownEvent.h>
 #import <NetmeraCore/NetmeraBatteryLevelEvent.h>
 

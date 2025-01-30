@@ -34,7 +34,6 @@
 @property (nonatomic, assign) BOOL shouldSendInAppPurchaseEvent;
 @property (nonatomic, strong) NSArray<NetmeraTrackableScreenInfo *> *trackableScreens;
 @property (nonatomic, strong) NSArray<NetmeraTrackableActionInfo *> *trackableActions;
-@property (nonatomic, assign) BOOL shouldTrackException;
 @property (nonatomic, assign) BOOL isTestUser;
 @property (nonatomic, assign) NSTimeInterval eventPostTimeInterval;
 @property (nonatomic, strong) NSString *appKey;

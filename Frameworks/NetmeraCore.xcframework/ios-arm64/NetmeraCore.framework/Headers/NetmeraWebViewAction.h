@@ -22,4 +22,6 @@
 @property (nonatomic) double timeToLive;
 @property (nonatomic) double borderRadius;
 
+@property (nonatomic) BOOL isWidget;
+
 @end

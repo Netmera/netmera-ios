@@ -15,7 +15,8 @@ typedef NS_ENUM(NSUInteger, NetmeraActionType) {
   NetmeraActionTypeDoNothing = 3,
   NetmeraActionTypeSendEvent = 4,
   NetmeraActionTypeShare = 5,
-  NetmeraActionTypeReview = 6
+  NetmeraActionTypeReview = 6,
+  NetmeraActionTypeWidget = 7
 };
 
 /**

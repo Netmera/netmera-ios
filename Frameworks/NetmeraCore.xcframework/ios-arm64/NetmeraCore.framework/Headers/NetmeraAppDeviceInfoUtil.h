@@ -33,6 +33,7 @@
 + (NSString *)orientation;
 + (NSString *)OpenGLESversion;
 + (BOOL)isJailbroken;
++ (NSString *)timezone;
 
 + (NetmeraAppDeviceInfo *)currentAppDeviceInfo;
 + (NetmeraAppAllDeviceInfo *)allDeviceInfo;

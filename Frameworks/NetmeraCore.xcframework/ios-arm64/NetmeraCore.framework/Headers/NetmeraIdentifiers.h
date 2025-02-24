@@ -31,6 +31,7 @@
 @property (nonatomic, copy) NSNumber *abTestId;
 @property (nonatomic, copy) NSNumber *abTestOptionId;
 @property (nonatomic, copy) NSNumber *slotId;
+@property (nonatomic, copy) NSString *timezone;
 
 - (void)removePropertiesSameWithIdentifiers:(NetmeraIdentifiers *)identifiers;
 

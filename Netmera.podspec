@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Netmera'
-  s.version          = '3.24.13'
+  s.version          = '3.25.0'
   s.summary          = 'iOS SDK for Netmera mobile app engagement platform'
 
   s.description      = <<-DESC
@@ -43,7 +43,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '10.0'
 
-  s.frameworks = 'Foundation', 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreServices', 'CoreTelephony', 'CoreLocation', 'WebKit', 'QuartzCore', 'OpenGLES'
+  s.frameworks = 'Foundation', 'UIKit', 'CoreGraphics', 'SystemConfiguration', 'CoreServices', 'CoreTelephony', 'CoreLocation', 'WebKit', 'QuartzCore', 'OpenGLES', 'MobileCoreServices'
 
   s.weak_frameworks = 'UserNotifications', 'StoreKit', 'WatchConnectivity'
   s.libraries   = 'sqlite3'
@@ -62,7 +62,6 @@ Pod::Spec.new do |s|
 
   s.subspec 'Application' do |ss|
     ss.vendored_frameworks = 'Frameworks/Netmera.xcframework'
-    ss.dependency 'AFNetworking/NSURLSession', '>= 3.1.0'
     ss.dependency 'NetmeraCore', s.version.to_s
     ss.dependency 'MMWormhole', '~> 2.0.0'
     ss.dependency 'FMDB'

@@ -26,7 +26,6 @@
 #import <NetmeraCore/NetmeraSetUserCategoryRequest.h>
 #import <NetmeraCore/NetmeraFetchInboxCountRequest.h>
 #import <NetmeraCore/NetmeraFetchUserCategoryRequest.h>
-#import <NetmeraCore/NetmeraRemoteConfigRequest.h>
 #import <NetmeraCore/NetmeraEmailSubscribeRequest.h>
 #import <NetmeraCore/NetmeraFetchCouponRequest.h>
 

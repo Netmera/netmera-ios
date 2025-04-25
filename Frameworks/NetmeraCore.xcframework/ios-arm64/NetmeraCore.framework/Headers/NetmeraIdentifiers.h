@@ -28,8 +28,6 @@
 @property (nonatomic, copy) NSString *pushId;
 @property (nonatomic, copy) NSString *pushInstanceId;
 @property (nonatomic, copy) NSString *flowId;
-@property (nonatomic, copy) NSNumber *abTestId;
-@property (nonatomic, copy) NSNumber *abTestOptionId;
 @property (nonatomic, copy) NSNumber *slotId;
 @property (nonatomic, copy) NSString *timezone;
 

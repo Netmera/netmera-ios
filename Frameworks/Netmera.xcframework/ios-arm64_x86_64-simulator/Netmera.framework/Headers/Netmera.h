@@ -403,13 +403,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 #pragma mark - Push Notification
 
-@interface Netmera (RemoteConfig)
-
-+ (nullable NSDictionary<NSString*, NSDictionary<NSString*, id>*> *)remoteConfig;
-
-@end
-
-
 @interface Netmera (EmailSubscription)
 
 /**

@@ -31,6 +31,7 @@
 @property (nonatomic, assign) int batteryLevelLimit;
 @property (nonatomic, assign) BOOL shouldSendScreenEvent;
 @property (nonatomic, assign) BOOL shouldSendInputFlow;
+@property (nonatomic, assign) BOOL shouldSendInputValue;
 @property (nonatomic, assign) BOOL shouldSendInAppPurchaseEvent;
 @property (nonatomic, strong) NSArray<NetmeraTrackableScreenInfo *> *trackableScreens;
 @property (nonatomic, strong) NSArray<NetmeraTrackableActionInfo *> *trackableActions;

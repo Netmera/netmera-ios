@@ -12,9 +12,12 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface NetmeraUIControlAction : NSObject
 
-@property(nonatomic, strong) NSString *itemId;
+@property(nonatomic, strong) NSString *selectorNamePath;
 @property(nonatomic, strong) NSString *value;
 @property(nonatomic, assign) NetmeraUIActionType actionType;
+@property(nonatomic, strong) NSString *preferredIdentifier;
+
+- (NSString *)composedIdentifierWithIncludeIdentifier:(BOOL)includeIdentifier;
 
 @end
 
